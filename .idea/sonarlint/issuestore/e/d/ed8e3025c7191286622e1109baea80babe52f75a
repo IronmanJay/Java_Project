@@ -1,0 +1,12 @@
+
+J
+java:S1172*"-Remove this unused method parameter "vertex".(õŸÀ©8Šñ„Í‹.
+†
+java:S4165+"dRemove this useless assignment; "vertex" already holds the assigned value along all execution paths.(Öå×¥ÿÿÿÿÿ8Ú¿„Í‹.
+J
+java:S1199R"-Extract this nested code block into a method.(ÜÙ¼ð8„–®Í‹.
+V
+java:S11177":Rename "vertex" which hides the field declared at line 31.(‹þ€^8ðõŒÍ‹.
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(³µ§ãüÿÿÿÿ
+Q
+java:S1656+"/Remove or correct this useless self-assignment.(Öå×¥ÿÿÿÿÿ8Šñ„Í‹.

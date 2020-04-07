@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="spring-tx-4.0.0.RELEASE">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/Spring/lib/spring-tx-4.0.0.RELEASE.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

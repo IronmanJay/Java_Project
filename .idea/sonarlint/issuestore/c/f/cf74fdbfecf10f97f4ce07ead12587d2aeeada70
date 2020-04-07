@@ -1,0 +1,5 @@
+
+c
+java:S2142,"FEither re-interrupt this method or rethrow the "InterruptedException".(ä ¹€8ú½¯œŠ.
+{	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(´½Û¢øÿÿÿÿ8óë¯œŠ.
+E	java:S108,")Either remove or fill this block of code.(ä ¹€8ú½¯œŠ.

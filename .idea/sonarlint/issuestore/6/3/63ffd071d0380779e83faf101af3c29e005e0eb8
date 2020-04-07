@@ -1,0 +1,10 @@
+
+ˆ"squid:ClassVariableVisibilityCheckf"NMake id a static final constant or non-public and provide accessors if needed.(ÍéÌ‘øÿÿÿÿ8Ô²ç¥‡.
+nsquid:S3457W"Q%n should be used in place of \n to produce the platform-specific line separator.(¿˜ôV8ÊÀä¦‡.
+…"squid:ClassVariableVisibilityCheckg"PMake name a static final constant or non-public and provide accessors if needed.( þÍ¾8Ô²ç¥‡.
+rsquid:S00120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(Þ¦™í
+…"squid:ClassVariableVisibilityCheckh"PMake next a static final constant or non-public and provide accessors if needed.(©ÔÂÇ8Ô²ç¥‡.
+i
+squid:S128&"LEnd this switch case with an unconditional break, return or throw statement.(þŽû·8äõ«¦‡.
+|
+squid:S135¨"YReduce the total number of break and continue statements in this loop to use at most one.(˜ïˆžÿÿÿÿÿ8ˆêî¦‡.

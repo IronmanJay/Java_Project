@@ -1,0 +1,7 @@
+
+ksquid:S1192"TDefine a constant instead of duplicating this literal "èŠ±è´¹çš„æ—¶é—´ä¸º:" 3 times.(€áÏÌ
+[squid:S2147U"DCombine this catch with the one at line 83, which has the same body.(”ı¾
+[squid:S2147"DCombine this catch with the one at line 25, which has the same body.(”ı¾
+bsquid:S1192"FDefine a constant instead of duplicating this literal "name_" 3 times.(ïÜĞ·øÿÿÿÿ
+[squid:S21477"DCombine this catch with the one at line 53, which has the same body.(”ı¾
+xsquid:S1192"aDefine a constant instead of duplicating this literal "insert into goods(name)values(?)" 3 times.(ŞÁÈ¼

@@ -1,0 +1,20 @@
+
+c
+java:S2142]"FEither re-interrupt this method or rethrow the "InterruptedException".(‰†πÄ8Û‡»¢ä.
+E
+java:S1604""(Make this anonymous inner class a lambda(…„√Æ8–∆œ¢ä.
+c
+java:S2142G"FEither re-interrupt this method or rethrow the "InterruptedException".(‰†πÄ8ŸÖ¡¢ä.
+o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(®–≈˝
+X
+java:S2274j";Remove this call to "await" or move it into a "while" loop.(ˇ’¿…8Û‡»¢ä.
+E
+java:S1604"(Make this anonymous inner class a lambda(…„√Æ8õ◊Õ¢ä.
+X
+java:S2274T";Remove this call to "await" or move it into a "while" loop.(¸πñ÷8Û‡»¢ä.
+c
+java:S2142s"FEither re-interrupt this method or rethrow the "InterruptedException".(‰†πÄ8Û‡»¢ä.
+X
+java:S2274>";Remove this call to "await" or move it into a "while" loop.(∆·Å—8ŸÖ¡¢ä.
+E
+java:S1604"(Make this anonymous inner class a lambda(…„√Æ8–∆œ¢ä.

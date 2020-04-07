@@ -1,0 +1,5 @@
+
+wsquid:S2293X"YReplace the type specification in this constructor call with the diamond operator ("<>").(Á›ŞÍ8§Çüı-
+Isquid:S1168n"+Return an empty collection instead of null.(¥¹ï8§Çüı-
+Tsquid:S1610	"7Convert the abstract class "BaseDAO" into an interface.(’¬›+8¡šÂüı-
+rsquid:S00120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(Ä”òª

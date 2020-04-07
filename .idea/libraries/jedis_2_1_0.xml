@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="jedis-2.1.0">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/Redis/web/WEB-INF/lib/jedis-2.1.0.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

@@ -1,0 +1,291 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="5d6e4789-e08c-4bc5-b1e4-64aa8315f078" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CompilerWorkspaceConfiguration">
+    <option name="MAKE_PROJECT_ON_SAVE" value="true" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="FindBugs-IDEA-Workspace">
+    <toolWindowEditorPreview>false</toolWindowEditorPreview>
+  </component>
+  <component name="ProjectId" id="1WSds1kMNuQtWjCVf9V6424zr2I" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DatabaseDriversLRU" value="mysql" />
+    <property name="Downloaded.Files.Path.Enabled" value="false" />
+    <property name="Repository.Attach.Annotations" value="false" />
+    <property name="Repository.Attach.JavaDocs" value="false" />
+    <property name="Repository.Attach.Sources" value="false" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="MTConfigurable" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\Software\Java Project\libs" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\Software\Java Project\libs" />
+      <recent name="D:\Software\Java Project" />
+      <recent name="D:\Software\Java Project\src\preparedstatement\curd" />
+      <recent name="D:\Software\Java Project\src" />
+      <recent name="D:\Software\Java Project\src\JDBC" />
+    </key>
+  </component>
+  <component name="RunManager" selected="JUnit.InsertTest.testInsert2">
+    <configuration name="Exer2Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="JDBC.jdbctest.Exer2Test" />
+      <module name="Java Project" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="JDBC.jdbctest.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="BlobTest.testInsert" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Java Project" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="JDBC.blob.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="JDBC.blob" />
+      <option name="MAIN_CLASS_NAME" value="JDBC.blob.BlobTest" />
+      <option name="METHOD_NAME" value="testInsert" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="BlobTest.testQuery" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Java Project" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="JDBC.blob.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="JDBC.blob" />
+      <option name="MAIN_CLASS_NAME" value="JDBC.blob.BlobTest" />
+      <option name="METHOD_NAME" value="testQuery" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="InsertTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Java Project" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="JDBC.blob.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="JDBC.blob" />
+      <option name="MAIN_CLASS_NAME" value="JDBC.blob.InsertTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="InsertTest.testInsert2" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Java Project" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="JDBC.blob.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="JDBC.blob" />
+      <option name="MAIN_CLASS_NAME" value="JDBC.blob.InsertTest" />
+      <option name="METHOD_NAME" value="testInsert2" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.InsertTest.testInsert2" />
+        <item itemvalue="JUnit.InsertTest" />
+        <item itemvalue="JUnit.BlobTest.testInsert" />
+        <item itemvalue="JUnit.BlobTest.testQuery" />
+        <item itemvalue="Application.Exer2Test" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="5d6e4789-e08c-4bc5-b1e4-64aa8315f078" name="Default Changelist" comment="" />
+      <created>1579147133039</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1579147133039</updated>
+      <workItem from="1579147136626" duration="3847000" />
+      <workItem from="1579151036721" duration="392000" />
+      <workItem from="1579151448496" duration="279000" />
+      <workItem from="1579151743753" duration="255000" />
+      <workItem from="1579152017098" duration="71000" />
+      <workItem from="1579161754835" duration="606000" />
+      <workItem from="1579179152081" duration="2801000" />
+      <workItem from="1579254190145" duration="119000" />
+      <workItem from="1579254350584" duration="5375000" />
+      <workItem from="1579346705415" duration="2204000" />
+      <workItem from="1579352040356" duration="2015000" />
+      <workItem from="1579523501809" duration="1979000" />
+      <workItem from="1579760838585" duration="4550000" />
+      <workItem from="1579851266070" duration="2741000" />
+      <workItem from="1579920203974" duration="2351000" />
+      <workItem from="1579923008025" duration="7000" />
+      <workItem from="1579923055535" duration="2000" />
+      <workItem from="1579923117865" duration="24000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="361" y="76" width="814" height="730" key="#Intentions" timestamp="1579150766505">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="361" y="76" width="814" height="730" key="#Intentions/0.0.1536.834@0.0.1536.834" timestamp="1579150766505" />
+    <state x="361" y="76" key="#SQL_Dialects" timestamp="1579524050266">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="361" y="76" key="#SQL_Dialects/0.0.1536.834@0.0.1536.834" timestamp="1579524050266" />
+    <state x="361" y="76" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1579148723411">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="361" y="76" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1536.834@0.0.1536.834" timestamp="1579148723411" />
+    <state x="290" y="116" key="#com.intellij.ide.util.MemberChooser" timestamp="1579762970653">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="290" y="116" key="#com.intellij.ide.util.MemberChooser/0.0.1536.834@0.0.1536.834" timestamp="1579762970653" />
+    <state x="387" y="163" key="FileChooserDialogImpl" timestamp="1579922966984">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="387" y="163" key="FileChooserDialogImpl/0.0.1536.834@0.0.1536.834" timestamp="1579922966984" />
+    <state width="1022" height="109" key="GridCell.Tab.0.bottom" timestamp="1579922532472">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state width="1022" height="109" key="GridCell.Tab.0.bottom/0.0.1536.834@0.0.1536.834" timestamp="1579922532472" />
+    <state width="1022" height="109" key="GridCell.Tab.0.center" timestamp="1579922532472">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state width="1022" height="109" key="GridCell.Tab.0.center/0.0.1536.834@0.0.1536.834" timestamp="1579922532472" />
+    <state width="1022" height="109" key="GridCell.Tab.0.left" timestamp="1579922532472">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state width="1022" height="109" key="GridCell.Tab.0.left/0.0.1536.834@0.0.1536.834" timestamp="1579922532472" />
+    <state width="1022" height="109" key="GridCell.Tab.0.right" timestamp="1579922532472">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state width="1022" height="109" key="GridCell.Tab.0.right/0.0.1536.834@0.0.1536.834" timestamp="1579922532472" />
+    <state width="1022" height="202" key="GridCell.Tab.1.bottom" timestamp="1579765501234">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state width="1022" height="202" key="GridCell.Tab.1.bottom/0.0.1536.834@0.0.1536.834" timestamp="1579765501234" />
+    <state width="1022" height="202" key="GridCell.Tab.1.center" timestamp="1579765501234">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state width="1022" height="202" key="GridCell.Tab.1.center/0.0.1536.834@0.0.1536.834" timestamp="1579765501234" />
+    <state width="1022" height="202" key="GridCell.Tab.1.left" timestamp="1579765501233">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state width="1022" height="202" key="GridCell.Tab.1.left/0.0.1536.834@0.0.1536.834" timestamp="1579765501233" />
+    <state width="1022" height="202" key="GridCell.Tab.1.right" timestamp="1579765501234">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state width="1022" height="202" key="GridCell.Tab.1.right/0.0.1536.834@0.0.1536.834" timestamp="1579765501234" />
+    <state x="349" y="72" key="Registry" timestamp="1579147666369">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="349" y="72" key="Registry/0.0.1536.834@0.0.1536.834" timestamp="1579147666369" />
+    <state x="35" y="0" key="SettingsEditor" timestamp="1579922415125">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="35" y="0" key="SettingsEditor/0.0.1536.834@0.0.1536.834" timestamp="1579922415125" />
+    <state x="485" y="305" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD" timestamp="1579150488476">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="485" y="305" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD/0.0.1536.834@0.0.1536.834" timestamp="1579150488476" />
+    <state x="89" y="164" key="extract.method.dialog" timestamp="1579764690860">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="89" y="164" key="extract.method.dialog/0.0.1536.834@0.0.1536.834" timestamp="1579764690860" />
+    <state x="178" y="0" key="new project wizard" timestamp="1579147161790">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="178" y="0" key="new project wizard/0.0.1536.834@0.0.1536.834" timestamp="1579147161790" />
+    <state x="3" y="180" key="run.anything.popup" timestamp="1579179992180">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="3" y="180" key="run.anything.popup/0.0.1536.834@0.0.1536.834" timestamp="1579179992180" />
+    <state x="431" y="154" width="672" height="678" key="search.everywhere.popup" timestamp="1579764368170">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="431" y="154" width="672" height="678" key="search.everywhere.popup/0.0.1536.834@0.0.1536.834" timestamp="1579764368170" />
+  </component>
+</project>

@@ -1,0 +1,4 @@
+
+Lsquid:S1068"/Remove this unused "bookShopDao" private field.(¬ÇÒ;8Ç»≠µÑ.
+wsquid:S1450"ZRemove the "bookShopDao" field and declare it as a local variable in the relevant methods.(¬ÇÒ;8”ç∂µÑ.
+rsquid:S00120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(†‡Äõ

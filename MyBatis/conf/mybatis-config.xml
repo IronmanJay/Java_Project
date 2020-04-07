@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE configuration
+        PUBLIC "-//mybatis.org//DTD Config 3.0//EN"
+        "http://mybatis.org/dtd/mybatis-3-config.dtd">
+<!--配置-->
+<configuration>
+    <!--  properties：属性配置  -->
+    <properties resource="db.properties"></properties>
+
+    <!--   settings：包含了很多的设置项     -->
+    <settings>
+        <!--   映射下划线到驼峰命名     -->
+        <setting name="mapUnderscoreToCamelCase" value="true"/>
+        <!--   开启延迟加载     -->
+        <setting value="true" name="lazyLoadingEnabled"/>
+        <!--   配置按需加载     -->
+        <setting value="false" name="aggressiveLazyLoading"/>
+    </settings>
+
+    <!--   typeAliases：别名处理     -->
+    <typeAliases>
+<!--        <typeAlias type="Beans.Employee" alias="employee"></typeAlias>-->
+        <package name="beans"/>
+    </typeAliases>
+    
+    <!--  环境们  -->
+    <environments default="development">
+        <!--   具体的环境     -->
+        <environment id="development">
+            <transactionManager type="JDBC"/>
+            <dataSource type="POOLED">
+                <property name="driver" value="${jdbc.driver}"/>
+                <property name="url" value="${jdbc.url}"/>
+                <property name="username" value="${jdbc.username}"/>
+                <property name="password" value="${jdbc.password}"/>
+            </dataSource>
+        </environment>
+    </environments>
+
+    <!--  引入SQL映射文件  -->
+    <mappers>
+<!--        <mapper resource="EmployeeMapper.xml"/>-->
+            <!--   批量引入SQL映射文件：必须与Mapper接口同名同位置     -->
+            <package name="mapper"/>
+    </mappers>
+</configuration>

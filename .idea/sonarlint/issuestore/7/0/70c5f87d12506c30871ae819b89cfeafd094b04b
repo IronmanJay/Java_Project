@@ -1,0 +1,5 @@
+
+msquid:S1192"VDefine a constant instead of duplicating this literal "com.mysql.jdbc.Driver" 3 times.(²“ÍÔ
+xsquid:S1192"aDefine a constant instead of duplicating this literal "jdbc:mysql://localhost:3306/test" 4 times.(¶§ä
+esquid:S1192"IDefine a constant instead of duplicating this literal "password" 3 times.(©İÅŠúÿÿÿÿ
+csquid:S1192"GDefine a constant instead of duplicating this literal "990929" 4 times.(©İÅŠúÿÿÿÿ

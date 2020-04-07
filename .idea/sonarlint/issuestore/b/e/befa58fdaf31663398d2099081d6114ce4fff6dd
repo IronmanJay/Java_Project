@@ -1,0 +1,29 @@
+
+{	java:S135ª"YReduce the total number of break and continue statements in this loop to use at most one.(˜ïˆÿÿÿÿÿ8ìôô .
+{	java:S135Ì"YReduce the total number of break and continue statements in this loop to use at most one.(˜ïˆÿÿÿÿÿ8ìôô .
+{	java:S135å"YReduce the total number of break and continue statements in this loop to use at most one.(˜ïˆÿÿÿÿÿ8ìôô .
+[
+java:S1155I">Use isEmpty() to check whether the collection is empty or not.(äÛŸ–8ìôô .
+{	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(¾ÃŠ™úÿÿÿÿ8ìôô .
+l
+java:S1104‘"NMake no a static final constant or non-public and provide accessors if needed.(Ë¥ÏÄ8ìôô .
+n
+java:S1104’"PMake name a static final constant or non-public and provide accessors if needed.( şÍ¾8ìôô .
+q
+java:S1104“"TMake nickname a static final constant or non-public and provide accessors if needed.(ÔÀª\8ìôô .
+s
+java:S1104”"PMake next a static final constant or non-public and provide accessors if needed.(Í¯òøÿÿÿÿ8ìôô .
+r
+java:S1149A"PReplace the synchronized class "Stack" by an unsynchronized one such as "Deque".(ó­½Ûüÿÿÿÿ8ìôô .
+{
+java:S2293A"YReplace the type specification in this constructor call with the diamond operator ("<>").(ó­½Ûüÿÿÿÿ8ìôô .
+F
+java:S1125·"(Remove the literal "true" boolean value.(«¸ş•8ìôô .
+o
+java:S3457¹"Q%n should be used in place of \n to produce the platform-specific line separator.(¨‚ÎÍ8ìôô .
+F
+java:S1125Ø"(Remove the literal "true" boolean value.(«¸ş•8ìôô .
+t
+java:S3457İ"Q%n should be used in place of \n to produce the platform-specific line separator.(òòë¹ûÿÿÿÿ8ìôô .
+t
+java:S3457õ"Q%n should be used in place of \n to produce the platform-specific line separator.(²¦é¨ıÿÿÿÿ8ìôô .

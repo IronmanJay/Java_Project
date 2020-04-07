@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="com.springsource.org.aspectj.weaver-1.6.8.RELEASE (2)">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/SSM/web/WEB-INF/lib/com.springsource.org.aspectj.weaver-1.6.8.RELEASE.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

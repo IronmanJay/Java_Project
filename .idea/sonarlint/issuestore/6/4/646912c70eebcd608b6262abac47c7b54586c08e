@@ -1,0 +1,22 @@
+
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(„¦ÀÀøÿÿÿÿ
+v
+java:S2293&"YReplace the type specification in this constructor call with the diamond operator ("<>").(®Çõ³8¥ñËëŠ.
+v
+java:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(­ÃÙ8€ÆİêŠ.
+Q
+java:S2864:"4Iterate over the "entrySet" instead of the "keySet".(ËƒÏá8Ï‘ëŠ.
+{
+java:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(¼µÚıÿÿÿÿ8‰ÖêŠ.
+{
+java:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(ÜçÖœüÿÿÿÿ8 ›ëêŠ.
+v
+java:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(•Ëû8šøâêŠ.
+u
+java:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(şŸ¬|8ÀäêêŠ.
+`
+java:S11556">Use isEmpty() to check whether the collection is empty or not.(Ş·£‚ÿÿÿÿÿ8²¯ŠëŠ.
+v
+java:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(´Š©8¯…èêŠ.
+`
+java:S1155D">Use isEmpty() to check whether the collection is empty or not.(ä¹°‰şÿÿÿÿ8´²ÔëŠ.

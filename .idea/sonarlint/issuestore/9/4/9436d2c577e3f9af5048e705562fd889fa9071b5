@@ -1,0 +1,6 @@
+
+>
+java:S16435"Use a StringBuilder instead.(ö™âŞùÿÿÿÿ8’ö .
+o
+java:S3776"RRefactor this method to reduce its Cognitive Complexity from 26 to the 15 allowed.(Çµí‘8’ö .
+u	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(áûK8’ö .

@@ -1,0 +1,7 @@
+
+psquid:S2293i"YReplace the type specification in this constructor call with the diamond operator ("<>").(Á›ÞÍ
+|squid:S1171"YMove the contents of this initializer to a standard constructor or to field initializers.(ÒÌâ–øÿÿÿÿ8ç«š¬þ-
+nsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(¯ë½Áÿÿÿÿÿ8¤®…¬þ-
+rsquid:S00120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(Â¶û™
+Bsquid:S1168"+Return an empty collection instead of null.(¥¹ï
+nsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(éØ»Úûÿÿÿÿ8¤®…¬þ-

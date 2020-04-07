@@ -1,0 +1,30 @@
+<component name="ArtifactManager">
+  <artifact type="exploded-war" name="SpringMVC:war exploded">
+    <output-path>$PROJECT_DIR$/out/artifacts/SpringMVC_war_exploded</output-path>
+    <root id="root">
+      <element id="javaee-facet-resources" facet="SpringMVC/web/Web" />
+      <element id="directory" name="WEB-INF">
+        <element id="directory" name="classes">
+          <element id="module-output" name="SpringMVC" />
+        </element>
+        <element id="directory" name="lib">
+          <element id="library" level="project" name="commons-fileupload-1.3.1" />
+          <element id="library" level="project" name="jackson-annotations-2.1.5" />
+          <element id="library" level="project" name="jackson-databind-2.1.5" />
+          <element id="library" level="project" name="commons-io-2.2" />
+          <element id="library" level="project" name="jackson-core-2.1.5" />
+          <element id="library" level="project" name="standard (2)" />
+          <element id="library" level="project" name="jstl (2)" />
+          <element id="library" level="project" name="spring-webmvc-4.0.0.RELEASE" />
+          <element id="library" level="project" name="spring-expression-4.0.0.RELEASE" />
+          <element id="library" level="project" name="spring-web-4.0.0.RELEASE" />
+          <element id="library" level="project" name="spring-context-4.0.0.RELEASE" />
+          <element id="library" level="project" name="spring-aop-4.0.0.RELEASE (2)" />
+          <element id="library" level="project" name="spring-beans-4.0.0.RELEASE" />
+          <element id="library" level="project" name="commons-logging-1.1.1 (2)" />
+          <element id="library" level="project" name="spring-core-4.0.0.RELEASE" />
+        </element>
+      </element>
+    </root>
+  </artifact>
+</component>

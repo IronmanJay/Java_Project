@@ -1,0 +1,4 @@
+
+wsquid:S00120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(Õ£äÖüÿÿÿÿ
+Esquid:S1068"/Remove this unused "bookShopDao" private field.(Â‚ñ;
+psquid:S1450"ZRemove the "bookShopDao" field and declare it as a local variable in the relevant methods.(Â‚ñ;

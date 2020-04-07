@@ -1,0 +1,12 @@
+
+E
+java:S1604"(Make this anonymous inner class a lambda(ÉãÃ®8éÆ£Š.
+E
+java:S1604"(Make this anonymous inner class a lambda(ÉãÃ®8±â€£Š.
+o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(© ¢
+`
+java:S22765"CReplace the call to "Thread.sleep(...)" with a call to "wait(...)".(öÍËè8¯™…£Š.
+W
+java:S2209"5Change this instance-reference to a static reference.(©Ÿ½“ûÿÿÿÿ8äù£Š.
+c
+java:S21426"FEither re-interrupt this method or rethrow the "InterruptedException".(ä ¹€8¯™…£Š.

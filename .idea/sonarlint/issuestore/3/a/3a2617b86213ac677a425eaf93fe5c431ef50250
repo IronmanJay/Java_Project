@@ -1,0 +1,4 @@
+
+\squid:S1155">Use isEmpty() to check whether the collection is empty or not.(δΫ–8Θΰν.
+nsquid:S1149	"PReplace the synchronized class "Stack" by an unsynchronized one such as "Deque".(ρϊ8 ’έν.
+wsquid:S00120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ΎΓ™ϊÿÿÿÿ

@@ -1,0 +1,4 @@
+
+"squid:ClassVariableVisibilityCheck"SMake maxSize a static final constant or non-public and provide accessors if needed.(ίβ8χο»¤‡.
+rsquid:S00120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(„„ÿΚ
+Ksquid:S1444"-Make this "public static maxSize" field final(ίβ8χο»¤‡.

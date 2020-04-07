@@ -1,0 +1,34 @@
+
+\squid:S3752X">Add a "method" parameter to this "@RequestMapping" annotation.(Óê÷Ñ8—¿ùÚ….
+Dsquid:S10758"&Remove this hard-coded path-delimiter.(Ÿ•øœ8„°³Þ….
+bsquid:S3752¡">Add a "method" parameter to this "@RequestMapping" annotation.(ã¶£ýÿÿÿÿ8Œò¢á„.
+fsquid:S4488f"HReplace "@RequestMapping(method = RequestMethod.GET)" with "@GetMapping"(‹©¹Ã8…ô˜»….
+bsquid:S3752å">Add a "method" parameter to this "@RequestMapping" annotation.(ú§¶êÿÿÿÿÿ8ë·²….
+lsquid:S4488x"NReplace "@RequestMapping(method = RequestMethod.DELETE)" with "@DeleteMapping"(§è´Ì8œâ‰»….
+\squid:S3752Á">Add a "method" parameter to this "@RequestMapping" annotation.(¸ü8ë·²….
+asquid:S3752/">Add a "method" parameter to this "@RequestMapping" annotation.(Íè­Áùÿÿÿÿ8ë’ÓÝ….
+bsquid:S3752Í">Add a "method" parameter to this "@RequestMapping" annotation.(½÷×¿ÿÿÿÿÿ8ë·²….
+gsquid:S4488Š"HReplace "@RequestMapping(method = RequestMethod.GET)" with "@GetMapping"(®¶‹8Ã”á´….
+]squid:S3752§">Add a "method" parameter to this "@RequestMapping" annotation.(“ÙúÐ8ë·²….
+gsquid:S4488™"HReplace "@RequestMapping(method = RequestMethod.GET)" with "@GetMapping"(Þ®€‡8ë·²….
+wsquid:S00120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ô‡Îþÿÿÿÿ
+]squid:S3752·">Add a "method" parameter to this "@RequestMapping" annotation.(ª’Éç8ë·²….
+\squid:S3752×">Add a "method" parameter to this "@RequestMapping" annotation.(ÖË¿_8ë·²….
+bsquid:S3752­">Add a "method" parameter to this "@RequestMapping" annotation.(úþ¡Åüÿÿÿÿ8ë·²….
+bsquid:S3752—">Add a "method" parameter to this "@RequestMapping" annotation.(îÊ¿›þÿÿÿÿ8ë·²….
+]squid:S3752Þ">Add a "method" parameter to this "@RequestMapping" annotation.(¼æÚÝ8ë·²….
+isquid:S4488ü"JReplace "@RequestMapping(method = RequestMethod.POST)" with "@PostMapping"(Úü¦‘8ë·²….
+gsquid:S4488ô"HReplace "@RequestMapping(method = RequestMethod.PUT)" with "@PutMapping"(Ï¬Äƒ8ë·²….
+rsquid:S4488ƒ"NReplace "@RequestMapping(method = RequestMethod.DELETE)" with "@DeleteMapping"(ŠØûŸúÿÿÿÿ8ë·²….
+gsquid:S1192+"IDefine a constant instead of duplicating this literal "success" 18 times.(ùØ8ë·²….
+gsquid:S4488‹"HReplace "@RequestMapping(method = RequestMethod.GET)" with "@GetMapping"(£¢°Å8ë·²….
+Ssquid:S3752œ"/Consider narrowing this list of methods to one.(õ¹éàýÿÿÿÿ8ë·²….
+bsquid:S3752‘">Add a "method" parameter to this "@RequestMapping" annotation.(¯–ë³þÿÿÿÿ8ë·²….
+msquid:S2674M"JCheck the return value of the "read" call to see how many bytes were read.(éå’•ûÿÿÿÿ8ó ßÛ….
+\squid:S3752F">Add a "method" parameter to this "@RequestMapping" annotation.(Ì™§ö8‚…ÌÛ….
+bsquid:S3752ì">Add a "method" parameter to this "@RequestMapping" annotation.(®Ò“öúÿÿÿÿ8ë·²….
+bsquid:S3752¡">Add a "method" parameter to this "@RequestMapping" annotation.(¼Èðíúÿÿÿÿ8ë·²….
+°%squid:RedundantThrowsDeclarationCheckÎ"wRemove the declaration of thrown exception 'javax.servlet.ServletException', as it cannot be thrown from method's body.(£¦†Ô8ë·²….
+fsquid:S4488_"HReplace "@RequestMapping(method = RequestMethod.PUT)" with "@PutMapping"(¼·½Í8’ûû»….
+nsquid:S4488"JReplace "@RequestMapping(method = RequestMethod.POST)" with "@PostMapping"(€ƒ—òÿÿÿÿÿ8ƒ×Åµ….
+asquid:S3752)">Add a "method" parameter to this "@RequestMapping" annotation.(É¯°ñþÿÿÿÿ8¬ðó€†.
