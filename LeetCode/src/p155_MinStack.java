@@ -3,7 +3,7 @@ import java.util.Stack;
 public class p155_MinStack {
 
     public static void main(String[] args) {
-        MinStack minStack = new MinStack();
+        p155_MinStack minStack = new p155_MinStack();
         minStack.push(-2);
         minStack.push(0);
         minStack.push(-3);
@@ -16,17 +16,8 @@ public class p155_MinStack {
         System.out.println("最小值为:" + min1);
     }
 
-}
-
-class MinStack {
-
-    private Stack<Integer> stack;
-    private Stack<Integer> helper_stack;
-
-    public MinStack() {
-        stack = new Stack<>();
-        helper_stack = new Stack<>();
-    }
+    private Stack<Integer> stack = new Stack<>();
+    private Stack<Integer> helper_stack = new Stack<>();
 
     public void push(int x) {
         stack.push(x);
@@ -48,4 +39,6 @@ class MinStack {
     public int getMin() {
         return helper_stack.peek();
     }
+
 }
+
