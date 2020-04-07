@@ -30,13 +30,13 @@ class MinStack {
 
     public void push(int x) {
         stack.push(x);
-        if(helper_stack.isEmpty() || x <= helper_stack.peek()){
+        if (helper_stack.isEmpty() || x <= helper_stack.peek()) {
             helper_stack.push(x);
         }
     }
 
     public void pop() {
-        if(stack.pop().equals(helper_stack.peek())){
+        if (stack.pop().equals(helper_stack.peek())) {
             helper_stack.pop();
         }
     }
