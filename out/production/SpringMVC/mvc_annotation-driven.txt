@@ -1,0 +1,35 @@
+<mvc:annotation-driven>的作用:
+	1. 配置了<mvc:view-controller>
+	2. 配置了<mvc:default-servlet-handler>
+	3. 处理Json,对HttpMessageConveter的支持
+	4. 对数据绑定流程的支持 ， 对异常处理的支持等
+<mvc:annotation-driven>的原理:
+	启动一些新的组件对象替换原先旧的组件对象， 从而实现一些新的，更强大的功能
+
+
+解释: <mvc:default-servlet-handler>①   为什么还要配置<mvc:annotation-driven> ②？
+
+   ①  ② 都没有配置的情况: DispatcherServlet 中handlerAdapters中装配:
+   HttpRequestHandlerAdapter
+   SimpleControlleraHandlerAdapter
+   AnnotationMethodHandlerAdapter
+   
+   ① 配置  ②不配置的情况 ：DispatcherServlet 中handlerAdapters中装配:
+   HttpRequestHandlerAdapter
+   SimpleControlleraHandlerAdapter
+   
+   ①  ② 都配置的情况: DispatcherServlet 中handlerAdapters中装配:
+   HttpRequestHandlerAdapter
+   SimpleControlleraHandlerAdapter
+   RequestMappingHandlerAdapter
+	
+	
+   总结:  在Spring 3.2 之后  ，RequestMappingHandlerAdapter 替换掉了AnnotationMethodHandlerAdapter。
+	
+	
+	
+	
+	
+	
+	
+	

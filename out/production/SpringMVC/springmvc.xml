@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<beans xmlns="http://www.springframework.org/schema/beans"
+       xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+       xmlns:context="http://www.springframework.org/schema/context"
+       xmlns:mvc="http://www.springframework.org/schema/mvc"
+       xsi:schemaLocation="http://www.springframework.org/schema/beans http://www.springframework.org/schema/beans/spring-beans.xsd http://www.springframework.org/schema/context http://www.springframework.org/schema/context/spring-context.xsd http://www.springframework.org/schema/mvc http://www.springframework.org/schema/mvc/spring-mvc.xsd">
+
+        <!--  1、组件扫描  -->
+        <context:component-scan base-package="Handler" use-default-filters="false">
+            <context:include-filter type="annotation" expression="org.springframework.stereotype.Controller"/>
+        </context:component-scan>
+
+        <!--  2、视图解析器  -->
+        <bean class="org.springframework.web.servlet.view.InternalResourceViewResolver">
+            <property name="prefix" value="/WEB-INF/views/"></property>
+            <property name="suffix" value=".jsp"></property>
+            <!--     配置视图解析器的优先级       -->
+            <property name="order" value="100"></property>
+        </bean>
+
+        <!--   不经过Handler直接跳转页面     -->
+        <mvc:view-controller path="testViewContorller" view-name="success"></mvc:view-controller>
+        <!--   使用了view-contorller以后，会导致RequestMapping的映射失效，因此需要加上下面的配置    -->
+        <mvc:annotation-driven></mvc:annotation-driven>
+
+        <!--   处理静态资源失效问题     -->
+        <mvc:default-servlet-handler/>
+        <mvc:annotation-driven/>
+
+        <!--   配置文件的上传     -->
+        <bean id="multipartResolver" class="org.springframework.web.multipart.commons.CommonsMultipartResolver">
+            <!--   保证与上传表单所在的Jsp页面的编码一致     -->
+            <property name="defaultEncoding" value="utf-8"></property>
+            <property name="maxUploadSize" value="10485760"></property>
+        </bean>
+
+        <!--   配置拦截器     -->
+        <mvc:interceptors>
+            <!--   第一种配法：拦截所有的请求     -->
+            <bean class="interceptor.MyFirstInterceptor"></bean>
+            <bean class="interceptor.MySecondInterceptor"></bean>
+<!--            <ref bean="myFirstInterceptor"/>-->
+            <!--   第二种配法：指定拦截或者指定不拦截     -->
+<!--            <mvc:interceptor>-->
+<!--                <mvc:mapping path="/emps"/>-->
+<!--                <mvc:exclude-mapping path="/emps"/>-->
+<!--                <bean class="interceptor.MyFirstInterceptor"></bean>-->
+<!--                <ref bean="myFirstInterceptor"/>-->
+<!--            </mvc:interceptor>-->
+        </mvc:interceptors>
+
+</beans>

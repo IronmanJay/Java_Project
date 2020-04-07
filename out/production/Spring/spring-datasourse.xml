@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<beans xmlns="http://www.springframework.org/schema/beans"
+       xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+       xmlns:context="http://www.springframework.org/schema/context"
+       xsi:schemaLocation="http://www.springframework.org/schema/beans http://www.springframework.org/schema/beans/spring-beans.xsd http://www.springframework.org/schema/context http://www.springframework.org/schema/context/spring-context.xsd">
+       <!--   直接配置c3p0连接池    -->
+<!--       <bean id="datasource" class="com.mchange.v2.c3p0.ComboPooledDataSource">-->
+<!--           <property name="driverClass" value="com.mysql.jdbc.Driver"></property>-->
+<!--           <property name="jdbcUrl" value="jdbc:mysql://localhost:3306/mysql"></property>-->
+<!--           <property name="user" value="root"></property>-->
+<!--           <property name="password" value="990929"></property>-->
+<!--           <property name="initialPoolSize" value="5"></property>-->
+<!--           <property name="maxPoolSize" value="10"></property>-->
+<!--       </bean>-->
+       <!--   通过引入外部的属性文件配置c3p0连接池    -->
+       <!--   第一种方式    -->
+<!--       <bean class="org.springframework.beans.factory.config.PropertyPlaceholderConfigurer">-->
+<!--            <property name="location" value="db.properties"></property>-->
+<!--       </bean>-->
+       <!--   第二种方式    -->
+       <context:property-placeholder location="db.properties"></context:property-placeholder>
+       <!--   配置c3p0连接池    -->
+       <bean id="datasource" class="com.mchange.v2.c3p0.ComboPooledDataSource">
+              <property name="driverClass" value="${jdbc.driver}"/>
+              <property name="jdbcUrl" value="${jdbc.url}"/>
+              <property name="user" value="${jdbc.username}"/>
+              <property name="password" value="${jdbc.password}"/>
+       </bean>
+</beans>

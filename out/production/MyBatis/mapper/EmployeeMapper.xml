@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE mapper
+        PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN"
+        "http://mybatis.org/dtd/mybatis-3-mapper.dtd">
+<!--配置SQL映射-->
+<mapper namespace="mapper.EmployeeMapper">
+    <!--  定义一个查询语句  -->
+    <select id="selectEmployee" resultType="beans.Employee">
+        select id, last_name lastName, email, gender from tb1_employee where id = #{id}
+    </select>
+
+    <!--  public Employee getEmployeeById(Integer id);  -->
+    <select id="getEmployeeById" resultType="employee">
+        select * from tb1_employee where id = #{id}
+    </select>
+
+    <!-- public void addEmployee(Employee employee);   -->
+    <insert id="addEmployee" parameterType="beans.Employee" useGeneratedKeys="true" keyProperty="id">
+        insert into tb1_employee (last_name,email,gender) values(#{lastName},#{email},#{gender})
+    </insert>
+
+    <!-- public void updateEmployee(Employee employee);   -->
+    <update id="updateEmployee">
+        update tb1_employee set last_name = #{lastName},email = #{email}, gender = #{gender} where id = #{id}
+    </update>
+
+    <!-- public void deleteEmployeeById(Integer id);   -->
+    <delete id="deleteEmployeeById">
+        delete from tb1_employee where id = #{id}
+    </delete>
+
+    <!-- public Employee getEmployeeByIdAndLastName(Integer id, String lastName);   -->
+    <select id="getEmployeeByIdAndLastName" resultType="beans.Employee">
+        select id,last_name,email,gender from tb1_employee where id = #{id} and last_name = #{lastName}
+    </select>
+
+    <!--  public Employee getEmployeeByMap(Map<String, Object> map);  -->
+    <select id="getEmployeeByMap" resultType="beans.Employee">
+        select id,last_name,email,gender from tb1_employee where id = #{id} and last_name = #{ln}
+    </select>
+
+    <!--  public List<Employee> getEmps();  -->
+    <select id="getEmps" resultType="beans.Employee">
+        select id,last_name,email,gender from tb1_employee
+    </select>
+
+    <!--  public Map<String, Object> getEmployeeByIdRetuenMap(Integer id);  -->
+    <select id="getEmployeeByIdRetuenMap" resultType="java.util.HashMap">
+        select id,last_name,email,gender from tb1_employee where id = #{id}
+    </select>
+
+    <!--  public Map<Integer, Employee> getEmpsRetuenMap();  -->
+    <select id="getEmpsRetuenMap" resultType="beans.Employee">
+        select id,last_name,email,gender from tb1_employee
+    </select>
+
+</mapper>
