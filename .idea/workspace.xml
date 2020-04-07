@@ -6,7 +6,8 @@
     </artifacts-to-build>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="07405ce8-cbd5-43fd-b903-16a731a448bb" name="Default Changelist" comment="">
+    <list default="true" id="07405ce8-cbd5-43fd-b903-16a731a448bb" name="Default Changelist" comment="2020.04.07">
+      <change afterPath="$PROJECT_DIR$/LeetCode/src/p155_MinStack.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -96,7 +97,9 @@
     <option name="version" value="1" />
   </component>
   <component name="ProjectId" id="1Ws0tIjBQjtCx0NQjnVLIUWwIET" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -807,7 +810,7 @@
       <workItem from="1586150105892" duration="2146000" />
       <workItem from="1586237067573" duration="3068000" />
       <workItem from="1586243261275" duration="37000" />
-      <workItem from="1586243305976" duration="2780000" />
+      <workItem from="1586243305976" duration="2884000" />
     </task>
     <task id="LOCAL-00001" summary="2020.04.07">
       <created>1586245321555</created>
@@ -844,7 +847,21 @@
       <option name="project" value="LOCAL" />
       <updated>1586246036730</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="2020.04.07">
+      <created>1586246092216</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1586246092216</updated>
+    </task>
+    <task id="LOCAL-00007" summary="2020.04.07">
+      <created>1586246135442</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1586246135442</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -942,10 +959,10 @@
       <screen x="0" y="0" width="1536" height="834" />
     </state>
     <state x="178" y="110" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1/0.0.1536.834@0.0.1536.834" timestamp="1582858062755" />
-    <state x="295" y="0" key="CommitChangelistDialog2" timestamp="1586246091506">
+    <state x="295" y="0" key="CommitChangelistDialog2" timestamp="1586246141664">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state x="295" y="0" key="CommitChangelistDialog2/0.0.1536.834@0.0.1536.834" timestamp="1586246091506" />
+    <state x="295" y="0" key="CommitChangelistDialog2/0.0.1536.834@0.0.1536.834" timestamp="1586246141664" />
     <state x="93" y="93" width="1350" height="648" key="DiffContextDialog" timestamp="1582858217611">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
@@ -966,22 +983,22 @@
       <screen x="0" y="0" width="1536" height="834" />
     </state>
     <state x="467" y="39" key="Github.UntrackedFilesDialog/0.0.1536.834@0.0.1536.834" timestamp="1586243479320" />
-    <state width="1493" height="237" key="GridCell.Tab.0.bottom" timestamp="1586246028408">
+    <state width="1493" height="237" key="GridCell.Tab.0.bottom" timestamp="1586246197031">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state width="1493" height="237" key="GridCell.Tab.0.bottom/0.0.1536.834@0.0.1536.834" timestamp="1586246028408" />
-    <state width="1493" height="237" key="GridCell.Tab.0.center" timestamp="1586246028408">
+    <state width="1493" height="237" key="GridCell.Tab.0.bottom/0.0.1536.834@0.0.1536.834" timestamp="1586246197031" />
+    <state width="1493" height="237" key="GridCell.Tab.0.center" timestamp="1586246197031">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state width="1493" height="237" key="GridCell.Tab.0.center/0.0.1536.834@0.0.1536.834" timestamp="1586246028408" />
-    <state width="1493" height="237" key="GridCell.Tab.0.left" timestamp="1586246028408">
+    <state width="1493" height="237" key="GridCell.Tab.0.center/0.0.1536.834@0.0.1536.834" timestamp="1586246197031" />
+    <state width="1493" height="237" key="GridCell.Tab.0.left" timestamp="1586246197031">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state width="1493" height="237" key="GridCell.Tab.0.left/0.0.1536.834@0.0.1536.834" timestamp="1586246028408" />
-    <state width="1493" height="237" key="GridCell.Tab.0.right" timestamp="1586246028408">
+    <state width="1493" height="237" key="GridCell.Tab.0.left/0.0.1536.834@0.0.1536.834" timestamp="1586246197031" />
+    <state width="1493" height="237" key="GridCell.Tab.0.right" timestamp="1586246197031">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state width="1493" height="237" key="GridCell.Tab.0.right/0.0.1536.834@0.0.1536.834" timestamp="1586246028408" />
+    <state width="1493" height="237" key="GridCell.Tab.0.right/0.0.1536.834@0.0.1536.834" timestamp="1586246197031" />
     <state width="1202" height="182" key="GridCell.Tab.1.bottom" timestamp="1585554282765">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
@@ -1038,6 +1055,10 @@
       <screen x="0" y="0" width="1536" height="834" />
     </state>
     <state x="0" y="73" key="Maven.ArtifactSearchDialog/0.0.1536.834@0.0.1536.834" timestamp="1582534112956" />
+    <state x="470" y="123" key="MultipleFileMergeDialog" timestamp="1586246163747">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="470" y="123" key="MultipleFileMergeDialog/0.0.1536.834@0.0.1536.834" timestamp="1586246163747" />
     <state x="281" y="0" width="1037" height="834" key="SettingsEditor" timestamp="1586243363124">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
@@ -1058,10 +1079,10 @@
       <screen x="0" y="0" width="1536" height="834" />
     </state>
     <state x="174" y="28" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser/0.0.1536.834@0.0.1536.834" timestamp="1583544842925" />
-    <state x="561" y="329" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1586245388671">
+    <state x="561" y="329" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1586246148681">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state x="561" y="329" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1536.834@0.0.1536.834" timestamp="1586245388671" />
+    <state x="561" y="329" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1536.834@0.0.1536.834" timestamp="1586246148681" />
     <state x="131" y="67" key="com.intellij.testIntegration.createTest.CreateTestDialog" timestamp="1584026104018">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
