@@ -6,8 +6,12 @@
     </artifacts-to-build>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="07405ce8-cbd5-43fd-b903-16a731a448bb" name="Default Changelist" comment="2020.04.07">
-      <change afterPath="$PROJECT_DIR$/LeetCode/src/p155_MinStack.java" afterDir="false" />
+    <list default="true" id="07405ce8-cbd5-43fd-b903-16a731a448bb" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/LeetCode/src/p215_KthLargestElementInAnArray.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/6/0/60ff66b8dfa1a40a28c6d73331a14339598b1c7b" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/6/0/60ff66b8dfa1a40a28c6d73331a14339598b1c7b" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/e/2/e2bcecb6dda9bcd3e1e06a4792d4cf2e0c06d2d5" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/e/2/e2bcecb6dda9bcd3e1e06a4792d4cf2e0c06d2d5" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/f/6/f6dbb41b0da0f0aa3c0521e21921d6b4286ad27f" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/f/6/f6dbb41b0da0f0aa3c0521e21921d6b4286ad27f" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -173,7 +177,7 @@
       <command value="mvn clean" />
     </option>
   </component>
-  <component name="RunManager" selected="Application.p155_MinStack">
+  <component name="RunManager" selected="Application.p215_KthLargestElementInAnArray">
     <configuration name="HeapSort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Tree.Sort.HeapSort" />
       <module name="DataStructures" />
@@ -196,6 +200,13 @@
     </configuration>
     <configuration name="p1_SumOfTwoNumbers" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="p1_SumOfTwoNumbers" />
+      <module name="LeetCode" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="p215_KthLargestElementInAnArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="p215_KthLargestElementInAnArray" />
       <module name="LeetCode" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -624,17 +635,19 @@
     <list>
       <item itemvalue="Application.p1_SumOfTwoNumbers" />
       <item itemvalue="Application.HeapSort" />
+      <item itemvalue="Application.p155_MinStack" />
       <item itemvalue="Tomcat Server.Redis" />
       <item itemvalue="Tomcat Server.Maven" />
       <item itemvalue="Tomcat Server.SpringMVC" />
       <item itemvalue="Tomcat Server.JavaWeb" />
       <item itemvalue="Tomcat Server.SSM" />
-      <item itemvalue="Application.p155_MinStack" />
+      <item itemvalue="Application.p215_KthLargestElementInAnArray" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.p155_MinStack" />
+        <item itemvalue="Application.p215_KthLargestElementInAnArray" />
         <item itemvalue="Application.HeapSort" />
+        <item itemvalue="Application.p155_MinStack" />
         <item itemvalue="Application.p1_SumOfTwoNumbers" />
       </list>
     </recent_temporary>
@@ -810,7 +823,10 @@
       <workItem from="1586150105892" duration="2146000" />
       <workItem from="1586237067573" duration="3068000" />
       <workItem from="1586243261275" duration="37000" />
-      <workItem from="1586243305976" duration="2884000" />
+      <workItem from="1586243305976" duration="3012000" />
+      <workItem from="1586260707261" duration="546000" />
+      <workItem from="1586309215534" duration="135000" />
+      <workItem from="1586315286465" duration="1867000" />
     </task>
     <task id="LOCAL-00001" summary="2020.04.07">
       <created>1586245321555</created>
@@ -861,7 +877,14 @@
       <option name="project" value="LOCAL" />
       <updated>1586246135442</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="2020.04.07">
+      <created>1586246206968</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1586246206968</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -959,10 +982,10 @@
       <screen x="0" y="0" width="1536" height="834" />
     </state>
     <state x="178" y="110" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1/0.0.1536.834@0.0.1536.834" timestamp="1582858062755" />
-    <state x="295" y="0" key="CommitChangelistDialog2" timestamp="1586246141664">
+    <state x="295" y="0" key="CommitChangelistDialog2" timestamp="1586318282566">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state x="295" y="0" key="CommitChangelistDialog2/0.0.1536.834@0.0.1536.834" timestamp="1586246141664" />
+    <state x="295" y="0" key="CommitChangelistDialog2/0.0.1536.834@0.0.1536.834" timestamp="1586318282566" />
     <state x="93" y="93" width="1350" height="648" key="DiffContextDialog" timestamp="1582858217611">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
@@ -983,22 +1006,22 @@
       <screen x="0" y="0" width="1536" height="834" />
     </state>
     <state x="467" y="39" key="Github.UntrackedFilesDialog/0.0.1536.834@0.0.1536.834" timestamp="1586243479320" />
-    <state width="1493" height="237" key="GridCell.Tab.0.bottom" timestamp="1586246197031">
+    <state width="1493" height="237" key="GridCell.Tab.0.bottom" timestamp="1586318268713">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state width="1493" height="237" key="GridCell.Tab.0.bottom/0.0.1536.834@0.0.1536.834" timestamp="1586246197031" />
-    <state width="1493" height="237" key="GridCell.Tab.0.center" timestamp="1586246197031">
+    <state width="1493" height="237" key="GridCell.Tab.0.bottom/0.0.1536.834@0.0.1536.834" timestamp="1586318268713" />
+    <state width="1493" height="237" key="GridCell.Tab.0.center" timestamp="1586318268713">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state width="1493" height="237" key="GridCell.Tab.0.center/0.0.1536.834@0.0.1536.834" timestamp="1586246197031" />
-    <state width="1493" height="237" key="GridCell.Tab.0.left" timestamp="1586246197031">
+    <state width="1493" height="237" key="GridCell.Tab.0.center/0.0.1536.834@0.0.1536.834" timestamp="1586318268713" />
+    <state width="1493" height="237" key="GridCell.Tab.0.left" timestamp="1586318268713">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state width="1493" height="237" key="GridCell.Tab.0.left/0.0.1536.834@0.0.1536.834" timestamp="1586246197031" />
-    <state width="1493" height="237" key="GridCell.Tab.0.right" timestamp="1586246197031">
+    <state width="1493" height="237" key="GridCell.Tab.0.left/0.0.1536.834@0.0.1536.834" timestamp="1586318268713" />
+    <state width="1493" height="237" key="GridCell.Tab.0.right" timestamp="1586318268713">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state width="1493" height="237" key="GridCell.Tab.0.right/0.0.1536.834@0.0.1536.834" timestamp="1586246197031" />
+    <state width="1493" height="237" key="GridCell.Tab.0.right/0.0.1536.834@0.0.1536.834" timestamp="1586318268713" />
     <state width="1202" height="182" key="GridCell.Tab.1.bottom" timestamp="1585554282765">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
@@ -1067,6 +1090,10 @@
       <screen x="0" y="0" width="1536" height="834" />
     </state>
     <state x="490" y="159" width="558" height="540" key="StructurePopup/0.0.1536.834@0.0.1536.834" timestamp="1583544847974" />
+    <state x="361" y="146" key="Vcs.Push.Dialog.v2" timestamp="1586246283597">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="361" y="146" key="Vcs.Push.Dialog.v2/0.0.1536.834@0.0.1536.834" timestamp="1586246283597" />
     <state x="92" y="123" width="884" height="568" key="com.intellij.history.integration.ui.views.DirectoryHistoryDialog" timestamp="1582858208019">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
@@ -1079,10 +1106,10 @@
       <screen x="0" y="0" width="1536" height="834" />
     </state>
     <state x="174" y="28" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser/0.0.1536.834@0.0.1536.834" timestamp="1583544842925" />
-    <state x="561" y="329" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1586246148681">
+    <state x="561" y="329" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1586246235623">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state x="561" y="329" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1536.834@0.0.1536.834" timestamp="1586246148681" />
+    <state x="561" y="329" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1536.834@0.0.1536.834" timestamp="1586246235623" />
     <state x="131" y="67" key="com.intellij.testIntegration.createTest.CreateTestDialog" timestamp="1584026104018">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
