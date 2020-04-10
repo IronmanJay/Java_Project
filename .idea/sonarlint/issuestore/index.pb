@@ -830,3 +830,13 @@ w
 G.idea/sonarlint/issuestore/f/a/fadff4d9fe7d5f9ce2444dc99367aefc928ffb5a,9\c\9cb8875239fcbf67570d25c17d99e418b0048db6
 w
 G.idea/sonarlint/issuestore/f/e/fe9bc7c458689ad6dae836962355b2680bf2d2a9,e\3\e32715954f84e81c97bca32078c336919a217431
+w
+G.idea/sonarlint/issuestore/6/1/61d72dc33ad4edde7f6846623212d21559f6e62e,9\7\97aa5141d8e4dafbb5e2f8ea0abcde84d8611f55
+w
+G.idea/sonarlint/issuestore/7/8/78b52eedfa4159e5677ef9c4bc5aecc3ff332aac,c\3\c335b014978511bb75ce6d975528bb4bba6694ce
+w
+G.idea/sonarlint/issuestore/5/c/5c6ac6c9176918f4631ea49077a4c6c87e0346a9,6\a\6af3ca48abc04a2f5bc66e0ad7cee6f009661b7a
+w
+G.idea/sonarlint/issuestore/c/c/cc5a621b8733e2694103cf346ca87bbb8fe96cb1,a\7\a79922ea23d2257db8bf3b9c71e21e68156dcca7
+g
+7LeetCode/src/p378_KtSmallestElementInASortedMatrix.java,e\1\e1c4b1249859041c96d326a5aebf5f526b8f6328
