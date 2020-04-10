@@ -1,24 +1,21 @@
 import java.util.PriorityQueue;
 
-public class p295_FindMedianFromDataStream {
-    public static void main(String[] args) {
-        MedianFinder medianFinder = new MedianFinder();
-        medianFinder.addNum(1);
-        medianFinder.addNum(3);
-        medianFinder.addNum(1);
-        medianFinder.addNum(5);
-        medianFinder.addNum(3);
-        double res = medianFinder.findMedian();
-        System.out.println("res = " + res);
-    }
-}
-
 // 使用大顶堆和小顶堆的做法，分为奇数和偶数两种情况
 // 在整个数据流中，中位数之前的有序数组中的最大值动态的放在大顶堆中，中位数之后的有序数组最大值放在小顶堆中
 // 其实就是把整个数据流根据奇偶数分别放在不同的顶堆中
 // 同时大顶堆的堆顶元素，要小于或者等于小顶堆的堆顶元素
 // 大顶堆的元素个数是大于等于小顶堆的元素个数
-class MedianFinder {
+public class p295_FindMedianFromDataStream {
+    public static void main(String[] args) {
+        p295_FindMedianFromDataStream p295_findMedianFromDataStream = new p295_FindMedianFromDataStream();
+        p295_findMedianFromDataStream.addNum(1);
+        p295_findMedianFromDataStream.addNum(3);
+        p295_findMedianFromDataStream.addNum(1);
+        p295_findMedianFromDataStream.addNum(5);
+        p295_findMedianFromDataStream.addNum(3);
+        double res = p295_findMedianFromDataStream.findMedian();
+        System.out.println("res = " + res);
+    }
 
     // 表示顶堆的容量大小，从而判断大顶堆和小顶堆的数量变化
     private int count;
@@ -27,7 +24,7 @@ class MedianFinder {
     private PriorityQueue<Integer> minheap;
 
     // 初始化
-    public MedianFinder() {
+    public p295_FindMedianFromDataStream() {
         count = 0; // 初始化容量为0
         maxheap = new PriorityQueue<>((x, y) -> y - x); // 这里使用lambda表达式，规定比较顺序
         minheap = new PriorityQueue<>();
@@ -53,4 +50,5 @@ class MedianFinder {
     }
 
 }
+
 

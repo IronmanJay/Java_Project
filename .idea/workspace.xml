@@ -7,12 +7,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="07405ce8-cbd5-43fd-b903-16a731a448bb" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/LeetCode/src/p295_FindMedianFromDataStream.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/4/6/469f89070e468d2279edfa1fabcf3dce3a836ca7" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/4/6/469f89070e468d2279edfa1fabcf3dce3a836ca7" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/4/e/4ed0d12444f745fd799604c595583310cbbf434b" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/4/e/4ed0d12444f745fd799604c595583310cbbf434b" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/6/0/60ff66b8dfa1a40a28c6d73331a14339598b1c7b" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/6/0/60ff66b8dfa1a40a28c6d73331a14339598b1c7b" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LeetCode/src/p295_FindMedianFromDataStream.java" beforeDir="false" afterPath="$PROJECT_DIR$/LeetCode/src/p295_FindMedianFromDataStream.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -809,7 +805,7 @@
       <workItem from="1586415966855" duration="1795000" />
       <workItem from="1586433645068" duration="655000" />
       <workItem from="1586438207661" duration="851000" />
-      <workItem from="1586495145838" duration="1481000" />
+      <workItem from="1586495145838" duration="1842000" />
     </task>
     <task id="LOCAL-00001" summary="2020.04.07">
       <created>1586245321555</created>
@@ -902,7 +898,21 @@
       <option name="project" value="LOCAL" />
       <updated>1586418625632</updated>
     </task>
-    <option name="localTasksCounter" value="14" />
+    <task id="LOCAL-00014" summary="2020.04.09">
+      <created>1586498897637</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1586498897637</updated>
+    </task>
+    <task id="LOCAL-00015" summary="2020.04.10">
+      <created>1586498932843</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1586498932843</updated>
+    </task>
+    <option name="localTasksCounter" value="16" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -915,7 +925,8 @@
     <MESSAGE value="2020.04.07" />
     <MESSAGE value="2020.04.08" />
     <MESSAGE value="2020.04.09" />
-    <option name="LAST_COMMIT_MESSAGE" value="2020.04.09" />
+    <MESSAGE value="2020.04.10" />
+    <option name="LAST_COMMIT_MESSAGE" value="2020.04.10" />
   </component>
   <component name="WindowStateProjectService">
     <state x="7" y="64" key="#Inspections" timestamp="1582590209438">
@@ -1002,10 +1013,10 @@
       <screen x="0" y="0" width="1536" height="834" />
     </state>
     <state x="178" y="110" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1/0.0.1536.834@0.0.1536.834" timestamp="1582858062755" />
-    <state x="295" y="0" key="CommitChangelistDialog2" timestamp="1586498910394">
+    <state x="295" y="0" key="CommitChangelistDialog2" timestamp="1586498926970">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state x="295" y="0" key="CommitChangelistDialog2/0.0.1536.834@0.0.1536.834" timestamp="1586498910394" />
+    <state x="295" y="0" key="CommitChangelistDialog2/0.0.1536.834@0.0.1536.834" timestamp="1586498926970" />
     <state x="93" y="93" width="1350" height="648" key="DiffContextDialog" timestamp="1586318346122">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
@@ -1026,22 +1037,22 @@
       <screen x="0" y="0" width="1536" height="834" />
     </state>
     <state x="467" y="39" key="Github.UntrackedFilesDialog/0.0.1536.834@0.0.1536.834" timestamp="1586243479320" />
-    <state width="1493" height="237" key="GridCell.Tab.0.bottom" timestamp="1586498863277">
+    <state width="1493" height="237" key="GridCell.Tab.0.bottom" timestamp="1586499123105">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state width="1493" height="237" key="GridCell.Tab.0.bottom/0.0.1536.834@0.0.1536.834" timestamp="1586498863277" />
-    <state width="1493" height="237" key="GridCell.Tab.0.center" timestamp="1586498863277">
+    <state width="1493" height="237" key="GridCell.Tab.0.bottom/0.0.1536.834@0.0.1536.834" timestamp="1586499123105" />
+    <state width="1493" height="237" key="GridCell.Tab.0.center" timestamp="1586499123105">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state width="1493" height="237" key="GridCell.Tab.0.center/0.0.1536.834@0.0.1536.834" timestamp="1586498863277" />
-    <state width="1493" height="237" key="GridCell.Tab.0.left" timestamp="1586498863277">
+    <state width="1493" height="237" key="GridCell.Tab.0.center/0.0.1536.834@0.0.1536.834" timestamp="1586499123105" />
+    <state width="1493" height="237" key="GridCell.Tab.0.left" timestamp="1586499123105">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state width="1493" height="237" key="GridCell.Tab.0.left/0.0.1536.834@0.0.1536.834" timestamp="1586498863277" />
-    <state width="1493" height="237" key="GridCell.Tab.0.right" timestamp="1586498863277">
+    <state width="1493" height="237" key="GridCell.Tab.0.left/0.0.1536.834@0.0.1536.834" timestamp="1586499123105" />
+    <state width="1493" height="237" key="GridCell.Tab.0.right" timestamp="1586499123105">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state width="1493" height="237" key="GridCell.Tab.0.right/0.0.1536.834@0.0.1536.834" timestamp="1586498863277" />
+    <state width="1493" height="237" key="GridCell.Tab.0.right/0.0.1536.834@0.0.1536.834" timestamp="1586499123105" />
     <state width="1202" height="181" key="GridCell.Tab.1.bottom" timestamp="1586345911944">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
@@ -1110,10 +1121,10 @@
       <screen x="0" y="0" width="1536" height="834" />
     </state>
     <state x="490" y="159" width="558" height="540" key="StructurePopup/0.0.1536.834@0.0.1536.834" timestamp="1583544847974" />
-    <state x="361" y="146" key="Vcs.Push.Dialog.v2" timestamp="1586418635914">
+    <state x="361" y="146" key="Vcs.Push.Dialog.v2" timestamp="1586498953580">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state x="361" y="146" key="Vcs.Push.Dialog.v2/0.0.1536.834@0.0.1536.834" timestamp="1586418635914" />
+    <state x="361" y="146" key="Vcs.Push.Dialog.v2/0.0.1536.834@0.0.1536.834" timestamp="1586498953580" />
     <state x="92" y="123" width="884" height="568" key="com.intellij.history.integration.ui.views.DirectoryHistoryDialog" timestamp="1582858208019">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
