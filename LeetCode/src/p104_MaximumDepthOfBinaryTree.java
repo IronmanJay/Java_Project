@@ -20,9 +20,9 @@ public class p104_MaximumDepthOfBinaryTree {
 
     public static void main(String[] args) {
         p104_MaximumDepthOfBinaryTree root = new p104_MaximumDepthOfBinaryTree(1);
-        p104_MaximumDepthOfBinaryTree left1 = new p104_MaximumDepthOfBinaryTree(9);
+        p104_MaximumDepthOfBinaryTree left1 = new p104_MaximumDepthOfBinaryTree(2);
         p104_MaximumDepthOfBinaryTree left2 = new p104_MaximumDepthOfBinaryTree(3);
-        p104_MaximumDepthOfBinaryTree right1 = new p104_MaximumDepthOfBinaryTree(10);
+        p104_MaximumDepthOfBinaryTree right1 = new p104_MaximumDepthOfBinaryTree(4);
         //创建一棵树
         root.left = left1;
         left1.right = left2;
