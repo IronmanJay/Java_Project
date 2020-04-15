@@ -1,3 +1,4 @@
 
-}squid:S1192i"_Define a constant instead of duplicating this literal "äºŒå‰æ ‘ä¸ºç©ºï¼Œæ— æ³•éå†" 3 times.(ÅºÒò8›ãø‡.
-·squid:S1598"˜This file "BinaryTreeDemo.java" should be located in "com\atguigu\tree" directory, not in "D:\Software\Java Project\DataStructures\src\Tree\BinaryTree".(“åëÑ8›ãø‡.
+v	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(¸ª¤8ÓÚÑ›—.
+|
+java:S1192i"_Define a constant instead of duplicating this literal "äºŒå‰æ ‘ä¸ºç©ºï¼Œæ— æ³•éå†" 3 times.(ÅºÒò8ÓÚÑ›—.

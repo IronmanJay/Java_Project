@@ -1,6 +1,6 @@
 
-{
-java:S3012."YUse "Arrays.copyOf", "Arrays.asList", "Collections.addAll" or "System.arraycopy" instead.(áÞù—ûÿÿÿÿ8äøº”‹.
 t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(¨°’¹ûÿÿÿÿ
 {
 java:S3012("YUse "Arrays.copyOf", "Arrays.asList", "Collections.addAll" or "System.arraycopy" instead.(ÞçÂ³þÿÿÿÿ8¸¿ª”‹.
+{
+java:S3012."YUse "Arrays.copyOf", "Arrays.asList", "Collections.addAll" or "System.arraycopy" instead.(áÞù—ûÿÿÿÿ8äøº”‹.
