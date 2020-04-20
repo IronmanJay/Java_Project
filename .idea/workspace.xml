@@ -7,7 +7,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="07405ce8-cbd5-43fd-b903-16a731a448bb" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/LeetCode/src/p297_SerializeAndDeserializeBinaryTree.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LeetCode/src/p112_PathSum.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
@@ -174,7 +174,7 @@
       <command value="mvn clean" />
     </option>
   </component>
-  <component name="RunManager" selected="Application.p297_SerializeAndDeserializeBinaryTree">
+  <component name="RunManager" selected="Application.p112_PathSum">
     <configuration name="I1_SymmetricBinaryTree" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="I1_SymmetricBinaryTree" />
       <module name="LeetCode" />
@@ -189,6 +189,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="p112_PathSum" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="p112_PathSum" />
+      <module name="LeetCode" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="p295_FindMedianFromDataStream" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="p295_FindMedianFromDataStream" />
       <module name="LeetCode" />
@@ -198,13 +205,6 @@
     </configuration>
     <configuration name="p297_SerializeAndDeserializeBinaryTree" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="p297_SerializeAndDeserializeBinaryTree" />
-      <module name="LeetCode" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="p378_KtSmallestElementInASortedMatrix" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="p378_KtSmallestElementInASortedMatrix" />
       <module name="LeetCode" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -631,24 +631,24 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.p378_KtSmallestElementInASortedMatrix" />
       <item itemvalue="Application.p295_FindMedianFromDataStream" />
       <item itemvalue="Application.p104_MaximumDepthOfBinaryTree" />
       <item itemvalue="Application.I1_SymmetricBinaryTree" />
+      <item itemvalue="Application.p297_SerializeAndDeserializeBinaryTree" />
       <item itemvalue="Tomcat Server.Redis" />
       <item itemvalue="Tomcat Server.Maven" />
       <item itemvalue="Tomcat Server.SpringMVC" />
       <item itemvalue="Tomcat Server.JavaWeb" />
       <item itemvalue="Tomcat Server.SSM" />
-      <item itemvalue="Application.p297_SerializeAndDeserializeBinaryTree" />
+      <item itemvalue="Application.p112_PathSum" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.p112_PathSum" />
         <item itemvalue="Application.p297_SerializeAndDeserializeBinaryTree" />
         <item itemvalue="Application.I1_SymmetricBinaryTree" />
         <item itemvalue="Application.p104_MaximumDepthOfBinaryTree" />
         <item itemvalue="Application.p295_FindMedianFromDataStream" />
-        <item itemvalue="Application.p378_KtSmallestElementInASortedMatrix" />
       </list>
     </recent_temporary>
   </component>
@@ -836,7 +836,8 @@
       <workItem from="1586495145838" duration="2828000" />
       <workItem from="1586779707981" duration="4334000" />
       <workItem from="1586915112963" duration="2196000" />
-      <workItem from="1587014947423" duration="2667000" />
+      <workItem from="1587014947423" duration="2828000" />
+      <workItem from="1587382797980" duration="1500000" />
     </task>
     <task id="LOCAL-00001" summary="2020.04.07">
       <created>1586245321555</created>
@@ -978,7 +979,14 @@
       <option name="project" value="LOCAL" />
       <updated>1586919490989</updated>
     </task>
-    <option name="localTasksCounter" value="21" />
+    <task id="LOCAL-00021" summary="2020.04.15">
+      <created>1587017783796</created>
+      <option name="number" value="00021" />
+      <option name="presentableId" value="LOCAL-00021" />
+      <option name="project" value="LOCAL" />
+      <updated>1587017783796</updated>
+    </task>
+    <option name="localTasksCounter" value="22" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -1081,10 +1089,10 @@
       <screen x="0" y="0" width="1536" height="834" />
     </state>
     <state x="178" y="110" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1/0.0.1536.834@0.0.1536.834" timestamp="1582858062755" />
-    <state x="295" y="0" key="CommitChangelistDialog2" timestamp="1586919487727">
+    <state x="295" y="0" key="CommitChangelistDialog2" timestamp="1587017776919">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state x="295" y="0" key="CommitChangelistDialog2/0.0.1536.834@0.0.1536.834" timestamp="1586919487727" />
+    <state x="295" y="0" key="CommitChangelistDialog2/0.0.1536.834@0.0.1536.834" timestamp="1587017776919" />
     <state x="93" y="93" width="1350" height="648" key="DiffContextDialog" timestamp="1586318346122">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
@@ -1105,22 +1113,22 @@
       <screen x="0" y="0" width="1536" height="834" />
     </state>
     <state x="467" y="39" key="Github.UntrackedFilesDialog/0.0.1536.834@0.0.1536.834" timestamp="1586243479320" />
-    <state width="1493" height="237" key="GridCell.Tab.0.bottom" timestamp="1587017732620">
+    <state width="1493" height="220" key="GridCell.Tab.0.bottom" timestamp="1587385254442">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state width="1493" height="237" key="GridCell.Tab.0.bottom/0.0.1536.834@0.0.1536.834" timestamp="1587017732620" />
-    <state width="1493" height="237" key="GridCell.Tab.0.center" timestamp="1587017732620">
+    <state width="1493" height="220" key="GridCell.Tab.0.bottom/0.0.1536.834@0.0.1536.834" timestamp="1587385254442" />
+    <state width="1493" height="220" key="GridCell.Tab.0.center" timestamp="1587385254442">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state width="1493" height="237" key="GridCell.Tab.0.center/0.0.1536.834@0.0.1536.834" timestamp="1587017732620" />
-    <state width="1493" height="237" key="GridCell.Tab.0.left" timestamp="1587017732620">
+    <state width="1493" height="220" key="GridCell.Tab.0.center/0.0.1536.834@0.0.1536.834" timestamp="1587385254442" />
+    <state width="1493" height="220" key="GridCell.Tab.0.left" timestamp="1587385254442">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state width="1493" height="237" key="GridCell.Tab.0.left/0.0.1536.834@0.0.1536.834" timestamp="1587017732620" />
-    <state width="1493" height="237" key="GridCell.Tab.0.right" timestamp="1587017732620">
+    <state width="1493" height="220" key="GridCell.Tab.0.left/0.0.1536.834@0.0.1536.834" timestamp="1587385254442" />
+    <state width="1493" height="220" key="GridCell.Tab.0.right" timestamp="1587385254442">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state width="1493" height="237" key="GridCell.Tab.0.right/0.0.1536.834@0.0.1536.834" timestamp="1587017732620" />
+    <state width="1493" height="220" key="GridCell.Tab.0.right/0.0.1536.834@0.0.1536.834" timestamp="1587385254442" />
     <state width="1493" height="321" key="GridCell.Tab.1.bottom" timestamp="1586784454362">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
@@ -1181,18 +1189,18 @@
       <screen x="0" y="0" width="1536" height="834" />
     </state>
     <state x="470" y="123" key="MultipleFileMergeDialog/0.0.1536.834@0.0.1536.834" timestamp="1586246163747" />
-    <state x="281" y="0" width="1037" height="834" key="SettingsEditor" timestamp="1587017754660">
+    <state x="281" y="0" width="1037" height="834" key="SettingsEditor" timestamp="1587017881123">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state x="281" y="0" width="1037" height="834" key="SettingsEditor/0.0.1536.834@0.0.1536.834" timestamp="1587017754660" />
+    <state x="281" y="0" width="1037" height="834" key="SettingsEditor/0.0.1536.834@0.0.1536.834" timestamp="1587017881123" />
     <state x="490" y="159" width="558" height="540" key="StructurePopup" timestamp="1583544847974">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
     <state x="490" y="159" width="558" height="540" key="StructurePopup/0.0.1536.834@0.0.1536.834" timestamp="1583544847974" />
-    <state x="361" y="146" key="Vcs.Push.Dialog.v2" timestamp="1586919499479">
+    <state x="361" y="146" key="Vcs.Push.Dialog.v2" timestamp="1587017884979">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state x="361" y="146" key="Vcs.Push.Dialog.v2/0.0.1536.834@0.0.1536.834" timestamp="1586919499479" />
+    <state x="361" y="146" key="Vcs.Push.Dialog.v2/0.0.1536.834@0.0.1536.834" timestamp="1587017884979" />
     <state x="92" y="123" width="884" height="568" key="com.intellij.history.integration.ui.views.DirectoryHistoryDialog" timestamp="1582858208019">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
