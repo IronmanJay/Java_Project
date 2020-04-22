@@ -1,4 +1,4 @@
 
-v	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(¸ª¤8ÓÚÑ›—.
 |
 java:S1192i"_Define a constant instead of duplicating this literal "äºŒå‰æ ‘ä¸ºç©ºï¼Œæ— æ³•éå†" 3 times.(ÅºÒò8ÓÚÑ›—.
+v	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(¸ª¤8ÓÚÑ›—.
