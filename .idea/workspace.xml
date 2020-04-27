@@ -7,31 +7,25 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="07405ce8-cbd5-43fd-b903-16a731a448bb" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/LeetCode/src/Tree/p257_BinaryTreePaths.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LeetCode/src/ToFlashBack/p131_PalindromePartitioning.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/0/0/00614595ceac69830cd475ba8ded4d32136eb909" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/1/4/146fa874e818502f6740b01571cae816ea0d66a9" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/2/9/29999d69d4035877646e81a1a1ead6e46d5da759" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/2/b/2b871c37bd1d22b99171c0b296e4c27ef5cb5516" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/2/e/2e73cfffb7a222e83a44ab8dd772a62ea218881e" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/5/5/5530ba99fd3b8e5f5b75f89028fefc723aeaf19c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/5/b/5b3db76e0c229ad973f35162d5c49579e42ebd26" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/6/5/65cce3dcdfeca40e737dfa5eff54eb5d4b3b4d9f" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/6/6/6601417c73b46ba06468496acd532ae2161e5050" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/6/a/6a5233d9bddf7c0b126d599c59e0a5fad2391f53" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/9/a/9a8fc01c98dda45ebcd5d259891da054d02b2a0f" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/a/1/a13126a0c71a8ab2333e2f5dbd08dad9f2a37fcb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/c/4/c4f40d1946eb9ef4069471f10bc16dbd42922488" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/d/e/de1b9257a0dd742618858c9fc29b0667e947067a" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/e/1/e1c4b1249859041c96d326a5aebf5f526b8f6328" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/f/6/f6dbb41b0da0f0aa3c0521e21921d6b4286ad27f" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/LeetCode/src/I1_SymmetricBinaryTree.java" beforeDir="false" afterPath="$PROJECT_DIR$/LeetCode/src/Tree/I1_SymmetricBinaryTree.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/LeetCode/src/p104_MaximumDepthOfBinaryTree.java" beforeDir="false" afterPath="$PROJECT_DIR$/LeetCode/src/Tree/p104_MaximumDepthOfBinaryTree.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/LeetCode/src/p112_PathSum.java" beforeDir="false" afterPath="$PROJECT_DIR$/LeetCode/src/Tree/p112_PathSum.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/LeetCode/src/p113_PathSumII.java" beforeDir="false" afterPath="$PROJECT_DIR$/LeetCode/src/Tree/p113_PathSumII.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/LeetCode/src/p129_SumRootToLeafNumbers.java" beforeDir="false" afterPath="$PROJECT_DIR$/LeetCode/src/Tree/p129_SumRootToLeafNumbers.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/LeetCode/src/p13_RomanNumeralToInteger.java" beforeDir="false" afterPath="$PROJECT_DIR$/LeetCode/src/Sum/p13_RomanNumeralToInteger.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/LeetCode/src/p14_LongestCommonPrefix.java" beforeDir="false" afterPath="$PROJECT_DIR$/LeetCode/src/String/p14_LongestCommonPrefix.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/LeetCode/src/p155_MinStack.java" beforeDir="false" afterPath="$PROJECT_DIR$/LeetCode/src/Stack/p155_MinStack.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/LeetCode/src/p1_SumOfTwoNumbers.java" beforeDir="false" afterPath="$PROJECT_DIR$/LeetCode/src/Sum/p1_SumOfTwoNumbers.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/LeetCode/src/p215_KthLargestElementInAnArray.java" beforeDir="false" afterPath="$PROJECT_DIR$/LeetCode/src/Array/p215_KthLargestElementInAnArray.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/LeetCode/src/p295_FindMedianFromDataStream.java" beforeDir="false" afterPath="$PROJECT_DIR$/LeetCode/src/Stream/p295_FindMedianFromDataStream.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/LeetCode/src/p297_SerializeAndDeserializeBinaryTree.java" beforeDir="false" afterPath="$PROJECT_DIR$/LeetCode/src/Tree/p297_SerializeAndDeserializeBinaryTree.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/LeetCode/src/p378_KtSmallestElementInASortedMatrix.java" beforeDir="false" afterPath="$PROJECT_DIR$/LeetCode/src/Sort/p378_KtSmallestElementInASortedMatrix.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/LeetCode/src/p7_IntegerInversion.java" beforeDir="false" afterPath="$PROJECT_DIR$/LeetCode/src/Sum/p7_IntegerInversion.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/LeetCode/src/p933_RecentRequests.java" beforeDir="false" afterPath="$PROJECT_DIR$/LeetCode/src/Stack/p933_RecentRequests.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/LeetCode/src/p9_PalindromeNumber.java" beforeDir="false" afterPath="$PROJECT_DIR$/LeetCode/src/Sum/p9_PalindromeNumber.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/p13_RomanNumeralToInteger.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/p14_LongestCommonPrefix.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/p1_SumOfTwoNumbers.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/p7_IntegerInversion.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/p933_RecentRequests.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/p9_PalindromeNumber.class" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -147,7 +141,7 @@
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit5" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5" value="" />
     <property name="create.test.in.the.same.root" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../E-CommerceWarehouse/log-collector" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
@@ -201,10 +195,16 @@
       <command value="mvn clean" />
     </option>
   </component>
-  <component name="RunManager" selected="Application.p257_BinaryTreePaths">
-    <configuration name="p112_PathSum" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Tree.p112_PathSum" />
-      <module name="LeetCode" />
+  <component name="RunManager" selected="Application.p131_PalindromePartitioning">
+    <configuration name="ConnectionUtils" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="utils.ConnectionUtils" />
+      <module name="JavaWEB" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="utils.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -223,6 +223,19 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="p131_PalindromePartitioning" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ToFlashBack.p131_PalindromePartitioning" />
+      <module name="LeetCode" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ToFlashBack.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="p257_BinaryTreePaths" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Tree.p257_BinaryTreePaths" />
       <module name="LeetCode" />
@@ -232,13 +245,6 @@
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="p297_SerializeAndDeserializeBinaryTree" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Tree.p297_SerializeAndDeserializeBinaryTree" />
-      <module name="LeetCode" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -664,24 +670,24 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.p297_SerializeAndDeserializeBinaryTree" />
-      <item itemvalue="Application.p112_PathSum" />
       <item itemvalue="Application.p113_PathSumII" />
       <item itemvalue="Application.p129_SumRootToLeafNumbers" />
+      <item itemvalue="Application.p257_BinaryTreePaths" />
       <item itemvalue="Tomcat Server.Redis" />
       <item itemvalue="Tomcat Server.Maven" />
       <item itemvalue="Tomcat Server.SpringMVC" />
       <item itemvalue="Tomcat Server.JavaWeb" />
       <item itemvalue="Tomcat Server.SSM" />
-      <item itemvalue="Application.p257_BinaryTreePaths" />
+      <item itemvalue="Application.ConnectionUtils" />
+      <item itemvalue="Application.p131_PalindromePartitioning" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.p131_PalindromePartitioning" />
+        <item itemvalue="Application.ConnectionUtils" />
         <item itemvalue="Application.p257_BinaryTreePaths" />
         <item itemvalue="Application.p129_SumRootToLeafNumbers" />
         <item itemvalue="Application.p113_PathSumII" />
-        <item itemvalue="Application.p112_PathSum" />
-        <item itemvalue="Application.p297_SerializeAndDeserializeBinaryTree" />
       </list>
     </recent_temporary>
   </component>
@@ -874,7 +880,8 @@
       <workItem from="1587521090306" duration="2535000" />
       <workItem from="1587600645570" duration="1726000" />
       <workItem from="1587610192666" duration="2779000" />
-      <workItem from="1587693662694" duration="2311000" />
+      <workItem from="1587693662694" duration="2433000" />
+      <workItem from="1587947830247" duration="7850000" />
     </task>
     <task id="LOCAL-00001" summary="2020.04.07">
       <created>1586245321555</created>
@@ -1058,7 +1065,21 @@
       <option name="project" value="LOCAL" />
       <updated>1587613436544</updated>
     </task>
-    <option name="localTasksCounter" value="27" />
+    <task id="LOCAL-00027" summary="2020.04.24">
+      <created>1587697636552</created>
+      <option name="number" value="00027" />
+      <option name="presentableId" value="LOCAL-00027" />
+      <option name="project" value="LOCAL" />
+      <updated>1587697636552</updated>
+    </task>
+    <task id="LOCAL-00028" summary="2020.04.24">
+      <created>1587697676896</created>
+      <option name="number" value="00028" />
+      <option name="presentableId" value="LOCAL-00028" />
+      <option name="project" value="LOCAL" />
+      <updated>1587697676896</updated>
+    </task>
+    <option name="localTasksCounter" value="29" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -1077,7 +1098,8 @@
     <MESSAGE value="2020.04.20" />
     <MESSAGE value="2020.04.21" />
     <MESSAGE value="2020.04.23" />
-    <option name="LAST_COMMIT_MESSAGE" value="2020.04.23" />
+    <MESSAGE value="2020.04.24" />
+    <option name="LAST_COMMIT_MESSAGE" value="2020.04.24" />
   </component>
   <component name="WindowStateProjectService">
     <state x="7" y="64" key="#Inspections" timestamp="1582590209438">
@@ -1164,10 +1186,10 @@
       <screen x="0" y="0" width="1536" height="834" />
     </state>
     <state x="178" y="110" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1/0.0.1536.834@0.0.1536.834" timestamp="1582858062755" />
-    <state x="295" y="0" key="CommitChangelistDialog2" timestamp="1587697628126">
+    <state x="295" y="0" key="CommitChangelistDialog2" timestamp="1587697676109">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state x="295" y="0" key="CommitChangelistDialog2/0.0.1536.834@0.0.1536.834" timestamp="1587697628126" />
+    <state x="295" y="0" key="CommitChangelistDialog2/0.0.1536.834@0.0.1536.834" timestamp="1587697676109" />
     <state x="93" y="93" width="1350" height="648" key="DiffContextDialog" timestamp="1586318346122">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
@@ -1188,38 +1210,38 @@
       <screen x="0" y="0" width="1536" height="834" />
     </state>
     <state x="467" y="39" key="Github.UntrackedFilesDialog/0.0.1536.834@0.0.1536.834" timestamp="1586243479320" />
-    <state width="1493" height="220" key="GridCell.Tab.0.bottom" timestamp="1587697580319">
+    <state width="1493" height="321" key="GridCell.Tab.0.bottom" timestamp="1587958223572">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state width="1493" height="220" key="GridCell.Tab.0.bottom/0.0.1536.834@0.0.1536.834" timestamp="1587697580319" />
-    <state width="1493" height="220" key="GridCell.Tab.0.center" timestamp="1587697580319">
+    <state width="1493" height="321" key="GridCell.Tab.0.bottom/0.0.1536.834@0.0.1536.834" timestamp="1587958223572" />
+    <state width="1493" height="321" key="GridCell.Tab.0.center" timestamp="1587958223572">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state width="1493" height="220" key="GridCell.Tab.0.center/0.0.1536.834@0.0.1536.834" timestamp="1587697580319" />
-    <state width="1493" height="220" key="GridCell.Tab.0.left" timestamp="1587697580319">
+    <state width="1493" height="321" key="GridCell.Tab.0.center/0.0.1536.834@0.0.1536.834" timestamp="1587958223572" />
+    <state width="1493" height="321" key="GridCell.Tab.0.left" timestamp="1587958223572">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state width="1493" height="220" key="GridCell.Tab.0.left/0.0.1536.834@0.0.1536.834" timestamp="1587697580319" />
-    <state width="1493" height="220" key="GridCell.Tab.0.right" timestamp="1587697580319">
+    <state width="1493" height="321" key="GridCell.Tab.0.left/0.0.1536.834@0.0.1536.834" timestamp="1587958223572" />
+    <state width="1493" height="321" key="GridCell.Tab.0.right" timestamp="1587958223572">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state width="1493" height="220" key="GridCell.Tab.0.right/0.0.1536.834@0.0.1536.834" timestamp="1587697580319" />
-    <state width="1493" height="321" key="GridCell.Tab.1.bottom" timestamp="1586784454362">
+    <state width="1493" height="321" key="GridCell.Tab.0.right/0.0.1536.834@0.0.1536.834" timestamp="1587958223572" />
+    <state width="1493" height="321" key="GridCell.Tab.1.bottom" timestamp="1587958223573">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state width="1493" height="321" key="GridCell.Tab.1.bottom/0.0.1536.834@0.0.1536.834" timestamp="1586784454362" />
-    <state width="1493" height="321" key="GridCell.Tab.1.center" timestamp="1586784454361">
+    <state width="1493" height="321" key="GridCell.Tab.1.bottom/0.0.1536.834@0.0.1536.834" timestamp="1587958223573" />
+    <state width="1493" height="321" key="GridCell.Tab.1.center" timestamp="1587958223572">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state width="1493" height="321" key="GridCell.Tab.1.center/0.0.1536.834@0.0.1536.834" timestamp="1586784454361" />
-    <state width="1493" height="321" key="GridCell.Tab.1.left" timestamp="1586784454361">
+    <state width="1493" height="321" key="GridCell.Tab.1.center/0.0.1536.834@0.0.1536.834" timestamp="1587958223572" />
+    <state width="1493" height="321" key="GridCell.Tab.1.left" timestamp="1587958223572">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state width="1493" height="321" key="GridCell.Tab.1.left/0.0.1536.834@0.0.1536.834" timestamp="1586784454361" />
-    <state width="1493" height="321" key="GridCell.Tab.1.right" timestamp="1586784454361">
+    <state width="1493" height="321" key="GridCell.Tab.1.left/0.0.1536.834@0.0.1536.834" timestamp="1587958223572" />
+    <state width="1493" height="321" key="GridCell.Tab.1.right" timestamp="1587958223572">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state width="1493" height="321" key="GridCell.Tab.1.right/0.0.1536.834@0.0.1536.834" timestamp="1586784454361" />
+    <state width="1493" height="321" key="GridCell.Tab.1.right/0.0.1536.834@0.0.1536.834" timestamp="1587958223572" />
     <state width="1202" height="181" key="GridCell.Tab.2.bottom" timestamp="1586345911945">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
@@ -1272,10 +1294,10 @@
       <screen x="0" y="0" width="1536" height="834" />
     </state>
     <state x="490" y="159" width="558" height="540" key="StructurePopup/0.0.1536.834@0.0.1536.834" timestamp="1583544847974" />
-    <state x="361" y="146" key="Vcs.Push.Dialog.v2" timestamp="1587697654675">
+    <state x="361" y="146" key="Vcs.Push.Dialog.v2" timestamp="1587697681518">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state x="361" y="146" key="Vcs.Push.Dialog.v2/0.0.1536.834@0.0.1536.834" timestamp="1587697654675" />
+    <state x="361" y="146" key="Vcs.Push.Dialog.v2/0.0.1536.834@0.0.1536.834" timestamp="1587697681518" />
     <state x="92" y="123" width="884" height="568" key="com.intellij.history.integration.ui.views.DirectoryHistoryDialog" timestamp="1582858208019">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
@@ -1320,10 +1342,10 @@
       <screen x="0" y="0" width="1536" height="834" />
     </state>
     <state x="426" y="190" width="672" height="677" key="run.anything.popup/0.0.1536.834@0.0.1536.834" timestamp="1583668644850" />
-    <state x="346" y="154" width="672" height="678" key="search.everywhere.popup" timestamp="1587017476086">
+    <state x="346" y="154" width="672" height="678" key="search.everywhere.popup" timestamp="1587957755727">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state x="346" y="154" width="672" height="678" key="search.everywhere.popup/0.0.1536.834@0.0.1536.834" timestamp="1587017476086" />
+    <state x="346" y="154" width="672" height="678" key="search.everywhere.popup/0.0.1536.834@0.0.1536.834" timestamp="1587957755727" />
     <state x="544" y="317" key="svn.passwordDialog" timestamp="1586243074226">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
