@@ -1,0 +1,4 @@
+
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(Ü©Ãìøÿÿÿÿ
+‹
+java:S1319C"pThe type of the "temp" object should be an interface such as "List" rather than the implementation "LinkedList".(ÖŠÿ²üÿÿÿÿ

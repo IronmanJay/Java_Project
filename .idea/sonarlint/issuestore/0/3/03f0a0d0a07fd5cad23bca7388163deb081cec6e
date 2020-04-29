@@ -1,6 +1,6 @@
 
-v	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(¿ Ø÷8§ü‚¨’.
 {
 java:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(ÑË¿’ÿÿÿÿÿ8§ü‚¨’.
 H
 java:S1168/"+Return an empty collection instead of null.(¥¹ï8§ü‚¨’.
+v	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(¿ Ø÷8§ü‚¨’.

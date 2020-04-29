@@ -1,12 +1,10 @@
 
-t
-java:S1104["WMake already_arr a static final constant or non-public and provide accessors if needed.( Ñÿ8˜ØÖ¼‹.
-q
-java:S1104_"OMake dis a static final constant or non-public and provide accessors if needed.(ŞıÅùÿÿÿÿ8˜ØÖ¼‹.
-r	java:S116["VRename this field "already_arr" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.( Ñÿ8˜ØÖ¼‹.
-w	java:S116]"VRename this field "pre_visited" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(µÜˆëùÿÿÿÿ8˜ØÖ¼‹.
-t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ñ“„ûşÿÿÿÿ
-F
-java:S1659"#Declare "index" on a separate line.(º©™úÿÿÿÿ8âÁÉ½‹.
 y
 java:S1104]"WMake pre_visited a static final constant or non-public and provide accessors if needed.(µÜˆëùÿÿÿÿ8˜ØÖ¼‹.
+t
+java:S1104["WMake already_arr a static final constant or non-public and provide accessors if needed.( Ñÿ8˜ØÖ¼‹.
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ñ“„ûşÿÿÿÿ
+q
+java:S1104_"OMake dis a static final constant or non-public and provide accessors if needed.(ŞıÅùÿÿÿÿ8˜ØÖ¼‹.
+F
+java:S1659"#Declare "index" on a separate line.(º©™úÿÿÿÿ8âÁÉ½‹.

@@ -7,23 +7,45 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="07405ce8-cbd5-43fd-b903-16a731a448bb" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/LeetCode/src/ToFlashBack/p131_PalindromePartitioning.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/0/0/00614595ceac69830cd475ba8ded4d32136eb909" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/1/4/146fa874e818502f6740b01571cae816ea0d66a9" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/2/9/29999d69d4035877646e81a1a1ead6e46d5da759" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/2/b/2b871c37bd1d22b99171c0b296e4c27ef5cb5516" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/2/e/2e73cfffb7a222e83a44ab8dd772a62ea218881e" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/5/5/5530ba99fd3b8e5f5b75f89028fefc723aeaf19c" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/5/b/5b3db76e0c229ad973f35162d5c49579e42ebd26" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/6/5/65cce3dcdfeca40e737dfa5eff54eb5d4b3b4d9f" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/6/6/6601417c73b46ba06468496acd532ae2161e5050" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/6/a/6a5233d9bddf7c0b126d599c59e0a5fad2391f53" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/9/a/9a8fc01c98dda45ebcd5d259891da054d02b2a0f" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/a/1/a13126a0c71a8ab2333e2f5dbd08dad9f2a37fcb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/c/4/c4f40d1946eb9ef4069471f10bc16dbd42922488" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/d/e/de1b9257a0dd742618858c9fc29b0667e947067a" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/e/1/e1c4b1249859041c96d326a5aebf5f526b8f6328" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/f/6/f6dbb41b0da0f0aa3c0521e21921d6b4286ad27f" beforeDir="false" />
+      <change afterPath="$PROJECT_DIR$/LeetCode/src/ToFlashBack/p79_WordSearch.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/0/3/03f0a0d0a07fd5cad23bca7388163deb081cec6e" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/0/3/03f0a0d0a07fd5cad23bca7388163deb081cec6e" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/0/b/0b68862511c2bb640d492fae03f22f14b1d964ea" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/0/c/0ce1d8241aaf3a5a066beecd2177dd7cbda5ea62" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/1/0/10f2b6ae8fc6dbd4f860974e9792a0d93f8fd8d4" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/1/0/10f2b6ae8fc6dbd4f860974e9792a0d93f8fd8d4" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/1/4/14fcf2331f7094a02a46a5ba5685137d8e417e0c" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/1/4/14fcf2331f7094a02a46a5ba5685137d8e417e0c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/1/d/1d3edb82a73e4827ee13b447eaeb846c234a45c2" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/1/d/1d3edb82a73e4827ee13b447eaeb846c234a45c2" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/1/e/1e08c45e1b6e48f7fa6e3d8baf24c9e9e83fb317" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/1/e/1eafce66f04040faba7b63ac1b9ac645ce996c24" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/3/4/34ce948b834e099853c3f52ee4c5ba4270cb5dc1" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/3/e/3e83851345d6833fd64432e59044344a6d42914d" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/3/e/3e83851345d6833fd64432e59044344a6d42914d" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/4/6/469f89070e468d2279edfa1fabcf3dce3a836ca7" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/4/6/469f89070e468d2279edfa1fabcf3dce3a836ca7" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/4/8/48e5e0818a3a93620581526dfd49d2ef6bbbd71a" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/4/8/48e5e0818a3a93620581526dfd49d2ef6bbbd71a" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/5/3/535101d83fb53999a11cda0c5db14986ebaf1860" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/5/3/535101d83fb53999a11cda0c5db14986ebaf1860" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/5/3/53e661947dca57632c361ff848980a245abd21bf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/5/8/58f7892d649d6a13ec65f988dafe89e47fc2ea0c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/5/e/5e84745bc9296cb7989186812eeda6df1a85439e" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/5/e/5e9566ab96818b1abaf6a25bb96be22b9b14fd5e" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/6/1/61d72dc33ad4edde7f6846623212d21559f6e62e" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/6/1/61d72dc33ad4edde7f6846623212d21559f6e62e" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/6/c/6cbadb7acba6becf26f31b69495bf1f8d436f0a3" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/7/3/7362452de17ceb4dff720ace8294f4338fae5c80" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/7/3/7362452de17ceb4dff720ace8294f4338fae5c80" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/7/5/752339ef6a6b81401879d8bcb27be701118030b1" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/7/8/783d3ddac9353e78bddcea61e35b82b0a3dd6d07" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/7/8/7882c4d7e470a73689b2a26f93ac7b19a5e7450a" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/7/8/78b52eedfa4159e5677ef9c4bc5aecc3ff332aac" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/7/8/78b52eedfa4159e5677ef9c4bc5aecc3ff332aac" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/7/8/78e71b01ef2a6858d328af40ec0154a188014ca3" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/7/c/7c04b4676dcd7f3c98eab496809d9c89ccd57bd6" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/7/c/7c04b4676dcd7f3c98eab496809d9c89ccd57bd6" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/7/e/7ecf12737e3eb6d88692306b16a3387318abaca5" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/8/2/8261d24467d1e402dacc5ec5fd0aeee4427fe67a" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/8/2/8261d24467d1e402dacc5ec5fd0aeee4427fe67a" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/9/5/9506e634267b494cffdd1767d879f8eaf0970baf" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/9/5/9506e634267b494cffdd1767d879f8eaf0970baf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/a/2/a2aea55625fcd2bda7f6519ec11c138a69769139" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/a/2/a2aea55625fcd2bda7f6519ec11c138a69769139" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/b/5/b5306929ef4af9722562c5bdbf80eeb1282c6388" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/b/5/b5306929ef4af9722562c5bdbf80eeb1282c6388" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/b/e/bed9072d4f94a2c5e014178a2c4687d6e7c14a11" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/b/e/bed9072d4f94a2c5e014178a2c4687d6e7c14a11" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/c/8/c8a613b03ee2f179f0af944c1e11a2e6b707856e" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/c/8/c8a613b03ee2f179f0af944c1e11a2e6b707856e" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/c/c/cc5a621b8733e2694103cf346ca87bbb8fe96cb1" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/c/c/cc5a621b8733e2694103cf346ca87bbb8fe96cb1" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/e/4/e44d9b5a5d600d3a3d99140f574026112555be9c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/e/9/e913f60a2dcbb93ecda2a17b775d5ea1decf7050" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/e/c/ec2599dd3a5764ff7235fc1f6d5e77842a457c94" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/e/c/ec2599dd3a5764ff7235fc1f6d5e77842a457c94" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/f/9/f94917336f1dc3debf68b3aef71f869e390018c4" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/f/9/f94917336f1dc3debf68b3aef71f869e390018c4" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
@@ -141,7 +163,7 @@
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit5" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5" value="" />
     <property name="create.test.in.the.same.root" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../zy18230" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
@@ -195,13 +217,13 @@
       <command value="mvn clean" />
     </option>
   </component>
-  <component name="RunManager" selected="Application.p131_PalindromePartitioning">
-    <configuration name="ConnectionUtils" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="utils.ConnectionUtils" />
-      <module name="JavaWEB" />
+  <component name="RunManager" selected="Application.p79_WordSearch">
+    <configuration name="DijkstraAlgorithm" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Dijkstra.DijkstraAlgorithm" />
+      <module name="Algorithm" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="utils.*" />
+          <option name="PATTERN" value="Dijkstra.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -209,39 +231,51 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="p113_PathSumII" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Tree.p113_PathSumII" />
-      <module name="LeetCode" />
+    <configuration name="MiGong" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Recursion.MiGong" />
+      <module name="DataStructures" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Recursion.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="p129_SumRootToLeafNumbers" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Tree.p129_SumRootToLeafNumbers" />
-      <module name="LeetCode" />
+    <configuration name="Queue8" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Recursion.Queue8" />
+      <module name="DataStructures" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Recursion.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="p131_PalindromePartitioning" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ToFlashBack.p131_PalindromePartitioning" />
+    <configuration name="ShellSort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Sort.ShellSort" />
+      <module name="DataStructures" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Sort.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="p79_WordSearch" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ToFlashBack.p79_WordSearch" />
       <module name="LeetCode" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="ToFlashBack.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="p257_BinaryTreePaths" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Tree.p257_BinaryTreePaths" />
-      <module name="LeetCode" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Tree.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -670,24 +704,24 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.p113_PathSumII" />
-      <item itemvalue="Application.p129_SumRootToLeafNumbers" />
-      <item itemvalue="Application.p257_BinaryTreePaths" />
+      <item itemvalue="Application.ShellSort" />
+      <item itemvalue="Application.DijkstraAlgorithm" />
+      <item itemvalue="Application.Queue8" />
+      <item itemvalue="Application.MiGong" />
       <item itemvalue="Tomcat Server.Redis" />
       <item itemvalue="Tomcat Server.Maven" />
       <item itemvalue="Tomcat Server.SpringMVC" />
       <item itemvalue="Tomcat Server.JavaWeb" />
       <item itemvalue="Tomcat Server.SSM" />
-      <item itemvalue="Application.ConnectionUtils" />
-      <item itemvalue="Application.p131_PalindromePartitioning" />
+      <item itemvalue="Application.p79_WordSearch" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.p131_PalindromePartitioning" />
-        <item itemvalue="Application.ConnectionUtils" />
-        <item itemvalue="Application.p257_BinaryTreePaths" />
-        <item itemvalue="Application.p129_SumRootToLeafNumbers" />
-        <item itemvalue="Application.p113_PathSumII" />
+        <item itemvalue="Application.p79_WordSearch" />
+        <item itemvalue="Application.MiGong" />
+        <item itemvalue="Application.Queue8" />
+        <item itemvalue="Application.DijkstraAlgorithm" />
+        <item itemvalue="Application.ShellSort" />
       </list>
     </recent_temporary>
   </component>
@@ -881,7 +915,9 @@
       <workItem from="1587600645570" duration="1726000" />
       <workItem from="1587610192666" duration="2779000" />
       <workItem from="1587693662694" duration="2433000" />
-      <workItem from="1587947830247" duration="7850000" />
+      <workItem from="1587947830247" duration="10019000" />
+      <workItem from="1587997301458" duration="775000" />
+      <workItem from="1588136877785" duration="2486000" />
     </task>
     <task id="LOCAL-00001" summary="2020.04.07">
       <created>1586245321555</created>
@@ -1079,7 +1115,14 @@
       <option name="project" value="LOCAL" />
       <updated>1587697676896</updated>
     </task>
-    <option name="localTasksCounter" value="29" />
+    <task id="LOCAL-00029" summary="2020.04.27">
+      <created>1587958459139</created>
+      <option name="number" value="00029" />
+      <option name="presentableId" value="LOCAL-00029" />
+      <option name="project" value="LOCAL" />
+      <updated>1587958459140</updated>
+    </task>
+    <option name="localTasksCounter" value="30" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -1099,17 +1142,18 @@
     <MESSAGE value="2020.04.21" />
     <MESSAGE value="2020.04.23" />
     <MESSAGE value="2020.04.24" />
-    <option name="LAST_COMMIT_MESSAGE" value="2020.04.24" />
+    <MESSAGE value="2020.04.27" />
+    <option name="LAST_COMMIT_MESSAGE" value="2020.04.27" />
   </component>
   <component name="WindowStateProjectService">
     <state x="7" y="64" key="#Inspections" timestamp="1582590209438">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
     <state x="7" y="64" key="#Inspections/0.0.1536.834@0.0.1536.834" timestamp="1582590209438" />
-    <state x="347" y="0" width="814" height="834" key="#Project_Structure" timestamp="1585554164928">
+    <state x="347" y="0" width="814" height="834" key="#Project_Structure" timestamp="1588137082935">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state x="347" y="0" width="814" height="834" key="#Project_Structure/0.0.1536.834@0.0.1536.834" timestamp="1585554164928" />
+    <state x="347" y="0" width="814" height="834" key="#Project_Structure/0.0.1536.834@0.0.1536.834" timestamp="1588137082935" />
     <state x="361" y="76" key="#SQL_Dialects" timestamp="1581658456406">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
@@ -1118,10 +1162,10 @@
       <screen x="0" y="0" width="1536" height="834" />
     </state>
     <state x="0" y="58" key="#Tomcat_Server/0.0.1536.834@0.0.1536.834" timestamp="1580881789123" />
-    <state x="377" y="51" width="1089" height="708" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1586342970485">
+    <state x="377" y="51" width="1089" height="708" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1587960558314">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state x="377" y="51" width="1089" height="708" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1536.834@0.0.1536.834" timestamp="1586342970485" />
+    <state x="377" y="51" width="1089" height="708" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1536.834@0.0.1536.834" timestamp="1587960558314" />
     <state x="520" y="365" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1580106490792">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
@@ -1186,18 +1230,18 @@
       <screen x="0" y="0" width="1536" height="834" />
     </state>
     <state x="178" y="110" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1/0.0.1536.834@0.0.1536.834" timestamp="1582858062755" />
-    <state x="295" y="0" key="CommitChangelistDialog2" timestamp="1587697676109">
+    <state x="295" y="0" key="CommitChangelistDialog2" timestamp="1587958453964">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state x="295" y="0" key="CommitChangelistDialog2/0.0.1536.834@0.0.1536.834" timestamp="1587697676109" />
+    <state x="295" y="0" key="CommitChangelistDialog2/0.0.1536.834@0.0.1536.834" timestamp="1587958453964" />
     <state x="93" y="93" width="1350" height="648" key="DiffContextDialog" timestamp="1586318346122">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
     <state x="93" y="93" width="1350" height="648" key="DiffContextDialog/0.0.1536.834@0.0.1536.834" timestamp="1586318346122" />
-    <state x="121" y="170" key="FileChooserDialogImpl" timestamp="1587600921799">
+    <state x="121" y="170" key="FileChooserDialogImpl" timestamp="1587960292414">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state x="121" y="170" key="FileChooserDialogImpl/0.0.1536.834@0.0.1536.834" timestamp="1587600921799" />
+    <state x="121" y="170" key="FileChooserDialogImpl/0.0.1536.834@0.0.1536.834" timestamp="1587960292414" />
     <state x="493" y="324" width="394" height="192" key="Github.CreateGistDialog" timestamp="1586242627937">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
@@ -1210,22 +1254,22 @@
       <screen x="0" y="0" width="1536" height="834" />
     </state>
     <state x="467" y="39" key="Github.UntrackedFilesDialog/0.0.1536.834@0.0.1536.834" timestamp="1586243479320" />
-    <state width="1493" height="321" key="GridCell.Tab.0.bottom" timestamp="1587958223572">
+    <state width="1493" height="224" key="GridCell.Tab.0.bottom" timestamp="1588141138756">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state width="1493" height="321" key="GridCell.Tab.0.bottom/0.0.1536.834@0.0.1536.834" timestamp="1587958223572" />
-    <state width="1493" height="321" key="GridCell.Tab.0.center" timestamp="1587958223572">
+    <state width="1493" height="224" key="GridCell.Tab.0.bottom/0.0.1536.834@0.0.1536.834" timestamp="1588141138756" />
+    <state width="1493" height="224" key="GridCell.Tab.0.center" timestamp="1588141138756">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state width="1493" height="321" key="GridCell.Tab.0.center/0.0.1536.834@0.0.1536.834" timestamp="1587958223572" />
-    <state width="1493" height="321" key="GridCell.Tab.0.left" timestamp="1587958223572">
+    <state width="1493" height="224" key="GridCell.Tab.0.center/0.0.1536.834@0.0.1536.834" timestamp="1588141138756" />
+    <state width="1493" height="224" key="GridCell.Tab.0.left" timestamp="1588141138756">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state width="1493" height="321" key="GridCell.Tab.0.left/0.0.1536.834@0.0.1536.834" timestamp="1587958223572" />
-    <state width="1493" height="321" key="GridCell.Tab.0.right" timestamp="1587958223572">
+    <state width="1493" height="224" key="GridCell.Tab.0.left/0.0.1536.834@0.0.1536.834" timestamp="1588141138756" />
+    <state width="1493" height="224" key="GridCell.Tab.0.right" timestamp="1588141138756">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state width="1493" height="321" key="GridCell.Tab.0.right/0.0.1536.834@0.0.1536.834" timestamp="1587958223572" />
+    <state width="1493" height="224" key="GridCell.Tab.0.right/0.0.1536.834@0.0.1536.834" timestamp="1588141138756" />
     <state width="1493" height="321" key="GridCell.Tab.1.bottom" timestamp="1587958223573">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
@@ -1294,10 +1338,10 @@
       <screen x="0" y="0" width="1536" height="834" />
     </state>
     <state x="490" y="159" width="558" height="540" key="StructurePopup/0.0.1536.834@0.0.1536.834" timestamp="1583544847974" />
-    <state x="361" y="146" key="Vcs.Push.Dialog.v2" timestamp="1587697681518">
+    <state x="361" y="146" key="Vcs.Push.Dialog.v2" timestamp="1587958465913">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state x="361" y="146" key="Vcs.Push.Dialog.v2/0.0.1536.834@0.0.1536.834" timestamp="1587697681518" />
+    <state x="361" y="146" key="Vcs.Push.Dialog.v2/0.0.1536.834@0.0.1536.834" timestamp="1587958465913" />
     <state x="92" y="123" width="884" height="568" key="com.intellij.history.integration.ui.views.DirectoryHistoryDialog" timestamp="1582858208019">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
@@ -1342,10 +1386,10 @@
       <screen x="0" y="0" width="1536" height="834" />
     </state>
     <state x="426" y="190" width="672" height="677" key="run.anything.popup/0.0.1536.834@0.0.1536.834" timestamp="1583668644850" />
-    <state x="346" y="154" width="672" height="678" key="search.everywhere.popup" timestamp="1587957755727">
+    <state x="346" y="154" width="672" height="678" key="search.everywhere.popup" timestamp="1588141266853">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state x="346" y="154" width="672" height="678" key="search.everywhere.popup/0.0.1536.834@0.0.1536.834" timestamp="1587957755727" />
+    <state x="346" y="154" width="672" height="678" key="search.everywhere.popup/0.0.1536.834@0.0.1536.834" timestamp="1588141266853" />
     <state x="544" y="317" key="svn.passwordDialog" timestamp="1586243074226">
       <screen x="0" y="0" width="1536" height="834" />
     </state>

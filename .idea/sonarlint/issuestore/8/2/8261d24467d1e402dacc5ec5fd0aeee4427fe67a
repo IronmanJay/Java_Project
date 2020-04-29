@@ -1,3 +1,5 @@
 
-Dsquid:S5164:"&Use "remove()" instead of "set(null)".(ñ¾óó8·‚É.
-6squid:S5164"Call "remove()" on "tl".(Š×”ï8·‚É.
+C
+java:S5164:"&Use "remove()" instead of "set(null)".(ñ¾óó8í×¾É›.
+5
+java:S5164"Call "remove()" on "tl".(Š×”ï8í×¾É›.
