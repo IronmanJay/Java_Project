@@ -2,21 +2,41 @@
 <project version="4">
   <component name="ArtifactsWorkspaceSettings">
     <artifacts-to-build>
-      <artifact name="JavaWEB:war exploded" />
+      <artifact name="SpringMVC:war exploded" />
     </artifacts-to-build>
   </component>
   <component name="ChangeListManager">
     <list default="true" id="07405ce8-cbd5-43fd-b903-16a731a448bb" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/1/3/13e212a0d08eccccef17031d1f47b15a7b98516f" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/3/9/393189526be3922593fa158cb9e40facad2123c5" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/4/f/4fcb2ec6ec4aadec3939b9580b94c34ce1ebea62" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/6/4/649ae3af5e6942e15e8635b614f064b1fb64e506" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/8/7/87c6fcd9d21fa4ccd1a1ddcda365da8703c92acc" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/b/8/b833817a3442eae96e49cb50f2d69fc72ce35f90" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/c/3/c3f451062fda3b8905ae3c5fa4216f5b5cf9582c" beforeDir="false" />
+      <change afterPath="$PROJECT_DIR$/LeetCode/src/ToFlashBack/p_212_WordSearchII.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/1/9/190b2bb808b3b9244b0769be3bd1119c1418049b" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/2/0/20936b9445a67f520c6c8c110f64b6d970a2e94b" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/3/4/347f7c0008f42ae3bf9b1fecec57193c497d9a9b" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/3/4/347f7c0008f42ae3bf9b1fecec57193c497d9a9b" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/3/5/352f9efc1575923555a6e14088b9cbf23c24db8a" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/3/5/352f9efc1575923555a6e14088b9cbf23c24db8a" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/3/b/3b40ff79c63d4a4e3fd4f59cd9724666edaf42aa" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/5/f/5f152176a2c9a378cbf948264a5f8ce1e8a063f2" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/5/f/5f152176a2c9a378cbf948264a5f8ce1e8a063f2" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/6/6/6696d5224d4d87d7c2afaa1f727c28c93f74d2c3" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/6/b/6b3350b9d1ef8cd4f2da3952b14c53146425b3b7" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/7/0/70c5f87d12506c30871ae819b89cfeafd094b04b" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/7/0/70c5f87d12506c30871ae819b89cfeafd094b04b" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/8/7/87254b745c8adf3b1775d0587f006dbba8dfe5c5" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/9/1/911b89d45d77e226fe723efaefb811c8da75e60f" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/9/4/94a979b3c9f91972d771dc5d0df39382a88f8093" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/9/5/95f675528c611efb87bd96ea226cd59ea54c0db5" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/9/b/9b204f2afeadda4735ddf082ecffc2139f6cea43" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/9/f/9f90534b8d9bd96289ffeaff46e35ed30c6f54e4" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/a/9/a9f02f638753c5cc54ade83fb98b0e243a6de9d2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/a/c/acbbc078ac41852f814cb839effeb1d35b0486c6" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/b/4/b40167c35f8a2e1ff7c04f6310d4d899826eff76" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/b/a/badf88dc3d7d653216006736933c38d715a4bf23" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/b/b/bbe062e855560eb3378e6b6bf7561232a547ebef" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/b/f/bf787fb0c622184acf6b77795ea8595fed708e2f" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/c/0/c0a2fdc3d36d6d56bcc35094ef91d00586a63c77" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/c/6/c6f8c4c551b49a7b1959b6c940e08d6ce0906b89" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/d/a/dacae46b323cfbd3e4bf979f4ebd1f1f4fdd5165" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/e/4/e49e95da5d53f1381130d85cc6ecbfab0e28db77" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/f/8/f8c5342f71c9973dbc55eed93286d38aa336ceb1" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/f/8/f8c5342f71c9973dbc55eed93286d38aa336ceb1" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/f/9/f94917336f1dc3debf68b3aef71f869e390018c4" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/f/9/f94917336f1dc3debf68b3aef71f869e390018c4" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/LeetCode/src/DFS/p200_NumberOfIslands.java" beforeDir="false" afterPath="$PROJECT_DIR$/LeetCode/src/DFS/p200_NumberOfIslands.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -186,22 +206,9 @@
       <command value="mvn clean" />
     </option>
   </component>
-  <component name="RunManager" selected="Application.p200_NumberOfIslands">
+  <component name="RunManager" selected="Application.p_212_WordSearchII">
     <configuration name="MiGong" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Recursion.MiGong" />
-      <module name="DataStructures" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Recursion.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Queue8" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Recursion.Queue8" />
       <module name="DataStructures" />
       <extension name="coverage">
         <pattern>
@@ -245,6 +252,19 @@
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="DFS.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="p_212_WordSearchII" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ToFlashBack.p_212_WordSearchII" />
+      <module name="LeetCode" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ToFlashBack.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -673,7 +693,6 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.Queue8" />
       <item itemvalue="Application.MiGong" />
       <item itemvalue="Application.p79_WordSearch" />
       <item itemvalue="Application.p22_GenerateParentheses" />
@@ -683,14 +702,15 @@
       <item itemvalue="Tomcat Server.SpringMVC" />
       <item itemvalue="Tomcat Server.JavaWeb" />
       <item itemvalue="Tomcat Server.SSM" />
+      <item itemvalue="Application.p_212_WordSearchII" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.p_212_WordSearchII" />
         <item itemvalue="Application.p200_NumberOfIslands" />
         <item itemvalue="Application.MiGong" />
         <item itemvalue="Application.p22_GenerateParentheses" />
         <item itemvalue="Application.p79_WordSearch" />
-        <item itemvalue="Application.Queue8" />
       </list>
     </recent_temporary>
   </component>
@@ -889,7 +909,13 @@
       <workItem from="1588136877785" duration="5599000" />
       <workItem from="1588214827378" duration="2294000" />
       <workItem from="1588226242075" duration="3292000" />
-      <workItem from="1588231021772" duration="273000" />
+      <workItem from="1588231021772" duration="327000" />
+      <workItem from="1588243754243" duration="1500000" />
+      <workItem from="1588249909548" duration="21000" />
+      <workItem from="1588250965038" duration="566000" />
+      <workItem from="1588253678853" duration="2090000" />
+      <workItem from="1588256792167" duration="103000" />
+      <workItem from="1588299552086" duration="1878000" />
     </task>
     <task id="LOCAL-00001" summary="2020.04.07">
       <created>1586245321555</created>
@@ -1129,7 +1155,14 @@
       <option name="project" value="LOCAL" />
       <updated>1588230626527</updated>
     </task>
-    <option name="localTasksCounter" value="35" />
+    <task id="LOCAL-00035" summary="2020.04.30">
+      <created>1588231318012</created>
+      <option name="number" value="00035" />
+      <option name="presentableId" value="LOCAL-00035" />
+      <option name="project" value="LOCAL" />
+      <updated>1588231318012</updated>
+    </task>
+    <option name="localTasksCounter" value="36" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -1239,18 +1272,18 @@
       <screen x="0" y="0" width="1536" height="834" />
     </state>
     <state x="178" y="110" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1/0.0.1536.834@0.0.1536.834" timestamp="1582858062755" />
-    <state x="295" y="0" key="CommitChangelistDialog2" timestamp="1588230618790">
+    <state x="295" y="0" key="CommitChangelistDialog2" timestamp="1588231307902">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state x="295" y="0" key="CommitChangelistDialog2/0.0.1536.834@0.0.1536.834" timestamp="1588230618790" />
+    <state x="295" y="0" key="CommitChangelistDialog2/0.0.1536.834@0.0.1536.834" timestamp="1588231307902" />
     <state x="93" y="93" width="1350" height="648" key="DiffContextDialog" timestamp="1586318346122">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
     <state x="93" y="93" width="1350" height="648" key="DiffContextDialog/0.0.1536.834@0.0.1536.834" timestamp="1586318346122" />
-    <state x="121" y="170" key="FileChooserDialogImpl" timestamp="1587960292414">
+    <state x="121" y="170" key="FileChooserDialogImpl" timestamp="1588249921445">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state x="121" y="170" key="FileChooserDialogImpl/0.0.1536.834@0.0.1536.834" timestamp="1587960292414" />
+    <state x="121" y="170" key="FileChooserDialogImpl/0.0.1536.834@0.0.1536.834" timestamp="1588249921445" />
     <state x="493" y="324" width="394" height="192" key="Github.CreateGistDialog" timestamp="1586242627937">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
@@ -1263,54 +1296,54 @@
       <screen x="0" y="0" width="1536" height="834" />
     </state>
     <state x="467" y="39" key="Github.UntrackedFilesDialog/0.0.1536.834@0.0.1536.834" timestamp="1586243479320" />
-    <state width="1493" height="236" key="GridCell.Tab.0.bottom" timestamp="1588230527860">
+    <state width="1493" height="236" key="GridCell.Tab.0.bottom" timestamp="1588301696039">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state width="1493" height="236" key="GridCell.Tab.0.bottom/0.0.1536.834@0.0.1536.834" timestamp="1588230527860" />
-    <state width="1493" height="236" key="GridCell.Tab.0.center" timestamp="1588230527859">
+    <state width="1493" height="236" key="GridCell.Tab.0.bottom/0.0.1536.834@0.0.1536.834" timestamp="1588301696039" />
+    <state width="1493" height="236" key="GridCell.Tab.0.center" timestamp="1588301696039">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state width="1493" height="236" key="GridCell.Tab.0.center/0.0.1536.834@0.0.1536.834" timestamp="1588230527859" />
-    <state width="1493" height="236" key="GridCell.Tab.0.left" timestamp="1588230527859">
+    <state width="1493" height="236" key="GridCell.Tab.0.center/0.0.1536.834@0.0.1536.834" timestamp="1588301696039" />
+    <state width="1493" height="236" key="GridCell.Tab.0.left" timestamp="1588301696039">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state width="1493" height="236" key="GridCell.Tab.0.left/0.0.1536.834@0.0.1536.834" timestamp="1588230527859" />
-    <state width="1493" height="236" key="GridCell.Tab.0.right" timestamp="1588230527859">
+    <state width="1493" height="236" key="GridCell.Tab.0.left/0.0.1536.834@0.0.1536.834" timestamp="1588301696039" />
+    <state width="1493" height="236" key="GridCell.Tab.0.right" timestamp="1588301696039">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state width="1493" height="236" key="GridCell.Tab.0.right/0.0.1536.834@0.0.1536.834" timestamp="1588230527859" />
-    <state width="1493" height="172" key="GridCell.Tab.1.bottom" timestamp="1588218796468">
+    <state width="1493" height="236" key="GridCell.Tab.0.right/0.0.1536.834@0.0.1536.834" timestamp="1588301696039" />
+    <state width="1202" height="267" key="GridCell.Tab.1.bottom" timestamp="1588249873062">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state width="1493" height="172" key="GridCell.Tab.1.bottom/0.0.1536.834@0.0.1536.834" timestamp="1588218796468" />
-    <state width="1493" height="172" key="GridCell.Tab.1.center" timestamp="1588218796468">
+    <state width="1202" height="267" key="GridCell.Tab.1.bottom/0.0.1536.834@0.0.1536.834" timestamp="1588249873062" />
+    <state width="1202" height="267" key="GridCell.Tab.1.center" timestamp="1588249873062">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state width="1493" height="172" key="GridCell.Tab.1.center/0.0.1536.834@0.0.1536.834" timestamp="1588218796468" />
-    <state width="1493" height="172" key="GridCell.Tab.1.left" timestamp="1588218796468">
+    <state width="1202" height="267" key="GridCell.Tab.1.center/0.0.1536.834@0.0.1536.834" timestamp="1588249873062" />
+    <state width="1202" height="267" key="GridCell.Tab.1.left" timestamp="1588249873062">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state width="1493" height="172" key="GridCell.Tab.1.left/0.0.1536.834@0.0.1536.834" timestamp="1588218796468" />
-    <state width="1493" height="172" key="GridCell.Tab.1.right" timestamp="1588218796468">
+    <state width="1202" height="267" key="GridCell.Tab.1.left/0.0.1536.834@0.0.1536.834" timestamp="1588249873062" />
+    <state width="1202" height="267" key="GridCell.Tab.1.right" timestamp="1588249873062">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state width="1493" height="172" key="GridCell.Tab.1.right/0.0.1536.834@0.0.1536.834" timestamp="1588218796468" />
-    <state width="1202" height="181" key="GridCell.Tab.2.bottom" timestamp="1586345911945">
+    <state width="1202" height="267" key="GridCell.Tab.1.right/0.0.1536.834@0.0.1536.834" timestamp="1588249873062" />
+    <state width="1202" height="267" key="GridCell.Tab.2.bottom" timestamp="1588249873063">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state width="1202" height="181" key="GridCell.Tab.2.bottom/0.0.1536.834@0.0.1536.834" timestamp="1586345911945" />
-    <state width="1202" height="181" key="GridCell.Tab.2.center" timestamp="1586345911944">
+    <state width="1202" height="267" key="GridCell.Tab.2.bottom/0.0.1536.834@0.0.1536.834" timestamp="1588249873063" />
+    <state width="1202" height="267" key="GridCell.Tab.2.center" timestamp="1588249873063">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state width="1202" height="181" key="GridCell.Tab.2.center/0.0.1536.834@0.0.1536.834" timestamp="1586345911944" />
-    <state width="1202" height="181" key="GridCell.Tab.2.left" timestamp="1586345911944">
+    <state width="1202" height="267" key="GridCell.Tab.2.center/0.0.1536.834@0.0.1536.834" timestamp="1588249873063" />
+    <state width="1202" height="267" key="GridCell.Tab.2.left" timestamp="1588249873062">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state width="1202" height="181" key="GridCell.Tab.2.left/0.0.1536.834@0.0.1536.834" timestamp="1586345911944" />
-    <state width="1202" height="181" key="GridCell.Tab.2.right" timestamp="1586345911944">
+    <state width="1202" height="267" key="GridCell.Tab.2.left/0.0.1536.834@0.0.1536.834" timestamp="1588249873062" />
+    <state width="1202" height="267" key="GridCell.Tab.2.right" timestamp="1588249873063">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state width="1202" height="181" key="GridCell.Tab.2.right/0.0.1536.834@0.0.1536.834" timestamp="1586345911944" />
+    <state width="1202" height="267" key="GridCell.Tab.2.right/0.0.1536.834@0.0.1536.834" timestamp="1588249873063" />
     <state width="1202" height="194" key="GridCell.Tab.3.bottom" timestamp="1582686617004">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
@@ -1347,10 +1380,10 @@
       <screen x="0" y="0" width="1536" height="834" />
     </state>
     <state x="490" y="159" width="558" height="540" key="StructurePopup/0.0.1536.834@0.0.1536.834" timestamp="1583544847974" />
-    <state x="361" y="146" key="Vcs.Push.Dialog.v2" timestamp="1588230631450">
+    <state x="361" y="146" key="Vcs.Push.Dialog.v2" timestamp="1588231331114">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state x="361" y="146" key="Vcs.Push.Dialog.v2/0.0.1536.834@0.0.1536.834" timestamp="1588230631450" />
+    <state x="361" y="146" key="Vcs.Push.Dialog.v2/0.0.1536.834@0.0.1536.834" timestamp="1588231331114" />
     <state x="92" y="123" width="884" height="568" key="com.intellij.history.integration.ui.views.DirectoryHistoryDialog" timestamp="1582858208019">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
