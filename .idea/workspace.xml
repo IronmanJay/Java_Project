@@ -7,6 +7,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="07405ce8-cbd5-43fd-b903-16a731a448bb" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/LeetCode/src/DynamicProgramming/p53_MaximumSubarray.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -177,7 +179,7 @@
       <command value="mvn clean" />
     </option>
   </component>
-  <component name="RunManager" selected="Application.p_212_WordSearchII">
+  <component name="RunManager" selected="Application.p53_MaximumSubarray">
     <configuration name="MiGong" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Recursion.MiGong" />
       <module name="DataStructures" />
@@ -217,12 +219,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="p79_WordSearch" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ToFlashBack.p79_WordSearch" />
+    <configuration name="p53_MaximumSubarray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="DynamicProgramming.p53_MaximumSubarray" />
       <module name="LeetCode" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="DFS.*" />
+          <option name="PATTERN" value="DynamicProgramming.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -665,23 +667,23 @@
     </configuration>
     <list>
       <item itemvalue="Application.MiGong" />
-      <item itemvalue="Application.p79_WordSearch" />
       <item itemvalue="Application.p22_GenerateParentheses" />
       <item itemvalue="Application.p200_NumberOfIslands" />
+      <item itemvalue="Application.p_212_WordSearchII" />
       <item itemvalue="Tomcat Server.Redis" />
       <item itemvalue="Tomcat Server.Maven" />
       <item itemvalue="Tomcat Server.SpringMVC" />
       <item itemvalue="Tomcat Server.JavaWeb" />
       <item itemvalue="Tomcat Server.SSM" />
-      <item itemvalue="Application.p_212_WordSearchII" />
+      <item itemvalue="Application.p53_MaximumSubarray" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.p53_MaximumSubarray" />
         <item itemvalue="Application.p_212_WordSearchII" />
         <item itemvalue="Application.p200_NumberOfIslands" />
         <item itemvalue="Application.MiGong" />
         <item itemvalue="Application.p22_GenerateParentheses" />
-        <item itemvalue="Application.p79_WordSearch" />
       </list>
     </recent_temporary>
   </component>
@@ -886,7 +888,8 @@
       <workItem from="1588250965038" duration="566000" />
       <workItem from="1588253678853" duration="2090000" />
       <workItem from="1588256792167" duration="103000" />
-      <workItem from="1588299552086" duration="2133000" />
+      <workItem from="1588299552086" duration="2183000" />
+      <workItem from="1588590080822" duration="1191000" />
     </task>
     <task id="LOCAL-00001" summary="2020.04.07">
       <created>1586245321555</created>
@@ -1140,7 +1143,14 @@
       <option name="project" value="LOCAL" />
       <updated>1588301734331</updated>
     </task>
-    <option name="localTasksCounter" value="37" />
+    <task id="LOCAL-00037" summary="2020.05.01">
+      <created>1588301930650</created>
+      <option name="number" value="00037" />
+      <option name="presentableId" value="LOCAL-00037" />
+      <option name="project" value="LOCAL" />
+      <updated>1588301930650</updated>
+    </task>
+    <option name="localTasksCounter" value="38" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -1251,10 +1261,10 @@
       <screen x="0" y="0" width="1536" height="834" />
     </state>
     <state x="178" y="110" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1/0.0.1536.834@0.0.1536.834" timestamp="1582858062755" />
-    <state x="295" y="0" key="CommitChangelistDialog2" timestamp="1588301722788">
+    <state x="295" y="0" key="CommitChangelistDialog2" timestamp="1588301929898">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state x="295" y="0" key="CommitChangelistDialog2/0.0.1536.834@0.0.1536.834" timestamp="1588301722788" />
+    <state x="295" y="0" key="CommitChangelistDialog2/0.0.1536.834@0.0.1536.834" timestamp="1588301929898" />
     <state x="93" y="93" width="1350" height="648" key="DiffContextDialog" timestamp="1586318346122">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
@@ -1275,22 +1285,22 @@
       <screen x="0" y="0" width="1536" height="834" />
     </state>
     <state x="467" y="39" key="Github.UntrackedFilesDialog/0.0.1536.834@0.0.1536.834" timestamp="1586243479320" />
-    <state width="1493" height="236" key="GridCell.Tab.0.bottom" timestamp="1588301696039">
+    <state width="1493" height="236" key="GridCell.Tab.0.bottom" timestamp="1588592663898">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state width="1493" height="236" key="GridCell.Tab.0.bottom/0.0.1536.834@0.0.1536.834" timestamp="1588301696039" />
-    <state width="1493" height="236" key="GridCell.Tab.0.center" timestamp="1588301696039">
+    <state width="1493" height="236" key="GridCell.Tab.0.bottom/0.0.1536.834@0.0.1536.834" timestamp="1588592663898" />
+    <state width="1493" height="236" key="GridCell.Tab.0.center" timestamp="1588592663898">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state width="1493" height="236" key="GridCell.Tab.0.center/0.0.1536.834@0.0.1536.834" timestamp="1588301696039" />
-    <state width="1493" height="236" key="GridCell.Tab.0.left" timestamp="1588301696039">
+    <state width="1493" height="236" key="GridCell.Tab.0.center/0.0.1536.834@0.0.1536.834" timestamp="1588592663898" />
+    <state width="1493" height="236" key="GridCell.Tab.0.left" timestamp="1588592663898">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state width="1493" height="236" key="GridCell.Tab.0.left/0.0.1536.834@0.0.1536.834" timestamp="1588301696039" />
-    <state width="1493" height="236" key="GridCell.Tab.0.right" timestamp="1588301696039">
+    <state width="1493" height="236" key="GridCell.Tab.0.left/0.0.1536.834@0.0.1536.834" timestamp="1588592663898" />
+    <state width="1493" height="236" key="GridCell.Tab.0.right" timestamp="1588592663898">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state width="1493" height="236" key="GridCell.Tab.0.right/0.0.1536.834@0.0.1536.834" timestamp="1588301696039" />
+    <state width="1493" height="236" key="GridCell.Tab.0.right/0.0.1536.834@0.0.1536.834" timestamp="1588592663898" />
     <state width="1202" height="267" key="GridCell.Tab.1.bottom" timestamp="1588249873062">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
@@ -1359,10 +1369,10 @@
       <screen x="0" y="0" width="1536" height="834" />
     </state>
     <state x="490" y="159" width="558" height="540" key="StructurePopup/0.0.1536.834@0.0.1536.834" timestamp="1583544847974" />
-    <state x="361" y="146" key="Vcs.Push.Dialog.v2" timestamp="1588301912728">
+    <state x="361" y="146" key="Vcs.Push.Dialog.v2" timestamp="1588301934185">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state x="361" y="146" key="Vcs.Push.Dialog.v2/0.0.1536.834@0.0.1536.834" timestamp="1588301912728" />
+    <state x="361" y="146" key="Vcs.Push.Dialog.v2/0.0.1536.834@0.0.1536.834" timestamp="1588301934185" />
     <state x="92" y="123" width="884" height="568" key="com.intellij.history.integration.ui.views.DirectoryHistoryDialog" timestamp="1582858208019">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
