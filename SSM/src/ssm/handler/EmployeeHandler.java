@@ -19,7 +19,7 @@ public class EmployeeHandler {
      * 显示所有的员工信息
      */
     @RequestMapping(value="/emps" ,method=RequestMethod.GET)
-    public String  listAllEmps(Map<String, Object> map) {
+    public String listAllEmps(Map<String, Object> map) {
         List<Employee> emps = employeeService.getAllEmps();
         map.put("emps", emps);
         return "list";
