@@ -7,9 +7,23 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="07405ce8-cbd5-43fd-b903-16a731a448bb" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/LeetCode/src/DynamicProgramming/p416_PartitionEqualSubsetSum.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/0/4/04a16c66f001addd5013ffd9c5fe2372715a192a" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/0/4/04a16c66f001addd5013ffd9c5fe2372715a192a" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/1/e/1e470c65c46fc7673f494666ceaa5025c5462897" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/1/e/1e470c65c46fc7673f494666ceaa5025c5462897" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/3/5/352f9efc1575923555a6e14088b9cbf23c24db8a" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/3/5/352f9efc1575923555a6e14088b9cbf23c24db8a" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/4/7/472171532e7c9fddcf273e99bff5371a91046d09" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/4/7/472171532e7c9fddcf273e99bff5371a91046d09" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/6/8/68473bf322c406824c2cbe6708d53d4729018356" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/6/8/68473bf322c406824c2cbe6708d53d4729018356" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/7/3/7343ebb6b2fb1f68895cb81c1cf0204a699a6059" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/7/3/7343ebb6b2fb1f68895cb81c1cf0204a699a6059" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/7/3/7362452de17ceb4dff720ace8294f4338fae5c80" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/7/3/7362452de17ceb4dff720ace8294f4338fae5c80" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/7/c/7c04b4676dcd7f3c98eab496809d9c89ccd57bd6" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/7/c/7c04b4676dcd7f3c98eab496809d9c89ccd57bd6" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/7/e/7e08a11ccd97c426949106fe883ce416cf5c100f" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/7/e/7e08a11ccd97c426949106fe883ce416cf5c100f" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/b/8/b8f55394bdafbe36c91704cbd3c09a201b1b75d4" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/b/8/b8f55394bdafbe36c91704cbd3c09a201b1b75d4" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/c/3/c3f77c23908d9795191f579eda6d0a1358c90679" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/c/3/c3f77c23908d9795191f579eda6d0a1358c90679" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/e/1/e12043165f3691a7ecb8935fb502218f5e0d9b31" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/e/1/e12043165f3691a7ecb8935fb502218f5e0d9b31" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/e/6/e6394f1773a6bfbdd177c1bea12c8ec2d3b0a435" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/e/6/e6394f1773a6bfbdd177c1bea12c8ec2d3b0a435" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/f/2/f227c21bcaffac7438f6751fb64319475154e01e" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/f/2/f227c21bcaffac7438f6751fb64319475154e01e" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SSM/src/ssm/handler/EmployeeHandler.java" beforeDir="false" afterPath="$PROJECT_DIR$/SSM/src/ssm/handler/EmployeeHandler.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -179,9 +193,22 @@
       <command value="mvn clean" />
     </option>
   </component>
-  <component name="RunManager" selected="Application.p63_UniquePathsII">
+  <component name="RunManager" selected="Application.p416_PartitionEqualSubsetSum">
     <configuration name="p300_LongestIncreasingSubsequence" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="DynamicProgramming.p300_LongestIncreasingSubsequence" />
+      <module name="LeetCode" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="DynamicProgramming.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="p416_PartitionEqualSubsetSum" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="DynamicProgramming.p416_PartitionEqualSubsetSum" />
       <module name="LeetCode" />
       <extension name="coverage">
         <pattern>
@@ -225,19 +252,6 @@
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="DynamicProgramming.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="p_212_WordSearchII" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ToFlashBack.p_212_WordSearchII" />
-      <module name="LeetCode" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="ToFlashBack.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -666,7 +680,6 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.p_212_WordSearchII" />
       <item itemvalue="Application.p53_MaximumSubarray" />
       <item itemvalue="Application.p300_LongestIncreasingSubsequence" />
       <item itemvalue="Application.p62_UniquePaths" />
@@ -676,14 +689,15 @@
       <item itemvalue="Tomcat Server.SpringMVC" />
       <item itemvalue="Tomcat Server.JavaWeb" />
       <item itemvalue="Tomcat Server.SSM" />
+      <item itemvalue="Application.p416_PartitionEqualSubsetSum" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.p416_PartitionEqualSubsetSum" />
         <item itemvalue="Application.p63_UniquePathsII" />
         <item itemvalue="Application.p62_UniquePaths" />
         <item itemvalue="Application.p300_LongestIncreasingSubsequence" />
         <item itemvalue="Application.p53_MaximumSubarray" />
-        <item itemvalue="Application.p_212_WordSearchII" />
       </list>
     </recent_temporary>
   </component>
@@ -897,7 +911,8 @@
       <workItem from="1588765761971" duration="2441000" />
       <workItem from="1588812961797" duration="519000" />
       <workItem from="1588819119331" duration="1707000" />
-      <workItem from="1588863352483" duration="473000" />
+      <workItem from="1588863352483" duration="550000" />
+      <workItem from="1588905259365" duration="2217000" />
     </task>
     <task id="LOCAL-00001" summary="2020.04.07">
       <created>1586245321555</created>
@@ -1186,7 +1201,14 @@
       <option name="project" value="LOCAL" />
       <updated>1588821073493</updated>
     </task>
-    <option name="localTasksCounter" value="42" />
+    <task id="LOCAL-00042" summary="2020.05.07">
+      <created>1588863853619</created>
+      <option name="number" value="00042" />
+      <option name="presentableId" value="LOCAL-00042" />
+      <option name="project" value="LOCAL" />
+      <updated>1588863853619</updated>
+    </task>
+    <option name="localTasksCounter" value="43" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -1293,10 +1315,10 @@
       <screen x="0" y="0" width="1536" height="834" />
     </state>
     <state x="178" y="110" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1/0.0.1536.834@0.0.1536.834" timestamp="1582858062755" />
-    <state x="295" y="0" key="CommitChangelistDialog2" timestamp="1588821065348">
+    <state x="295" y="0" key="CommitChangelistDialog2" timestamp="1588863844802">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state x="295" y="0" key="CommitChangelistDialog2/0.0.1536.834@0.0.1536.834" timestamp="1588821065348" />
+    <state x="295" y="0" key="CommitChangelistDialog2/0.0.1536.834@0.0.1536.834" timestamp="1588863844802" />
     <state x="93" y="93" width="1350" height="648" key="DiffContextDialog" timestamp="1586318346122">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
@@ -1317,22 +1339,22 @@
       <screen x="0" y="0" width="1536" height="834" />
     </state>
     <state x="467" y="39" key="Github.UntrackedFilesDialog/0.0.1536.834@0.0.1536.834" timestamp="1586243479320" />
-    <state width="1493" height="236" key="GridCell.Tab.0.bottom" timestamp="1588821164002">
+    <state width="954" height="189" key="GridCell.Tab.0.bottom" timestamp="1588911579038">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state width="1493" height="236" key="GridCell.Tab.0.bottom/0.0.1536.834@0.0.1536.834" timestamp="1588821164002" />
-    <state width="1493" height="236" key="GridCell.Tab.0.center" timestamp="1588821164002">
+    <state width="954" height="189" key="GridCell.Tab.0.bottom/0.0.1536.834@0.0.1536.834" timestamp="1588911579038" />
+    <state width="954" height="189" key="GridCell.Tab.0.center" timestamp="1588911579038">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state width="1493" height="236" key="GridCell.Tab.0.center/0.0.1536.834@0.0.1536.834" timestamp="1588821164002" />
-    <state width="1493" height="236" key="GridCell.Tab.0.left" timestamp="1588821164002">
+    <state width="954" height="189" key="GridCell.Tab.0.center/0.0.1536.834@0.0.1536.834" timestamp="1588911579038" />
+    <state width="954" height="189" key="GridCell.Tab.0.left" timestamp="1588911579037">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state width="1493" height="236" key="GridCell.Tab.0.left/0.0.1536.834@0.0.1536.834" timestamp="1588821164002" />
-    <state width="1493" height="236" key="GridCell.Tab.0.right" timestamp="1588821164002">
+    <state width="954" height="189" key="GridCell.Tab.0.left/0.0.1536.834@0.0.1536.834" timestamp="1588911579037" />
+    <state width="954" height="189" key="GridCell.Tab.0.right" timestamp="1588911579038">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state width="1493" height="236" key="GridCell.Tab.0.right/0.0.1536.834@0.0.1536.834" timestamp="1588821164002" />
+    <state width="954" height="189" key="GridCell.Tab.0.right/0.0.1536.834@0.0.1536.834" timestamp="1588911579038" />
     <state width="1493" height="172" key="GridCell.Tab.1.bottom" timestamp="1588768601650">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
@@ -1401,10 +1423,10 @@
       <screen x="0" y="0" width="1536" height="834" />
     </state>
     <state x="490" y="159" width="558" height="540" key="StructurePopup/0.0.1536.834@0.0.1536.834" timestamp="1583544847974" />
-    <state x="361" y="146" key="Vcs.Push.Dialog.v2" timestamp="1588821150856">
+    <state x="361" y="146" key="Vcs.Push.Dialog.v2" timestamp="1588863860800">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state x="361" y="146" key="Vcs.Push.Dialog.v2/0.0.1536.834@0.0.1536.834" timestamp="1588821150856" />
+    <state x="361" y="146" key="Vcs.Push.Dialog.v2/0.0.1536.834@0.0.1536.834" timestamp="1588863860800" />
     <state x="92" y="123" width="884" height="568" key="com.intellij.history.integration.ui.views.DirectoryHistoryDialog" timestamp="1582858208019">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
