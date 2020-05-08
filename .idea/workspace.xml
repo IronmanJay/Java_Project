@@ -7,23 +7,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="07405ce8-cbd5-43fd-b903-16a731a448bb" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/LeetCode/src/DynamicProgramming/p416_PartitionEqualSubsetSum.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/0/4/04a16c66f001addd5013ffd9c5fe2372715a192a" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/0/4/04a16c66f001addd5013ffd9c5fe2372715a192a" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/1/e/1e470c65c46fc7673f494666ceaa5025c5462897" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/1/e/1e470c65c46fc7673f494666ceaa5025c5462897" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/3/5/352f9efc1575923555a6e14088b9cbf23c24db8a" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/3/5/352f9efc1575923555a6e14088b9cbf23c24db8a" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/4/7/472171532e7c9fddcf273e99bff5371a91046d09" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/4/7/472171532e7c9fddcf273e99bff5371a91046d09" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/6/8/68473bf322c406824c2cbe6708d53d4729018356" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/6/8/68473bf322c406824c2cbe6708d53d4729018356" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/7/3/7343ebb6b2fb1f68895cb81c1cf0204a699a6059" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/7/3/7343ebb6b2fb1f68895cb81c1cf0204a699a6059" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/7/3/7362452de17ceb4dff720ace8294f4338fae5c80" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/7/3/7362452de17ceb4dff720ace8294f4338fae5c80" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/7/c/7c04b4676dcd7f3c98eab496809d9c89ccd57bd6" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/7/c/7c04b4676dcd7f3c98eab496809d9c89ccd57bd6" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/7/e/7e08a11ccd97c426949106fe883ce416cf5c100f" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/7/e/7e08a11ccd97c426949106fe883ce416cf5c100f" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/b/8/b8f55394bdafbe36c91704cbd3c09a201b1b75d4" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/b/8/b8f55394bdafbe36c91704cbd3c09a201b1b75d4" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/c/3/c3f77c23908d9795191f579eda6d0a1358c90679" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/c/3/c3f77c23908d9795191f579eda6d0a1358c90679" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/e/1/e12043165f3691a7ecb8935fb502218f5e0d9b31" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/e/1/e12043165f3691a7ecb8935fb502218f5e0d9b31" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/e/6/e6394f1773a6bfbdd177c1bea12c8ec2d3b0a435" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/e/6/e6394f1773a6bfbdd177c1bea12c8ec2d3b0a435" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/f/2/f227c21bcaffac7438f6751fb64319475154e01e" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/f/2/f227c21bcaffac7438f6751fb64319475154e01e" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LeetCode/src/DynamicProgramming/p416_PartitionEqualSubsetSum.java" beforeDir="false" afterPath="$PROJECT_DIR$/LeetCode/src/DynamicProgramming/p416_PartitionEqualSubsetSum.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -912,7 +897,7 @@
       <workItem from="1588812961797" duration="519000" />
       <workItem from="1588819119331" duration="1707000" />
       <workItem from="1588863352483" duration="550000" />
-      <workItem from="1588905259365" duration="2217000" />
+      <workItem from="1588905259365" duration="3320000" />
     </task>
     <task id="LOCAL-00001" summary="2020.04.07">
       <created>1586245321555</created>
@@ -1208,7 +1193,14 @@
       <option name="project" value="LOCAL" />
       <updated>1588863853619</updated>
     </task>
-    <option name="localTasksCounter" value="43" />
+    <task id="LOCAL-00043" summary="2020.05.08">
+      <created>1588911596410</created>
+      <option name="number" value="00043" />
+      <option name="presentableId" value="LOCAL-00043" />
+      <option name="project" value="LOCAL" />
+      <updated>1588911596411</updated>
+    </task>
+    <option name="localTasksCounter" value="44" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -1236,7 +1228,8 @@
     <MESSAGE value="2020.05.05" />
     <MESSAGE value="2020.05.06" />
     <MESSAGE value="2020.05.07" />
-    <option name="LAST_COMMIT_MESSAGE" value="2020.05.07" />
+    <MESSAGE value="2020.05.08" />
+    <option name="LAST_COMMIT_MESSAGE" value="2020.05.08" />
   </component>
   <component name="WindowStateProjectService">
     <state x="7" y="64" key="#Inspections" timestamp="1582590209438">
@@ -1315,10 +1308,10 @@
       <screen x="0" y="0" width="1536" height="834" />
     </state>
     <state x="178" y="110" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1/0.0.1536.834@0.0.1536.834" timestamp="1582858062755" />
-    <state x="295" y="0" key="CommitChangelistDialog2" timestamp="1588863844802">
+    <state x="295" y="0" key="CommitChangelistDialog2" timestamp="1588911593032">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state x="295" y="0" key="CommitChangelistDialog2/0.0.1536.834@0.0.1536.834" timestamp="1588863844802" />
+    <state x="295" y="0" key="CommitChangelistDialog2/0.0.1536.834@0.0.1536.834" timestamp="1588911593032" />
     <state x="93" y="93" width="1350" height="648" key="DiffContextDialog" timestamp="1586318346122">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
@@ -1423,10 +1416,10 @@
       <screen x="0" y="0" width="1536" height="834" />
     </state>
     <state x="490" y="159" width="558" height="540" key="StructurePopup/0.0.1536.834@0.0.1536.834" timestamp="1583544847974" />
-    <state x="361" y="146" key="Vcs.Push.Dialog.v2" timestamp="1588863860800">
+    <state x="361" y="146" key="Vcs.Push.Dialog.v2" timestamp="1588911631271">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state x="361" y="146" key="Vcs.Push.Dialog.v2/0.0.1536.834@0.0.1536.834" timestamp="1588863860800" />
+    <state x="361" y="146" key="Vcs.Push.Dialog.v2/0.0.1536.834@0.0.1536.834" timestamp="1588911631271" />
     <state x="92" y="123" width="884" height="568" key="com.intellij.history.integration.ui.views.DirectoryHistoryDialog" timestamp="1582858208019">
       <screen x="0" y="0" width="1536" height="834" />
     </state>

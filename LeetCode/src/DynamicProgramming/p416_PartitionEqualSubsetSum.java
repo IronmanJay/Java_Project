@@ -33,7 +33,7 @@ public class p416_PartitionEqualSubsetSum {
         }
         for (int i = 1; i <= len; i++) {
             for (int j = 0; j <= sum / 2; j++) {
-                // 如果当前元素的大小小于背包的剩余容量，那么说明可以放入背包，延续上一个状态
+                // 如果当前元素的大小小于背包的剩余容量，那么说明可以放入背包，延续上一个状态，并且判断剩余背包容量是否满足当前情况
                 if (j >= nums[i - 1]) {
                     dp[i][j] = dp[i - 1][j] || dp[i - 1][j - nums[i - 1]];
                 } else {
