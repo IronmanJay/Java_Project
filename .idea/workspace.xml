@@ -7,8 +7,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="07405ce8-cbd5-43fd-b903-16a731a448bb" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/LeetCode/src/BFS/I32_PrintiBnaryTreeFromTopToBottomII.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/LeetCode/src/DynamicProgramming/p416_PartitionEqualSubsetSum.java" beforeDir="false" afterPath="$PROJECT_DIR$/LeetCode/src/DynamicProgramming/p416_PartitionEqualSubsetSum.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LeetCode/src/Tree/I1_SymmetricBinaryTree.java" beforeDir="false" afterPath="$PROJECT_DIR$/LeetCode/src/Tree/I28_SymmetricBinaryTree.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -178,7 +180,20 @@
       <command value="mvn clean" />
     </option>
   </component>
-  <component name="RunManager" selected="Application.p416_PartitionEqualSubsetSum">
+  <component name="RunManager" selected="Application.I32_PrintiBnaryTreeFromTopToBottomII">
+    <configuration name="I32_PrintiBnaryTreeFromTopToBottomII" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="BFS.I32_PrintiBnaryTreeFromTopToBottomII" />
+      <module name="LeetCode" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="BFS.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="p300_LongestIncreasingSubsequence" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="DynamicProgramming.p300_LongestIncreasingSubsequence" />
       <module name="LeetCode" />
@@ -194,19 +209,6 @@
     </configuration>
     <configuration name="p416_PartitionEqualSubsetSum" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="DynamicProgramming.p416_PartitionEqualSubsetSum" />
-      <module name="LeetCode" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="DynamicProgramming.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="p53_MaximumSubarray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="DynamicProgramming.p53_MaximumSubarray" />
       <module name="LeetCode" />
       <extension name="coverage">
         <pattern>
@@ -665,24 +667,24 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.p53_MaximumSubarray" />
       <item itemvalue="Application.p300_LongestIncreasingSubsequence" />
       <item itemvalue="Application.p62_UniquePaths" />
       <item itemvalue="Application.p63_UniquePathsII" />
+      <item itemvalue="Application.p416_PartitionEqualSubsetSum" />
       <item itemvalue="Tomcat Server.Redis" />
       <item itemvalue="Tomcat Server.Maven" />
       <item itemvalue="Tomcat Server.SpringMVC" />
       <item itemvalue="Tomcat Server.JavaWeb" />
       <item itemvalue="Tomcat Server.SSM" />
-      <item itemvalue="Application.p416_PartitionEqualSubsetSum" />
+      <item itemvalue="Application.I32_PrintiBnaryTreeFromTopToBottomII" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.I32_PrintiBnaryTreeFromTopToBottomII" />
         <item itemvalue="Application.p416_PartitionEqualSubsetSum" />
         <item itemvalue="Application.p63_UniquePathsII" />
         <item itemvalue="Application.p62_UniquePaths" />
         <item itemvalue="Application.p300_LongestIncreasingSubsequence" />
-        <item itemvalue="Application.p53_MaximumSubarray" />
       </list>
     </recent_temporary>
   </component>
@@ -897,7 +899,8 @@
       <workItem from="1588812961797" duration="519000" />
       <workItem from="1588819119331" duration="1707000" />
       <workItem from="1588863352483" duration="550000" />
-      <workItem from="1588905259365" duration="3320000" />
+      <workItem from="1588905259365" duration="3942000" />
+      <workItem from="1589156556030" duration="1900000" />
     </task>
     <task id="LOCAL-00001" summary="2020.04.07">
       <created>1586245321555</created>
@@ -1200,7 +1203,14 @@
       <option name="project" value="LOCAL" />
       <updated>1588911596411</updated>
     </task>
-    <option name="localTasksCounter" value="44" />
+    <task id="LOCAL-00044" summary="2020.05.08">
+      <created>1588913209476</created>
+      <option name="number" value="00044" />
+      <option name="presentableId" value="LOCAL-00044" />
+      <option name="project" value="LOCAL" />
+      <updated>1588913209476</updated>
+    </task>
+    <option name="localTasksCounter" value="45" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -1308,10 +1318,10 @@
       <screen x="0" y="0" width="1536" height="834" />
     </state>
     <state x="178" y="110" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1/0.0.1536.834@0.0.1536.834" timestamp="1582858062755" />
-    <state x="295" y="0" key="CommitChangelistDialog2" timestamp="1588911593032">
+    <state x="295" y="0" key="CommitChangelistDialog2" timestamp="1588913200717">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state x="295" y="0" key="CommitChangelistDialog2/0.0.1536.834@0.0.1536.834" timestamp="1588911593032" />
+    <state x="295" y="0" key="CommitChangelistDialog2/0.0.1536.834@0.0.1536.834" timestamp="1588913200717" />
     <state x="93" y="93" width="1350" height="648" key="DiffContextDialog" timestamp="1586318346122">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
@@ -1332,22 +1342,22 @@
       <screen x="0" y="0" width="1536" height="834" />
     </state>
     <state x="467" y="39" key="Github.UntrackedFilesDialog/0.0.1536.834@0.0.1536.834" timestamp="1586243479320" />
-    <state width="954" height="189" key="GridCell.Tab.0.bottom" timestamp="1588911579038">
+    <state width="1493" height="235" key="GridCell.Tab.0.bottom" timestamp="1589159667292">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state width="954" height="189" key="GridCell.Tab.0.bottom/0.0.1536.834@0.0.1536.834" timestamp="1588911579038" />
-    <state width="954" height="189" key="GridCell.Tab.0.center" timestamp="1588911579038">
+    <state width="1493" height="235" key="GridCell.Tab.0.bottom/0.0.1536.834@0.0.1536.834" timestamp="1589159667292" />
+    <state width="1493" height="235" key="GridCell.Tab.0.center" timestamp="1589159667292">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state width="954" height="189" key="GridCell.Tab.0.center/0.0.1536.834@0.0.1536.834" timestamp="1588911579038" />
-    <state width="954" height="189" key="GridCell.Tab.0.left" timestamp="1588911579037">
+    <state width="1493" height="235" key="GridCell.Tab.0.center/0.0.1536.834@0.0.1536.834" timestamp="1589159667292" />
+    <state width="1493" height="235" key="GridCell.Tab.0.left" timestamp="1589159667291">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state width="954" height="189" key="GridCell.Tab.0.left/0.0.1536.834@0.0.1536.834" timestamp="1588911579037" />
-    <state width="954" height="189" key="GridCell.Tab.0.right" timestamp="1588911579038">
+    <state width="1493" height="235" key="GridCell.Tab.0.left/0.0.1536.834@0.0.1536.834" timestamp="1589159667291" />
+    <state width="1493" height="235" key="GridCell.Tab.0.right" timestamp="1589159667292">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state width="954" height="189" key="GridCell.Tab.0.right/0.0.1536.834@0.0.1536.834" timestamp="1588911579038" />
+    <state width="1493" height="235" key="GridCell.Tab.0.right/0.0.1536.834@0.0.1536.834" timestamp="1589159667292" />
     <state width="1493" height="172" key="GridCell.Tab.1.bottom" timestamp="1588768601650">
       <screen x="0" y="0" width="1536" height="834" />
     </state>

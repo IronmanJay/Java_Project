@@ -1,16 +1,16 @@
 package Tree;
 
-public class I1_SymmetricBinaryTree {
+public class I28_SymmetricBinaryTree {
 
     int val;
-    I1_SymmetricBinaryTree left;
-    I1_SymmetricBinaryTree right;
+    I28_SymmetricBinaryTree left;
+    I28_SymmetricBinaryTree right;
 
-    I1_SymmetricBinaryTree(int x) {
+    I28_SymmetricBinaryTree(int x) {
         val = x;
     }
 
-    public static boolean isSymmetric(I1_SymmetricBinaryTree root) {
+    public static boolean isSymmetric(I28_SymmetricBinaryTree root) {
         if (root == null) {
             return true;
         } else {
@@ -18,7 +18,7 @@ public class I1_SymmetricBinaryTree {
         }
     }
 
-    public static boolean getRes(I1_SymmetricBinaryTree left, I1_SymmetricBinaryTree right) {
+    public static boolean getRes(I28_SymmetricBinaryTree left, I28_SymmetricBinaryTree right) {
         if (left == null && right == null) {
             return true;
         }
@@ -30,13 +30,13 @@ public class I1_SymmetricBinaryTree {
 
     public static void main(String[] args) {
         // 先创建一颗二叉树
-        I1_SymmetricBinaryTree root = new I1_SymmetricBinaryTree(1);
-        I1_SymmetricBinaryTree left1 = new I1_SymmetricBinaryTree(2);
-        I1_SymmetricBinaryTree right1 = new I1_SymmetricBinaryTree(2);
-        I1_SymmetricBinaryTree left2 = new I1_SymmetricBinaryTree(3);
-        I1_SymmetricBinaryTree right2 = new I1_SymmetricBinaryTree(3);
-        I1_SymmetricBinaryTree left3 = new I1_SymmetricBinaryTree(4);
-        I1_SymmetricBinaryTree right3 = new I1_SymmetricBinaryTree(4);
+        I28_SymmetricBinaryTree root = new I28_SymmetricBinaryTree(1);
+        I28_SymmetricBinaryTree left1 = new I28_SymmetricBinaryTree(2);
+        I28_SymmetricBinaryTree right1 = new I28_SymmetricBinaryTree(2);
+        I28_SymmetricBinaryTree left2 = new I28_SymmetricBinaryTree(3);
+        I28_SymmetricBinaryTree right2 = new I28_SymmetricBinaryTree(3);
+        I28_SymmetricBinaryTree left3 = new I28_SymmetricBinaryTree(4);
+        I28_SymmetricBinaryTree right3 = new I28_SymmetricBinaryTree(4);
         root.left = left1;
         root.right = right1;
         left1.left = left2;
