@@ -1,12 +1,12 @@
 
-Z
-java:S1117?"8Rename "right" which hides the field declared at line 9.(€¿ö’øÿÿÿÿ8Şö–Ñš.
-t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(Ü©Ãìøÿÿÿÿ
-{
-java:S2293-"YReplace the type specification in this constructor call with the diamond operator ("<>").(ÍóÃøÿÿÿÿ8Şö–Ñš.
 {
 java:S2293""YReplace the type specification in this constructor call with the diamond operator ("<>").(çâîÀıÿÿÿÿ8Şö–Ñš.
 {
 java:S2293="YReplace the type specification in this constructor call with the diamond operator ("<>").(Ú ´éùÿÿÿÿ8Şö–Ñš.
+Z
+java:S1117?"8Rename "right" which hides the field declared at line 9.(€¿ö’øÿÿÿÿ8Şö–Ñš.
+{
+java:S2293-"YReplace the type specification in this constructor call with the diamond operator ("<>").(ÍóÃøÿÿÿÿ8Şö–Ñš.
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(Ü©Ãìøÿÿÿÿ
 Y
 java:S11170"7Rename "left" which hides the field declared at line 8.(½Àõíûÿÿÿÿ8Şö–Ñš.

@@ -7,7 +7,25 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="07405ce8-cbd5-43fd-b903-16a731a448bb" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/LeetCode/src/BFS/p101_SymmetricTree.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/4/9/490a4cbbc254c5798f114dc215a0b3526db99e3d" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/5/b/5b43446020e70658fc3810c19b246b87b4c8bba7" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/5/b/5b43446020e70658fc3810c19b246b87b4c8bba7" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/6/5/65d8222a3464e55a8115c3c76e94141ba2f5df7f" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/6/d/6d5b766f972327a7f02359f8382a81844429535e" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/7/0/7080c25dde52300b7bd4b9017b3b460246d1e79d" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/7/9/79333e5dbde506b4a99380d1953e38db4691d6c8" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/7/9/79333e5dbde506b4a99380d1953e38db4691d6c8" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/8/0/80d3f2cc9520d0bc725a80c056c9796b3063f94f" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/9/5/95f66bfe45d26acf23b8a87fe90962b442e0a196" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/9/5/95f66bfe45d26acf23b8a87fe90962b442e0a196" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/a/0/a055ad90809cd616fe7624733bf599f55db97c1f" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/a/0/a055ad90809cd616fe7624733bf599f55db97c1f" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/c/a/ca10dc0043f2f771280636f0cf48758d384e4065" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/c/a/ca10dc0043f2f771280636f0cf48758d384e4065" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/d/6/d6f945e66781cf1b17bbf9852209334727ea6325" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/e/5/e5e2b0a5d32b501a5888a499f57fff0abbba7bc4" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/e/5/e5e2b0a5d32b501a5888a499f57fff0abbba7bc4" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/f/9/f912017014dd0046d9dac3227f6aad672defcee9" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Maven/target/Maven.war" beforeDir="false" afterPath="$PROJECT_DIR$/Maven/target/Maven.war" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Maven/target/Maven/META-INF/MANIFEST.MF" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Maven/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/Maven/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -133,7 +151,7 @@
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.37260678" />
-    <property name="settings.editor.selected.configurable" value="settings.github" />
+    <property name="settings.editor.selected.configurable" value="MavenSettings" />
   </component>
   <component name="RecentsManager">
     <key name="CreateTestDialog.RecentsKey">
@@ -177,7 +195,7 @@
       <command value="mvn clean" />
     </option>
   </component>
-  <component name="RunManager" selected="Application.I32_PrintiBnaryTreeFromTopToBottomII">
+  <component name="RunManager" selected="Application.p101_SymmetricTree">
     <configuration name="I32_PrintiBnaryTreeFromTopToBottomII" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="BFS.I32_PrintiBnaryTreeFromTopToBottomII" />
       <module name="LeetCode" />
@@ -191,12 +209,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="p300_LongestIncreasingSubsequence" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="DynamicProgramming.p300_LongestIncreasingSubsequence" />
+    <configuration name="p101_SymmetricTree" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="BFS.p101_SymmetricTree" />
       <module name="LeetCode" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="DynamicProgramming.*" />
+          <option name="PATTERN" value="BFS.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -664,24 +682,24 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.p300_LongestIncreasingSubsequence" />
       <item itemvalue="Application.p62_UniquePaths" />
       <item itemvalue="Application.p63_UniquePathsII" />
       <item itemvalue="Application.p416_PartitionEqualSubsetSum" />
+      <item itemvalue="Application.I32_PrintiBnaryTreeFromTopToBottomII" />
       <item itemvalue="Tomcat Server.Redis" />
       <item itemvalue="Tomcat Server.Maven" />
       <item itemvalue="Tomcat Server.SpringMVC" />
       <item itemvalue="Tomcat Server.JavaWeb" />
       <item itemvalue="Tomcat Server.SSM" />
-      <item itemvalue="Application.I32_PrintiBnaryTreeFromTopToBottomII" />
+      <item itemvalue="Application.p101_SymmetricTree" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.p101_SymmetricTree" />
         <item itemvalue="Application.I32_PrintiBnaryTreeFromTopToBottomII" />
         <item itemvalue="Application.p416_PartitionEqualSubsetSum" />
         <item itemvalue="Application.p63_UniquePathsII" />
         <item itemvalue="Application.p62_UniquePaths" />
-        <item itemvalue="Application.p300_LongestIncreasingSubsequence" />
       </list>
     </recent_temporary>
   </component>
@@ -897,7 +915,11 @@
       <workItem from="1588819119331" duration="1707000" />
       <workItem from="1588863352483" duration="550000" />
       <workItem from="1588905259365" duration="3942000" />
-      <workItem from="1589156556030" duration="2166000" />
+      <workItem from="1589156556030" duration="2193000" />
+      <workItem from="1589163685233" duration="1169000" />
+      <workItem from="1589166108720" duration="35000" />
+      <workItem from="1589207720828" duration="1113000" />
+      <workItem from="1589248068826" duration="2586000" />
     </task>
     <task id="LOCAL-00001" summary="2020.04.07">
       <created>1586245321555</created>
@@ -1214,7 +1236,14 @@
       <option name="project" value="LOCAL" />
       <updated>1589159703416</updated>
     </task>
-    <option name="localTasksCounter" value="46" />
+    <task id="LOCAL-00046" summary="2020.05.11">
+      <created>1589159760965</created>
+      <option name="number" value="00046" />
+      <option name="presentableId" value="LOCAL-00046" />
+      <option name="project" value="LOCAL" />
+      <updated>1589159760965</updated>
+    </task>
+    <option name="localTasksCounter" value="47" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -1323,10 +1352,10 @@
       <screen x="0" y="0" width="1536" height="834" />
     </state>
     <state x="178" y="110" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1/0.0.1536.834@0.0.1536.834" timestamp="1582858062755" />
-    <state x="295" y="0" key="CommitChangelistDialog2" timestamp="1589159693539">
+    <state x="295" y="0" key="CommitChangelistDialog2" timestamp="1589254761444">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state x="295" y="0" key="CommitChangelistDialog2/0.0.1536.834@0.0.1536.834" timestamp="1589159693539" />
+    <state x="295" y="0" key="CommitChangelistDialog2/0.0.1536.834@0.0.1536.834" timestamp="1589254761444" />
     <state x="93" y="93" width="1350" height="648" key="DiffContextDialog" timestamp="1586318346122">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
@@ -1347,22 +1376,22 @@
       <screen x="0" y="0" width="1536" height="834" />
     </state>
     <state x="467" y="39" key="Github.UntrackedFilesDialog/0.0.1536.834@0.0.1536.834" timestamp="1586243479320" />
-    <state width="1493" height="235" key="GridCell.Tab.0.bottom" timestamp="1589159667292">
+    <state width="1493" height="235" key="GridCell.Tab.0.bottom" timestamp="1589254741761">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state width="1493" height="235" key="GridCell.Tab.0.bottom/0.0.1536.834@0.0.1536.834" timestamp="1589159667292" />
-    <state width="1493" height="235" key="GridCell.Tab.0.center" timestamp="1589159667292">
+    <state width="1493" height="235" key="GridCell.Tab.0.bottom/0.0.1536.834@0.0.1536.834" timestamp="1589254741761" />
+    <state width="1493" height="235" key="GridCell.Tab.0.center" timestamp="1589254741761">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state width="1493" height="235" key="GridCell.Tab.0.center/0.0.1536.834@0.0.1536.834" timestamp="1589159667292" />
-    <state width="1493" height="235" key="GridCell.Tab.0.left" timestamp="1589159667291">
+    <state width="1493" height="235" key="GridCell.Tab.0.center/0.0.1536.834@0.0.1536.834" timestamp="1589254741761" />
+    <state width="1493" height="235" key="GridCell.Tab.0.left" timestamp="1589254741761">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state width="1493" height="235" key="GridCell.Tab.0.left/0.0.1536.834@0.0.1536.834" timestamp="1589159667291" />
-    <state width="1493" height="235" key="GridCell.Tab.0.right" timestamp="1589159667292">
+    <state width="1493" height="235" key="GridCell.Tab.0.left/0.0.1536.834@0.0.1536.834" timestamp="1589254741761" />
+    <state width="1493" height="235" key="GridCell.Tab.0.right" timestamp="1589254741761">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state width="1493" height="235" key="GridCell.Tab.0.right/0.0.1536.834@0.0.1536.834" timestamp="1589159667292" />
+    <state width="1493" height="235" key="GridCell.Tab.0.right/0.0.1536.834@0.0.1536.834" timestamp="1589254741761" />
     <state width="1493" height="172" key="GridCell.Tab.1.bottom" timestamp="1588768601650">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
@@ -1423,18 +1452,18 @@
       <screen x="0" y="0" width="1536" height="834" />
     </state>
     <state x="470" y="123" key="MultipleFileMergeDialog/0.0.1536.834@0.0.1536.834" timestamp="1586246163747" />
-    <state x="281" y="0" width="1037" height="834" key="SettingsEditor" timestamp="1589159755087">
+    <state x="281" y="0" width="1037" height="834" key="SettingsEditor" timestamp="1589163980357">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state x="281" y="0" width="1037" height="834" key="SettingsEditor/0.0.1536.834@0.0.1536.834" timestamp="1589159755087" />
+    <state x="281" y="0" width="1037" height="834" key="SettingsEditor/0.0.1536.834@0.0.1536.834" timestamp="1589163980357" />
     <state x="490" y="159" width="558" height="540" key="StructurePopup" timestamp="1583544847974">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
     <state x="490" y="159" width="558" height="540" key="StructurePopup/0.0.1536.834@0.0.1536.834" timestamp="1583544847974" />
-    <state x="361" y="146" key="Vcs.Push.Dialog.v2" timestamp="1589159709765">
+    <state x="361" y="146" key="Vcs.Push.Dialog.v2" timestamp="1589159765056">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state x="361" y="146" key="Vcs.Push.Dialog.v2/0.0.1536.834@0.0.1536.834" timestamp="1589159709765" />
+    <state x="361" y="146" key="Vcs.Push.Dialog.v2/0.0.1536.834@0.0.1536.834" timestamp="1589159765056" />
     <state x="92" y="123" width="884" height="568" key="com.intellij.history.integration.ui.views.DirectoryHistoryDialog" timestamp="1582858208019">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
@@ -1463,10 +1492,10 @@
       <screen x="0" y="0" width="1536" height="834" />
     </state>
     <state x="733" y="0" width="803" height="834" key="find.popup/0.0.1536.834@0.0.1536.834" timestamp="1584025813171" />
-    <state x="0" y="0" key="new project wizard" timestamp="1586143883820">
+    <state x="0" y="0" key="new project wizard" timestamp="1589166141769">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state x="0" y="0" key="new project wizard/0.0.1536.834@0.0.1536.834" timestamp="1586143883820" />
+    <state x="0" y="0" key="new project wizard/0.0.1536.834@0.0.1536.834" timestamp="1589166141769" />
     <state x="327" y="197" width="734" height="573" key="org.intellij.images.editor.actions.BackgroundImageDialog" timestamp="1583022150692">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
