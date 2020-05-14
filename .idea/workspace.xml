@@ -178,6 +178,7 @@
       <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/f/d/fd14c992c713def97e69ec028f582b7d5b6e4ff6" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/f/d/fdb63454f7d39a5f2b75b99c2a8f39d55c1bfe36" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/f/e/feabc0706eb3513fcea8408333fdca7c0a090123" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LeetCode/src/BFS/p513_FindBottomLeftTreeValue.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/0/c/0c24f51d61873e21fb7308445e19a395eaa573f6" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/0/f/0f88eed8e371225b4826a9dd92150559efe7fbc9" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/4/f/4fcb5b1586f4351bd068aa496c264fa9e88f6323" beforeDir="false" />
@@ -317,7 +318,7 @@
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.37260678" />
-    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+    <property name="settings.editor.selected.configurable" value="settings.github" />
   </component>
   <component name="RecentsManager">
     <key name="CreateTestDialog.RecentsKey">
@@ -1085,7 +1086,7 @@
       <workItem from="1589369583512" duration="220000" />
       <workItem from="1589369824048" duration="60000" />
       <workItem from="1589369903668" duration="807000" />
-      <workItem from="1589417209672" duration="1409000" />
+      <workItem from="1589417209672" duration="1662000" />
     </task>
     <task id="LOCAL-00001" summary="2020.04.07">
       <created>1586245321555</created>
@@ -1462,7 +1463,8 @@
     <MESSAGE value="2020.05.11" />
     <MESSAGE value="2020.05.12" />
     <MESSAGE value="2020.05.13" />
-    <option name="LAST_COMMIT_MESSAGE" value="2020.05.13" />
+    <MESSAGE value="2020.05.14" />
+    <option name="LAST_COMMIT_MESSAGE" value="2020.05.14" />
   </component>
   <component name="WindowStateProjectService">
     <state x="7" y="64" key="#Inspections" timestamp="1582590209438">
@@ -1541,10 +1543,10 @@
       <screen x="0" y="0" width="1536" height="834" />
     </state>
     <state x="178" y="110" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1/0.0.1536.834@0.0.1536.834" timestamp="1582858062755" />
-    <state x="295" y="0" key="CommitChangelistDialog2" timestamp="1589336765410">
+    <state x="295" y="0" key="CommitChangelistDialog2" timestamp="1589418935666">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state x="295" y="0" key="CommitChangelistDialog2/0.0.1536.834@0.0.1536.834" timestamp="1589336765410" />
+    <state x="295" y="0" key="CommitChangelistDialog2/0.0.1536.834@0.0.1536.834" timestamp="1589418935666" />
     <state x="93" y="93" width="1350" height="648" key="DiffContextDialog" timestamp="1586318346122">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
@@ -1681,10 +1683,10 @@
       <screen x="0" y="0" width="1536" height="834" />
     </state>
     <state x="470" y="123" key="MultipleFileMergeDialog/0.0.1536.834@0.0.1536.834" timestamp="1586246163747" />
-    <state x="281" y="0" width="1037" height="834" key="SettingsEditor" timestamp="1589370715430">
+    <state x="281" y="0" width="1037" height="834" key="SettingsEditor" timestamp="1589419119842">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state x="281" y="0" width="1037" height="834" key="SettingsEditor/0.0.1536.834@0.0.1536.834" timestamp="1589370715430" />
+    <state x="281" y="0" width="1037" height="834" key="SettingsEditor/0.0.1536.834@0.0.1536.834" timestamp="1589419119842" />
     <state x="490" y="159" width="558" height="540" key="StructurePopup" timestamp="1583544847974">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
