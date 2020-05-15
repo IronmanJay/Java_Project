@@ -21,7 +21,7 @@ public class p854_KSimilarStrings {
         Set<String> visit = new HashSet();
         // 将A加入队列，这个就是初始字符串，通过不断地和B判断是否到达最终状态
         q.add(A);
-        // 把A也加入HashSet，因为我们要不断地更新这个值，
+        // 把A也加入HashSet，因为我们要不断地更新这个值
         visit.add(A);
         // step就是最终的k
         int step = 0;
