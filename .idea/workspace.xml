@@ -7,6 +7,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="07405ce8-cbd5-43fd-b903-16a731a448bb" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/LeetCode/src/BFS/p854_KSimilarStrings.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/c/a/caf5a9247615f0bb8598a27cdf63232d83afd2e5" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/d/e/de79c26f75f45cd7539bfc95715203d0dd2d2cec" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -177,20 +181,7 @@
       <command value="mvn clean" />
     </option>
   </component>
-  <component name="RunManager" selected="Application.p513_FindBottomLeftTreeValue">
-    <configuration name="I32_PrintiBnaryTreeFromTopToBottomII" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="BFS.I32_PrintiBnaryTreeFromTopToBottomII" />
-      <module name="LeetCode" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="BFS.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.p854_KSimilarStrings">
     <configuration name="TestClass" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="TestClass" />
       <module name="Java Project" />
@@ -226,6 +217,19 @@
     </configuration>
     <configuration name="p513_FindBottomLeftTreeValue" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="BFS.p513_FindBottomLeftTreeValue" />
+      <module name="LeetCode" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="BFS.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="p854_KSimilarStrings" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="BFS.p854_KSimilarStrings" />
       <module name="LeetCode" />
       <extension name="coverage">
         <pattern>
@@ -658,7 +662,6 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.I32_PrintiBnaryTreeFromTopToBottomII" />
       <item itemvalue="Application.p101_SymmetricTree" />
       <item itemvalue="Application.p199_BinaryTreeRightSideView" />
       <item itemvalue="Application.TestClass" />
@@ -668,14 +671,15 @@
       <item itemvalue="Tomcat Server.SpringMVC" />
       <item itemvalue="Tomcat Server.JavaWeb" />
       <item itemvalue="Tomcat Server.SSM" />
+      <item itemvalue="Application.p854_KSimilarStrings" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.p854_KSimilarStrings" />
         <item itemvalue="Application.p513_FindBottomLeftTreeValue" />
         <item itemvalue="Application.TestClass" />
         <item itemvalue="Application.p199_BinaryTreeRightSideView" />
         <item itemvalue="Application.p101_SymmetricTree" />
-        <item itemvalue="Application.I32_PrintiBnaryTreeFromTopToBottomII" />
       </list>
     </recent_temporary>
   </component>
@@ -902,13 +906,8 @@
       <workItem from="1589369824048" duration="60000" />
       <workItem from="1589369903668" duration="807000" />
       <workItem from="1589417209672" duration="1904000" />
-    </task>
-    <task id="LOCAL-00003" summary="2020.04.07">
-      <created>1586245728120</created>
-      <option name="number" value="00003" />
-      <option name="presentableId" value="LOCAL-00003" />
-      <option name="project" value="LOCAL" />
-      <updated>1586245728120</updated>
+      <workItem from="1589419260338" duration="102000" />
+      <workItem from="1589507622321" duration="768000" />
     </task>
     <task id="LOCAL-00004" summary="2020.04.07">
       <created>1586245970278</created>
@@ -1246,7 +1245,14 @@
       <option name="project" value="LOCAL" />
       <updated>1589419125307</updated>
     </task>
-    <option name="localTasksCounter" value="52" />
+    <task id="LOCAL-00052" summary="2020.05.14">
+      <created>1589419332517</created>
+      <option name="number" value="00052" />
+      <option name="presentableId" value="LOCAL-00052" />
+      <option name="project" value="LOCAL" />
+      <updated>1589419332518</updated>
+    </task>
+    <option name="localTasksCounter" value="53" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -1358,10 +1364,10 @@
       <screen x="0" y="0" width="1536" height="834" />
     </state>
     <state x="178" y="110" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1/0.0.1536.834@0.0.1536.834" timestamp="1582858062755" />
-    <state x="295" y="0" key="CommitChangelistDialog2" timestamp="1589419124569">
+    <state x="295" y="0" key="CommitChangelistDialog2" timestamp="1589419322460">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state x="295" y="0" key="CommitChangelistDialog2/0.0.1536.834@0.0.1536.834" timestamp="1589419124569" />
+    <state x="295" y="0" key="CommitChangelistDialog2/0.0.1536.834@0.0.1536.834" timestamp="1589419322460" />
     <state x="93" y="93" width="1350" height="648" key="DiffContextDialog" timestamp="1586318346122">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
@@ -1386,22 +1392,22 @@
       <screen x="0" y="0" width="1536" height="834" />
     </state>
     <state x="361" y="76" key="GrepConsoleSettings/0.0.1536.834@0.0.1536.834" timestamp="1589370685097" />
-    <state width="954" height="186" key="GridCell.Tab.0.bottom" timestamp="1589418912282">
+    <state width="954" height="186" key="GridCell.Tab.0.bottom" timestamp="1589511592252">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state width="954" height="186" key="GridCell.Tab.0.bottom/0.0.1536.834@0.0.1536.834" timestamp="1589418912282" />
-    <state width="954" height="186" key="GridCell.Tab.0.center" timestamp="1589418912282">
+    <state width="954" height="186" key="GridCell.Tab.0.bottom/0.0.1536.834@0.0.1536.834" timestamp="1589511592252" />
+    <state width="954" height="186" key="GridCell.Tab.0.center" timestamp="1589511592252">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state width="954" height="186" key="GridCell.Tab.0.center/0.0.1536.834@0.0.1536.834" timestamp="1589418912282" />
-    <state width="954" height="186" key="GridCell.Tab.0.left" timestamp="1589418912281">
+    <state width="954" height="186" key="GridCell.Tab.0.center/0.0.1536.834@0.0.1536.834" timestamp="1589511592252" />
+    <state width="954" height="186" key="GridCell.Tab.0.left" timestamp="1589511592252">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state width="954" height="186" key="GridCell.Tab.0.left/0.0.1536.834@0.0.1536.834" timestamp="1589418912281" />
-    <state width="954" height="186" key="GridCell.Tab.0.right" timestamp="1589418912282">
+    <state width="954" height="186" key="GridCell.Tab.0.left/0.0.1536.834@0.0.1536.834" timestamp="1589511592252" />
+    <state width="954" height="186" key="GridCell.Tab.0.right" timestamp="1589511592252">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state width="954" height="186" key="GridCell.Tab.0.right/0.0.1536.834@0.0.1536.834" timestamp="1589418912282" />
+    <state width="954" height="186" key="GridCell.Tab.0.right/0.0.1536.834@0.0.1536.834" timestamp="1589511592252" />
     <state width="1202" height="278" key="GridCell.Tab.1.bottom" timestamp="1589370716721">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
@@ -1498,18 +1504,18 @@
       <screen x="0" y="0" width="1536" height="834" />
     </state>
     <state x="470" y="123" key="MultipleFileMergeDialog/0.0.1536.834@0.0.1536.834" timestamp="1586246163747" />
-    <state x="281" y="0" width="1037" height="834" key="SettingsEditor" timestamp="1589419186800">
+    <state x="281" y="0" width="1037" height="834" key="SettingsEditor" timestamp="1589419337006">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state x="281" y="0" width="1037" height="834" key="SettingsEditor/0.0.1536.834@0.0.1536.834" timestamp="1589419186800" />
+    <state x="281" y="0" width="1037" height="834" key="SettingsEditor/0.0.1536.834@0.0.1536.834" timestamp="1589419337006" />
     <state x="490" y="159" width="558" height="540" key="StructurePopup" timestamp="1583544847974">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
     <state x="490" y="159" width="558" height="540" key="StructurePopup/0.0.1536.834@0.0.1536.834" timestamp="1583544847974" />
-    <state x="361" y="146" key="Vcs.Push.Dialog.v2" timestamp="1589336793231">
+    <state x="361" y="146" key="Vcs.Push.Dialog.v2" timestamp="1589419343251">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state x="361" y="146" key="Vcs.Push.Dialog.v2/0.0.1536.834@0.0.1536.834" timestamp="1589336793231" />
+    <state x="361" y="146" key="Vcs.Push.Dialog.v2/0.0.1536.834@0.0.1536.834" timestamp="1589419343251" />
     <state x="92" y="123" width="884" height="568" key="com.intellij.history.integration.ui.views.DirectoryHistoryDialog" timestamp="1582858208019">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
