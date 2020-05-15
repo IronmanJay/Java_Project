@@ -57,7 +57,7 @@ public class p854_KSimilarStrings {
                     }
                 }
             }
-            // 每循环一次说明进行了一次交换
+            // 每循环一次说明进行了一次交换，最终返回step
             step++;
         }
         return -1;
