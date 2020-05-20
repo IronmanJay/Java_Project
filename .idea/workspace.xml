@@ -7,11 +7,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="07405ce8-cbd5-43fd-b903-16a731a448bb" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/LeetCode/src/Graph/p1042_FlowerPlantingWithNoAdjacent.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/5/8/58dd9665c35eba4e673bfd7cff7eefe519931b79" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/7/b/7b42ad51d0682062cb4096e9e73f1b90596bf08f" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/9/c/9cfede9214fcaefce76043d6659f0295e7f50e5b" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/f/c/fc08cef7fb62a59be7c1060e41e56e7bcd10a92f" beforeDir="false" />
+      <change afterPath="$PROJECT_DIR$/LeetCode/src/Graph/p1387_PartitionArrayForMaximumSum.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/5/2/523d40b5f7213754cbd57a0706f7e9e65a8a7861" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/6/4/64f7261887e89824e4dad5c274f8b764e5a908a2" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
@@ -183,16 +181,22 @@
       <command value="mvn clean" />
     </option>
   </component>
-  <component name="RunManager" selected="Application.p1042_FlowerPlantingWithNoAdjacent">
-    <configuration name="TestClass" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="TestClass" />
-      <module name="Java Project" />
+  <component name="RunManager" selected="Application.p1387_PartitionArrayForMaximumSum">
+    <configuration name="p1042_FlowerPlantingWithNoAdjacent" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Graph.p1042_FlowerPlantingWithNoAdjacent" />
+      <module name="LeetCode" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Graph.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="p1042_FlowerPlantingWithNoAdjacent" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Graph.p1042_FlowerPlantingWithNoAdjacent" />
+    <configuration name="p1387_PartitionArrayForMaximumSum" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Graph.p1387_PartitionArrayForMaximumSum" />
       <module name="LeetCode" />
       <extension name="coverage">
         <pattern>
@@ -664,24 +668,24 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.TestClass" />
       <item itemvalue="Application.p513_FindBottomLeftTreeValue" />
       <item itemvalue="Application.p854_KSimilarStrings" />
       <item itemvalue="Application.p997_FindTheTownJudge" />
+      <item itemvalue="Application.p1042_FlowerPlantingWithNoAdjacent" />
       <item itemvalue="Tomcat Server.Redis" />
       <item itemvalue="Tomcat Server.Maven" />
       <item itemvalue="Tomcat Server.SpringMVC" />
       <item itemvalue="Tomcat Server.JavaWeb" />
       <item itemvalue="Tomcat Server.SSM" />
-      <item itemvalue="Application.p1042_FlowerPlantingWithNoAdjacent" />
+      <item itemvalue="Application.p1387_PartitionArrayForMaximumSum" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.p1387_PartitionArrayForMaximumSum" />
         <item itemvalue="Application.p1042_FlowerPlantingWithNoAdjacent" />
         <item itemvalue="Application.p997_FindTheTownJudge" />
         <item itemvalue="Application.p854_KSimilarStrings" />
         <item itemvalue="Application.p513_FindBottomLeftTreeValue" />
-        <item itemvalue="Application.TestClass" />
       </list>
     </recent_temporary>
   </component>
@@ -912,14 +916,8 @@
       <workItem from="1589507622321" duration="1775000" />
       <workItem from="1589762418035" duration="2926000" />
       <workItem from="1589813205239" duration="319000" />
-      <workItem from="1589852425018" duration="1731000" />
-    </task>
-    <task id="LOCAL-00008" summary="2020.04.07">
-      <created>1586246206968</created>
-      <option name="number" value="00008" />
-      <option name="presentableId" value="LOCAL-00008" />
-      <option name="project" value="LOCAL" />
-      <updated>1586246206968</updated>
+      <workItem from="1589852425018" duration="2345000" />
+      <workItem from="1589937711563" duration="3798000" />
     </task>
     <task id="LOCAL-00009" summary="2020.04.07">
       <created>1586318283677</created>
@@ -1257,7 +1255,14 @@
       <option name="project" value="LOCAL" />
       <updated>1589765072139</updated>
     </task>
-    <option name="localTasksCounter" value="57" />
+    <task id="LOCAL-00057" summary="2020.05.19">
+      <created>1589857476568</created>
+      <option name="number" value="00057" />
+      <option name="presentableId" value="LOCAL-00057" />
+      <option name="project" value="LOCAL" />
+      <updated>1589857476570</updated>
+    </task>
+    <option name="localTasksCounter" value="58" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -1267,7 +1272,6 @@
     <ignored-roots>
       <path value="$PROJECT_DIR$" />
     </ignored-roots>
-    <MESSAGE value="2020.04.07" />
     <MESSAGE value="2020.04.08" />
     <MESSAGE value="2020.04.09" />
     <MESSAGE value="2020.04.10" />
@@ -1292,13 +1296,18 @@
     <MESSAGE value="2020.05.14" />
     <MESSAGE value="2020.05.15" />
     <MESSAGE value="2020.05.18" />
-    <option name="LAST_COMMIT_MESSAGE" value="2020.05.18" />
+    <MESSAGE value="2020.05.19" />
+    <option name="LAST_COMMIT_MESSAGE" value="2020.05.19" />
   </component>
   <component name="WindowStateProjectService">
     <state x="7" y="64" key="#Inspections" timestamp="1582590209438">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
     <state x="7" y="64" key="#Inspections/0.0.1536.834@0.0.1536.834" timestamp="1582590209438" />
+    <state x="361" y="76" key="#Notifications" timestamp="1589857699757">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="361" y="76" key="#Notifications/0.0.1536.834@0.0.1536.834" timestamp="1589857699757" />
     <state x="347" y="0" width="814" height="834" key="#Project_Structure" timestamp="1588137082935">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
@@ -1363,10 +1372,10 @@
       <screen x="0" y="0" width="1536" height="834" />
     </state>
     <state x="178" y="110" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1/0.0.1536.834@0.0.1536.834" timestamp="1582858062755" />
-    <state x="295" y="0" key="CommitChangelistDialog2" timestamp="1589765062127">
+    <state x="295" y="0" key="CommitChangelistDialog2" timestamp="1589857465501">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state x="295" y="0" key="CommitChangelistDialog2/0.0.1536.834@0.0.1536.834" timestamp="1589765062127" />
+    <state x="295" y="0" key="CommitChangelistDialog2/0.0.1536.834@0.0.1536.834" timestamp="1589857465501" />
     <state x="93" y="93" width="1350" height="648" key="DiffContextDialog" timestamp="1586318346122">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
@@ -1391,22 +1400,22 @@
       <screen x="0" y="0" width="1536" height="834" />
     </state>
     <state x="361" y="76" key="GrepConsoleSettings/0.0.1536.834@0.0.1536.834" timestamp="1589370685097" />
-    <state width="954" height="185" key="GridCell.Tab.0.bottom" timestamp="1589857413317">
+    <state width="954" height="218" key="GridCell.Tab.0.bottom" timestamp="1589944822233">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state width="954" height="185" key="GridCell.Tab.0.bottom/0.0.1536.834@0.0.1536.834" timestamp="1589857413317" />
-    <state width="954" height="185" key="GridCell.Tab.0.center" timestamp="1589857413317">
+    <state width="954" height="218" key="GridCell.Tab.0.bottom/0.0.1536.834@0.0.1536.834" timestamp="1589944822233" />
+    <state width="954" height="218" key="GridCell.Tab.0.center" timestamp="1589944822232">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state width="954" height="185" key="GridCell.Tab.0.center/0.0.1536.834@0.0.1536.834" timestamp="1589857413317" />
-    <state width="954" height="185" key="GridCell.Tab.0.left" timestamp="1589857413317">
+    <state width="954" height="218" key="GridCell.Tab.0.center/0.0.1536.834@0.0.1536.834" timestamp="1589944822232" />
+    <state width="954" height="218" key="GridCell.Tab.0.left" timestamp="1589944822232">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state width="954" height="185" key="GridCell.Tab.0.left/0.0.1536.834@0.0.1536.834" timestamp="1589857413317" />
-    <state width="954" height="185" key="GridCell.Tab.0.right" timestamp="1589857413317">
+    <state width="954" height="218" key="GridCell.Tab.0.left/0.0.1536.834@0.0.1536.834" timestamp="1589944822232" />
+    <state width="954" height="218" key="GridCell.Tab.0.right" timestamp="1589944822232">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state width="954" height="185" key="GridCell.Tab.0.right/0.0.1536.834@0.0.1536.834" timestamp="1589857413317" />
+    <state width="954" height="218" key="GridCell.Tab.0.right/0.0.1536.834@0.0.1536.834" timestamp="1589944822232" />
     <state width="1202" height="278" key="GridCell.Tab.1.bottom" timestamp="1589370716721">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
@@ -1511,10 +1520,10 @@
       <screen x="0" y="0" width="1536" height="834" />
     </state>
     <state x="490" y="159" width="558" height="540" key="StructurePopup/0.0.1536.834@0.0.1536.834" timestamp="1583544847974" />
-    <state x="361" y="146" key="Vcs.Push.Dialog.v2" timestamp="1589765078810">
+    <state x="361" y="146" key="Vcs.Push.Dialog.v2" timestamp="1589857495449">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state x="361" y="146" key="Vcs.Push.Dialog.v2/0.0.1536.834@0.0.1536.834" timestamp="1589765078810" />
+    <state x="361" y="146" key="Vcs.Push.Dialog.v2/0.0.1536.834@0.0.1536.834" timestamp="1589857495449" />
     <state x="92" y="123" width="884" height="568" key="com.intellij.history.integration.ui.views.DirectoryHistoryDialog" timestamp="1582858208019">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
