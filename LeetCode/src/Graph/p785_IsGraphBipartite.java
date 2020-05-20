@@ -1,6 +1,6 @@
 package Graph;
 
-public class p1387_PartitionArrayForMaximumSum {
+public class p785_IsGraphBipartite {
 
     public static void main(String[] args) {
         int[][] graph = {
