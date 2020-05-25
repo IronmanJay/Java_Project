@@ -72,7 +72,7 @@ public class Graph {
     // 深度优先遍历算法
     private void DFS(boolean[] isVisited, int i) {
         // 首先访问该结点
-        System.out.print(getValueByIndex(i) + "->");
+        System.out.print(getValueByIndex(i) + "    ");
         // 将该结点设置为已经访问过
         isVisited[i] = true;
         // 查找结点i的第一个邻接结点
@@ -104,7 +104,7 @@ public class Graph {
         // 队列，记录结点访问顺序
         LinkedList queue = new LinkedList();
         // 访问结点，输出结点信息
-        System.out.print(getValueByIndex(i) + "->");
+        System.out.print(getValueByIndex(i) + "    ");
         // 标记为已访问
         isVisited[i] = true;
         // 将结点加入队列
@@ -117,7 +117,7 @@ public class Graph {
             while (w != -1) { // 找到
                 // 判断是否访问过
                 if (!isVisited[w]) {
-                    System.out.print(getValueByIndex(w) + "->");
+                    System.out.print(getValueByIndex(w) + "    ");
                     // 标记已经访问
                     isVisited[w] = true;
                     // 入队

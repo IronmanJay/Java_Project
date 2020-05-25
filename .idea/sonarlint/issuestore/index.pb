@@ -6961,8 +6961,6 @@ G.idea/sonarlint/issuestore/c/1/c1f21fe3bf2a1238354d84147008de97e4cb835f,8\7\87
 w
 G.idea/sonarlint/issuestore/c/4/c445141b079fe536716274673306bd1afe4cd704,6\c\6c23e1808d3b14b334398e7af1429d3a80b4af66
 w
-G.idea/sonarlint/issuestore/c/4/c401481059eb914ef5ba521eff559ec7c83cf86e,6\c\6c24c9fe45015391088b1dd1e1d3391d86531500
-w
 G.idea/sonarlint/issuestore/c/5/c5ce559831e01cf41b9ed34ef1d058100e6d9d18,9\c\9c47783bec05225961bfd9e7fb7fe2b11f0e6d32
 w
 G.idea/sonarlint/issuestore/c/6/c6edc47b9e4746c0f1263718e2282cb4e2bb25f6,a\6\a62d757e1265a19972a5ca4542abd97e3e98711b
@@ -8448,3 +8446,7 @@ I
 .idea/leetcode/editor.xml,4\e\4e1d1083192753a7663628e0017ffffe55ae10ed
 b
 2LeetCode/src/Graph/p685_RedundantConnectionII.java,c\9\c9b99e2dae90439d86725e12d3a17c5d25547fb2
+w
+G.idea/sonarlint/issuestore/9/3/930c114931a631bdc7c57d9bf1447e2f1ff5573e,e\2\e2495311ba2a8923e58efcba3b8cda923da68dec
+[
++LeetCode/src/String/p520_DetectCapital.java,c\9\c947b6f515f72f5337d6b9d35a92396132854dac

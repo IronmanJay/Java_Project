@@ -1,0 +1,14 @@
+
+B
+java:S1659K" Declare "f2" on a separate line.(â¡¯®ıÿÿÿÿ8—äŒÓ£.
+D
+java:S16599""Declare "pre1" on a separate line.(›Õ£­øÿÿÿÿ8—äŒÓ£.
+E
+java:S1659<"#Declare "count" on a separate line.(û§Şéøÿÿÿÿ8—äŒÓ£.
+C
+java:S1168c"&Return an empty array instead of null.(¥¹ï8—äŒÓ£.
+o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(—··
+o
+java:S3776"RRefactor this method to reduce its Cognitive Complexity from 38 to the 15 allowed.(¯íºƒ8—äŒÓ£.
+A
+java:S1659<"Declare "j" on a separate line.(û§Şéøÿÿÿÿ8—äŒÓ£.
