@@ -7,17 +7,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="07405ce8-cbd5-43fd-b903-16a731a448bb" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/LeetCode/src/String/p521_LongestUncommonSubsequenceI.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/leetcode/editor.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/leetcode/editor.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/1/9/19ef38c4f13a6645e0099dbefd768e0b904efdef" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/1/9/19ef38c4f13a6645e0099dbefd768e0b904efdef" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/2/a/2ad5addc25fb4ac5c2083c54471ff6cc89aca8c6" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/4/6/469f89070e468d2279edfa1fabcf3dce3a836ca7" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/4/6/469f89070e468d2279edfa1fabcf3dce3a836ca7" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/4/e/4ed0d12444f745fd799604c595583310cbbf434b" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/4/e/4ed0d12444f745fd799604c595583310cbbf434b" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/8/0/80ac0bd8d0288e23774eeec4151c4a8253f109b5" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/8/d/8d6df197341ffe1e5676bbc3e95edf58808b90df" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/9/7/9733921f8b50380ba63ff7c66ef6561aff07a323" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/f/1/f189a32ce587ede9cf2f6296b9acd30a409b7ffe" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/f/1/f189a32ce587ede9cf2f6296b9acd30a409b7ffe" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/f/d/fd9f9b66fc65b940903ad088ee35a06575852dad" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/f/d/fd9f9b66fc65b940903ad088ee35a06575852dad" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LeetCode/src/String/p12_IntegerToRoman.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
@@ -680,12 +670,12 @@
       <item itemvalue="Application.p520_DetectCapital" />
       <item itemvalue="Application.Graph" />
       <item itemvalue="Application.AVLTreeDemo" />
+      <item itemvalue="Application.p521_LongestUncommonSubsequenceI" />
       <item itemvalue="Tomcat Server.Redis" />
       <item itemvalue="Tomcat Server.Maven" />
       <item itemvalue="Tomcat Server.SpringMVC" />
       <item itemvalue="Tomcat Server.JavaWeb" />
       <item itemvalue="Tomcat Server.SSM" />
-      <item itemvalue="Application.p521_LongestUncommonSubsequenceI" />
     </list>
     <recent_temporary>
       <list>
@@ -940,14 +930,8 @@
       <workItem from="1590417823704" duration="151000" />
       <workItem from="1590417999378" duration="73000" />
       <workItem from="1590418267466" duration="83000" />
-      <workItem from="1590454989451" duration="3359000" />
-    </task>
-    <task id="LOCAL-00016" summary="2020.04.10">
-      <created>1586499134499</created>
-      <option name="number" value="00016" />
-      <option name="presentableId" value="LOCAL-00016" />
-      <option name="project" value="LOCAL" />
-      <updated>1586499134499</updated>
+      <workItem from="1590454989451" duration="3498000" />
+      <workItem from="1590496204159" duration="70000" />
     </task>
     <task id="LOCAL-00017" summary="2020.04.13">
       <created>1586782022677</created>
@@ -1285,7 +1269,14 @@
       <option name="project" value="LOCAL" />
       <updated>1590392854455</updated>
     </task>
-    <option name="localTasksCounter" value="65" />
+    <task id="LOCAL-00065" summary="2020.05.26">
+      <created>1590460452941</created>
+      <option name="number" value="00065" />
+      <option name="presentableId" value="LOCAL-00065" />
+      <option name="project" value="LOCAL" />
+      <updated>1590460452942</updated>
+    </task>
+    <option name="localTasksCounter" value="66" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -1295,7 +1286,6 @@
     <ignored-roots>
       <path value="$PROJECT_DIR$" />
     </ignored-roots>
-    <MESSAGE value="2020.04.15" />
     <MESSAGE value="2020.04.20" />
     <MESSAGE value="2020.04.21" />
     <MESSAGE value="2020.04.23" />
@@ -1320,7 +1310,8 @@
     <MESSAGE value="2020.05.21" />
     <MESSAGE value="2020.05.22" />
     <MESSAGE value="2020.05.25" />
-    <option name="LAST_COMMIT_MESSAGE" value="2020.05.25" />
+    <MESSAGE value="2020.05.26" />
+    <option name="LAST_COMMIT_MESSAGE" value="2020.05.26" />
   </component>
   <component name="WindowStateProjectService">
     <state x="7" y="64" key="#Inspections" timestamp="1590390414791">
@@ -1387,10 +1378,10 @@
       <screen x="0" y="0" width="1536" height="834" />
     </state>
     <state x="178" y="110" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1/0.0.1536.834@0.0.1536.834" timestamp="1582858062755" />
-    <state x="295" y="0" key="CommitChangelistDialog2" timestamp="1590392842958">
+    <state x="295" y="0" key="CommitChangelistDialog2" timestamp="1590460448724">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state x="295" y="0" key="CommitChangelistDialog2/0.0.1536.834@0.0.1536.834" timestamp="1590392842958" />
+    <state x="295" y="0" key="CommitChangelistDialog2/0.0.1536.834@0.0.1536.834" timestamp="1590460448724" />
     <state x="93" y="93" width="1350" height="648" key="DiffContextDialog" timestamp="1586318346122">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
@@ -1535,10 +1526,10 @@
       <screen x="0" y="0" width="1536" height="834" />
     </state>
     <state x="490" y="159" width="558" height="540" key="StructurePopup/0.0.1536.834@0.0.1536.834" timestamp="1583544847974" />
-    <state x="361" y="146" key="Vcs.Push.Dialog.v2" timestamp="1590392860554">
+    <state x="361" y="146" key="Vcs.Push.Dialog.v2" timestamp="1590460518219">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state x="361" y="146" key="Vcs.Push.Dialog.v2/0.0.1536.834@0.0.1536.834" timestamp="1590392860554" />
+    <state x="361" y="146" key="Vcs.Push.Dialog.v2/0.0.1536.834@0.0.1536.834" timestamp="1590460518219" />
     <state x="92" y="123" width="884" height="568" key="com.intellij.history.integration.ui.views.DirectoryHistoryDialog" timestamp="1582858208019">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
