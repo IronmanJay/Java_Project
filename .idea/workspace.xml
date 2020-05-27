@@ -7,9 +7,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="07405ce8-cbd5-43fd-b903-16a731a448bb" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/LeetCode/src/String/p12_IntegerToRoman.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LeetCode/src/String/p12_IntegerToRoman.java" beforeDir="false" afterPath="$PROJECT_DIR$/LeetCode/src/String/p12_IntegerToRoman.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -179,7 +179,7 @@
       <command value="mvn clean" />
     </option>
   </component>
-  <component name="RunManager" selected="Application.p521_LongestUncommonSubsequenceI">
+  <component name="RunManager" selected="Application.p12_IntegerToRoman">
     <configuration name="AVLTreeDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="AVL.AVLTreeDemo" />
       <module name="DataStructures" />
@@ -206,6 +206,19 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="p12_IntegerToRoman" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="String.p12_IntegerToRoman" />
+      <module name="LeetCode" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="String.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="p520_DetectCapital" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="String.p520_DetectCapital" />
       <module name="LeetCode" />
@@ -225,19 +238,6 @@
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="String.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="p685_RedundantConnectionII" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Graph.p685_RedundantConnectionII" />
-      <module name="LeetCode" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Graph.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -666,7 +666,6 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.p685_RedundantConnectionII" />
       <item itemvalue="Application.p520_DetectCapital" />
       <item itemvalue="Application.Graph" />
       <item itemvalue="Application.AVLTreeDemo" />
@@ -676,14 +675,15 @@
       <item itemvalue="Tomcat Server.SpringMVC" />
       <item itemvalue="Tomcat Server.JavaWeb" />
       <item itemvalue="Tomcat Server.SSM" />
+      <item itemvalue="Application.p12_IntegerToRoman" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.p12_IntegerToRoman" />
         <item itemvalue="Application.p521_LongestUncommonSubsequenceI" />
         <item itemvalue="Application.Graph" />
         <item itemvalue="Application.AVLTreeDemo" />
         <item itemvalue="Application.p520_DetectCapital" />
-        <item itemvalue="Application.p685_RedundantConnectionII" />
       </list>
     </recent_temporary>
   </component>
@@ -931,14 +931,8 @@
       <workItem from="1590417999378" duration="73000" />
       <workItem from="1590418267466" duration="83000" />
       <workItem from="1590454989451" duration="3498000" />
-      <workItem from="1590496204159" duration="70000" />
-    </task>
-    <task id="LOCAL-00017" summary="2020.04.13">
-      <created>1586782022677</created>
-      <option name="number" value="00017" />
-      <option name="presentableId" value="LOCAL-00017" />
-      <option name="project" value="LOCAL" />
-      <updated>1586782022677</updated>
+      <workItem from="1590496204159" duration="180000" />
+      <workItem from="1590540251684" duration="3199000" />
     </task>
     <task id="LOCAL-00018" summary="2020.04.13">
       <created>1586783243660</created>
@@ -1276,7 +1270,14 @@
       <option name="project" value="LOCAL" />
       <updated>1590460452942</updated>
     </task>
-    <option name="localTasksCounter" value="66" />
+    <task id="LOCAL-00066" summary="2020.05.26">
+      <created>1590496308069</created>
+      <option name="number" value="00066" />
+      <option name="presentableId" value="LOCAL-00066" />
+      <option name="project" value="LOCAL" />
+      <updated>1590496308069</updated>
+    </task>
+    <option name="localTasksCounter" value="67" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -1378,10 +1379,10 @@
       <screen x="0" y="0" width="1536" height="834" />
     </state>
     <state x="178" y="110" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1/0.0.1536.834@0.0.1536.834" timestamp="1582858062755" />
-    <state x="295" y="0" key="CommitChangelistDialog2" timestamp="1590460448724">
+    <state x="295" y="0" key="CommitChangelistDialog2" timestamp="1590496306307">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state x="295" y="0" key="CommitChangelistDialog2/0.0.1536.834@0.0.1536.834" timestamp="1590460448724" />
+    <state x="295" y="0" key="CommitChangelistDialog2/0.0.1536.834@0.0.1536.834" timestamp="1590496306307" />
     <state x="93" y="93" width="1350" height="648" key="DiffContextDialog" timestamp="1586318346122">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
@@ -1406,22 +1407,22 @@
       <screen x="0" y="0" width="1536" height="834" />
     </state>
     <state x="361" y="76" key="GrepConsoleSettings/0.0.1536.834@0.0.1536.834" timestamp="1589370685097" />
-    <state width="1493" height="225" key="GridCell.Tab.0.bottom" timestamp="1590459250793">
+    <state width="1493" height="213" key="GridCell.Tab.0.bottom" timestamp="1590547365979">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state width="1493" height="225" key="GridCell.Tab.0.bottom/0.0.1536.834@0.0.1536.834" timestamp="1590459250793" />
-    <state width="1493" height="225" key="GridCell.Tab.0.center" timestamp="1590459250793">
+    <state width="1493" height="213" key="GridCell.Tab.0.bottom/0.0.1536.834@0.0.1536.834" timestamp="1590547365979" />
+    <state width="1493" height="213" key="GridCell.Tab.0.center" timestamp="1590547365979">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state width="1493" height="225" key="GridCell.Tab.0.center/0.0.1536.834@0.0.1536.834" timestamp="1590459250793" />
-    <state width="1493" height="225" key="GridCell.Tab.0.left" timestamp="1590459250793">
+    <state width="1493" height="213" key="GridCell.Tab.0.center/0.0.1536.834@0.0.1536.834" timestamp="1590547365979" />
+    <state width="1493" height="213" key="GridCell.Tab.0.left" timestamp="1590547365979">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state width="1493" height="225" key="GridCell.Tab.0.left/0.0.1536.834@0.0.1536.834" timestamp="1590459250793" />
-    <state width="1493" height="225" key="GridCell.Tab.0.right" timestamp="1590459250793">
+    <state width="1493" height="213" key="GridCell.Tab.0.left/0.0.1536.834@0.0.1536.834" timestamp="1590547365979" />
+    <state width="1493" height="213" key="GridCell.Tab.0.right" timestamp="1590547365979">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state width="1493" height="225" key="GridCell.Tab.0.right/0.0.1536.834@0.0.1536.834" timestamp="1590459250793" />
+    <state width="1493" height="213" key="GridCell.Tab.0.right/0.0.1536.834@0.0.1536.834" timestamp="1590547365979" />
     <state width="1202" height="278" key="GridCell.Tab.1.bottom" timestamp="1589370716721">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
@@ -1526,10 +1527,10 @@
       <screen x="0" y="0" width="1536" height="834" />
     </state>
     <state x="490" y="159" width="558" height="540" key="StructurePopup/0.0.1536.834@0.0.1536.834" timestamp="1583544847974" />
-    <state x="361" y="146" key="Vcs.Push.Dialog.v2" timestamp="1590460518219">
+    <state x="361" y="146" key="Vcs.Push.Dialog.v2" timestamp="1590496317932">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state x="361" y="146" key="Vcs.Push.Dialog.v2/0.0.1536.834@0.0.1536.834" timestamp="1590460518219" />
+    <state x="361" y="146" key="Vcs.Push.Dialog.v2/0.0.1536.834@0.0.1536.834" timestamp="1590496317932" />
     <state x="92" y="123" width="884" height="568" key="com.intellij.history.integration.ui.views.DirectoryHistoryDialog" timestamp="1582858208019">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
