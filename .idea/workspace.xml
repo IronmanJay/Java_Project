@@ -7,9 +7,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="07405ce8-cbd5-43fd-b903-16a731a448bb" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/LeetCode/src/String/p93_RestoreIpAddresses.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/LeetCode/src/String/p12_IntegerToRoman.java" beforeDir="false" afterPath="$PROJECT_DIR$/LeetCode/src/String/p12_IntegerToRoman.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -179,7 +179,7 @@
       <command value="mvn clean" />
     </option>
   </component>
-  <component name="RunManager" selected="Application.p12_IntegerToRoman">
+  <component name="RunManager" selected="Application.p93_RestoreIpAddresses">
     <configuration name="AVLTreeDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="AVL.AVLTreeDemo" />
       <module name="DataStructures" />
@@ -219,8 +219,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="p520_DetectCapital" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="String.p520_DetectCapital" />
+    <configuration name="p521_LongestUncommonSubsequenceI" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="String.p521_LongestUncommonSubsequenceI" />
       <module name="LeetCode" />
       <extension name="coverage">
         <pattern>
@@ -232,8 +232,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="p521_LongestUncommonSubsequenceI" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="String.p521_LongestUncommonSubsequenceI" />
+    <configuration name="p93_RestoreIpAddresses" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="String.p93_RestoreIpAddresses" />
       <module name="LeetCode" />
       <extension name="coverage">
         <pattern>
@@ -666,24 +666,24 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.p520_DetectCapital" />
       <item itemvalue="Application.Graph" />
       <item itemvalue="Application.AVLTreeDemo" />
       <item itemvalue="Application.p521_LongestUncommonSubsequenceI" />
+      <item itemvalue="Application.p12_IntegerToRoman" />
       <item itemvalue="Tomcat Server.Redis" />
       <item itemvalue="Tomcat Server.Maven" />
       <item itemvalue="Tomcat Server.SpringMVC" />
       <item itemvalue="Tomcat Server.JavaWeb" />
       <item itemvalue="Tomcat Server.SSM" />
-      <item itemvalue="Application.p12_IntegerToRoman" />
+      <item itemvalue="Application.p93_RestoreIpAddresses" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.p93_RestoreIpAddresses" />
         <item itemvalue="Application.p12_IntegerToRoman" />
         <item itemvalue="Application.p521_LongestUncommonSubsequenceI" />
         <item itemvalue="Application.Graph" />
         <item itemvalue="Application.AVLTreeDemo" />
-        <item itemvalue="Application.p520_DetectCapital" />
       </list>
     </recent_temporary>
   </component>
@@ -932,14 +932,10 @@
       <workItem from="1590418267466" duration="83000" />
       <workItem from="1590454989451" duration="3498000" />
       <workItem from="1590496204159" duration="180000" />
-      <workItem from="1590540251684" duration="3199000" />
-    </task>
-    <task id="LOCAL-00018" summary="2020.04.13">
-      <created>1586783243660</created>
-      <option name="number" value="00018" />
-      <option name="presentableId" value="LOCAL-00018" />
-      <option name="project" value="LOCAL" />
-      <updated>1586783243660</updated>
+      <workItem from="1590540251684" duration="3330000" />
+      <workItem from="1590547918122" duration="102000" />
+      <workItem from="1590592383493" duration="261000" />
+      <workItem from="1590629397153" duration="5248000" />
     </task>
     <task id="LOCAL-00019" summary="2020.04.13">
       <created>1586783311569</created>
@@ -1277,7 +1273,14 @@
       <option name="project" value="LOCAL" />
       <updated>1590496308069</updated>
     </task>
-    <option name="localTasksCounter" value="67" />
+    <task id="LOCAL-00067" summary="2020.05.27">
+      <created>1590547385540</created>
+      <option name="number" value="00067" />
+      <option name="presentableId" value="LOCAL-00067" />
+      <option name="project" value="LOCAL" />
+      <updated>1590547385541</updated>
+    </task>
+    <option name="localTasksCounter" value="68" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -1287,7 +1290,6 @@
     <ignored-roots>
       <path value="$PROJECT_DIR$" />
     </ignored-roots>
-    <MESSAGE value="2020.04.20" />
     <MESSAGE value="2020.04.21" />
     <MESSAGE value="2020.04.23" />
     <MESSAGE value="2020.04.24" />
@@ -1312,7 +1314,8 @@
     <MESSAGE value="2020.05.22" />
     <MESSAGE value="2020.05.25" />
     <MESSAGE value="2020.05.26" />
-    <option name="LAST_COMMIT_MESSAGE" value="2020.05.26" />
+    <MESSAGE value="2020.05.27" />
+    <option name="LAST_COMMIT_MESSAGE" value="2020.05.27" />
   </component>
   <component name="WindowStateProjectService">
     <state x="7" y="64" key="#Inspections" timestamp="1590390414791">
@@ -1379,10 +1382,10 @@
       <screen x="0" y="0" width="1536" height="834" />
     </state>
     <state x="178" y="110" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1/0.0.1536.834@0.0.1536.834" timestamp="1582858062755" />
-    <state x="295" y="0" key="CommitChangelistDialog2" timestamp="1590496306307">
+    <state x="295" y="0" key="CommitChangelistDialog2" timestamp="1590547382924">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state x="295" y="0" key="CommitChangelistDialog2/0.0.1536.834@0.0.1536.834" timestamp="1590496306307" />
+    <state x="295" y="0" key="CommitChangelistDialog2/0.0.1536.834@0.0.1536.834" timestamp="1590547382924" />
     <state x="93" y="93" width="1350" height="648" key="DiffContextDialog" timestamp="1586318346122">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
@@ -1407,38 +1410,38 @@
       <screen x="0" y="0" width="1536" height="834" />
     </state>
     <state x="361" y="76" key="GrepConsoleSettings/0.0.1536.834@0.0.1536.834" timestamp="1589370685097" />
-    <state width="1493" height="213" key="GridCell.Tab.0.bottom" timestamp="1590547365979">
+    <state width="1493" height="318" key="GridCell.Tab.0.bottom" timestamp="1590636868548">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state width="1493" height="213" key="GridCell.Tab.0.bottom/0.0.1536.834@0.0.1536.834" timestamp="1590547365979" />
-    <state width="1493" height="213" key="GridCell.Tab.0.center" timestamp="1590547365979">
+    <state width="1493" height="318" key="GridCell.Tab.0.bottom/0.0.1536.834@0.0.1536.834" timestamp="1590636868548" />
+    <state width="1493" height="318" key="GridCell.Tab.0.center" timestamp="1590636868548">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state width="1493" height="213" key="GridCell.Tab.0.center/0.0.1536.834@0.0.1536.834" timestamp="1590547365979" />
-    <state width="1493" height="213" key="GridCell.Tab.0.left" timestamp="1590547365979">
+    <state width="1493" height="318" key="GridCell.Tab.0.center/0.0.1536.834@0.0.1536.834" timestamp="1590636868548" />
+    <state width="1493" height="318" key="GridCell.Tab.0.left" timestamp="1590636868548">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state width="1493" height="213" key="GridCell.Tab.0.left/0.0.1536.834@0.0.1536.834" timestamp="1590547365979" />
-    <state width="1493" height="213" key="GridCell.Tab.0.right" timestamp="1590547365979">
+    <state width="1493" height="318" key="GridCell.Tab.0.left/0.0.1536.834@0.0.1536.834" timestamp="1590636868548" />
+    <state width="1493" height="318" key="GridCell.Tab.0.right" timestamp="1590636868548">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state width="1493" height="213" key="GridCell.Tab.0.right/0.0.1536.834@0.0.1536.834" timestamp="1590547365979" />
-    <state width="1202" height="278" key="GridCell.Tab.1.bottom" timestamp="1589370716721">
+    <state width="1493" height="318" key="GridCell.Tab.0.right/0.0.1536.834@0.0.1536.834" timestamp="1590636868548" />
+    <state width="1493" height="295" key="GridCell.Tab.1.bottom" timestamp="1590633578646">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state width="1202" height="278" key="GridCell.Tab.1.bottom/0.0.1536.834@0.0.1536.834" timestamp="1589370716721" />
-    <state width="1202" height="278" key="GridCell.Tab.1.center" timestamp="1589370716720">
+    <state width="1493" height="295" key="GridCell.Tab.1.bottom/0.0.1536.834@0.0.1536.834" timestamp="1590633578646" />
+    <state width="1493" height="295" key="GridCell.Tab.1.center" timestamp="1590633578646">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state width="1202" height="278" key="GridCell.Tab.1.center/0.0.1536.834@0.0.1536.834" timestamp="1589370716720" />
-    <state width="1202" height="278" key="GridCell.Tab.1.left" timestamp="1589370716720">
+    <state width="1493" height="295" key="GridCell.Tab.1.center/0.0.1536.834@0.0.1536.834" timestamp="1590633578646" />
+    <state width="1493" height="295" key="GridCell.Tab.1.left" timestamp="1590633578646">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state width="1202" height="278" key="GridCell.Tab.1.left/0.0.1536.834@0.0.1536.834" timestamp="1589370716720" />
-    <state width="1202" height="278" key="GridCell.Tab.1.right" timestamp="1589370716721">
+    <state width="1493" height="295" key="GridCell.Tab.1.left/0.0.1536.834@0.0.1536.834" timestamp="1590633578646" />
+    <state width="1493" height="295" key="GridCell.Tab.1.right" timestamp="1590633578646">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state width="1202" height="278" key="GridCell.Tab.1.right/0.0.1536.834@0.0.1536.834" timestamp="1589370716721" />
+    <state width="1493" height="295" key="GridCell.Tab.1.right/0.0.1536.834@0.0.1536.834" timestamp="1590633578646" />
     <state width="1202" height="278" key="GridCell.Tab.2.bottom" timestamp="1589370716721">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
@@ -1519,18 +1522,18 @@
       <screen x="0" y="0" width="1536" height="834" />
     </state>
     <state x="470" y="123" key="MultipleFileMergeDialog/0.0.1536.834@0.0.1536.834" timestamp="1586246163747" />
-    <state x="281" y="0" width="1037" height="834" key="SettingsEditor" timestamp="1590373097699">
+    <state x="281" y="0" width="1037" height="834" key="SettingsEditor" timestamp="1590547426405">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state x="281" y="0" width="1037" height="834" key="SettingsEditor/0.0.1536.834@0.0.1536.834" timestamp="1590373097699" />
+    <state x="281" y="0" width="1037" height="834" key="SettingsEditor/0.0.1536.834@0.0.1536.834" timestamp="1590547426405" />
     <state x="490" y="159" width="558" height="540" key="StructurePopup" timestamp="1583544847974">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
     <state x="490" y="159" width="558" height="540" key="StructurePopup/0.0.1536.834@0.0.1536.834" timestamp="1583544847974" />
-    <state x="361" y="146" key="Vcs.Push.Dialog.v2" timestamp="1590496317932">
+    <state x="361" y="146" key="Vcs.Push.Dialog.v2" timestamp="1590547429916">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state x="361" y="146" key="Vcs.Push.Dialog.v2/0.0.1536.834@0.0.1536.834" timestamp="1590496317932" />
+    <state x="361" y="146" key="Vcs.Push.Dialog.v2/0.0.1536.834@0.0.1536.834" timestamp="1590547429916" />
     <state x="92" y="123" width="884" height="568" key="com.intellij.history.integration.ui.views.DirectoryHistoryDialog" timestamp="1582858208019">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
