@@ -7,7 +7,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="07405ce8-cbd5-43fd-b903-16a731a448bb" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/LeetCode/src/String/p93_RestoreIpAddresses.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LeetCode/src/String/p115_DistinctSubsequences.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
@@ -179,13 +179,13 @@
       <command value="mvn clean" />
     </option>
   </component>
-  <component name="RunManager" selected="Application.p93_RestoreIpAddresses">
-    <configuration name="AVLTreeDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="AVL.AVLTreeDemo" />
+  <component name="RunManager" selected="Application.p115_DistinctSubsequences">
+    <configuration name="Graph" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Graph.Graph" />
       <module name="DataStructures" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="AVL.*" />
+          <option name="PATTERN" value="Graph.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -193,12 +193,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Graph" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Graph.Graph" />
-      <module name="DataStructures" />
+    <configuration name="p115_DistinctSubsequences" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="String.p115_DistinctSubsequences" />
+      <module name="LeetCode" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Graph.*" />
+          <option name="PATTERN" value="String.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -667,23 +667,23 @@
     </configuration>
     <list>
       <item itemvalue="Application.Graph" />
-      <item itemvalue="Application.AVLTreeDemo" />
       <item itemvalue="Application.p521_LongestUncommonSubsequenceI" />
       <item itemvalue="Application.p12_IntegerToRoman" />
+      <item itemvalue="Application.p93_RestoreIpAddresses" />
       <item itemvalue="Tomcat Server.Redis" />
       <item itemvalue="Tomcat Server.Maven" />
       <item itemvalue="Tomcat Server.SpringMVC" />
       <item itemvalue="Tomcat Server.JavaWeb" />
       <item itemvalue="Tomcat Server.SSM" />
-      <item itemvalue="Application.p93_RestoreIpAddresses" />
+      <item itemvalue="Application.p115_DistinctSubsequences" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.p115_DistinctSubsequences" />
         <item itemvalue="Application.p93_RestoreIpAddresses" />
         <item itemvalue="Application.p12_IntegerToRoman" />
         <item itemvalue="Application.p521_LongestUncommonSubsequenceI" />
         <item itemvalue="Application.Graph" />
-        <item itemvalue="Application.AVLTreeDemo" />
       </list>
     </recent_temporary>
   </component>
@@ -935,14 +935,10 @@
       <workItem from="1590540251684" duration="3330000" />
       <workItem from="1590547918122" duration="102000" />
       <workItem from="1590592383493" duration="261000" />
-      <workItem from="1590629397153" duration="5248000" />
-    </task>
-    <task id="LOCAL-00019" summary="2020.04.13">
-      <created>1586783311569</created>
-      <option name="number" value="00019" />
-      <option name="presentableId" value="LOCAL-00019" />
-      <option name="project" value="LOCAL" />
-      <updated>1586783311569</updated>
+      <workItem from="1590629397153" duration="5597000" />
+      <workItem from="1590678948337" duration="318000" />
+      <workItem from="1590679355151" duration="17000" />
+      <workItem from="1590711813873" duration="2868000" />
     </task>
     <task id="LOCAL-00020" summary="2020.04.15">
       <created>1586919490989</created>
@@ -1280,7 +1276,14 @@
       <option name="project" value="LOCAL" />
       <updated>1590547385541</updated>
     </task>
-    <option name="localTasksCounter" value="68" />
+    <task id="LOCAL-00068" summary="2020.05.28">
+      <created>1590636885347</created>
+      <option name="number" value="00068" />
+      <option name="presentableId" value="LOCAL-00068" />
+      <option name="project" value="LOCAL" />
+      <updated>1590636885347</updated>
+    </task>
+    <option name="localTasksCounter" value="69" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -1290,7 +1293,6 @@
     <ignored-roots>
       <path value="$PROJECT_DIR$" />
     </ignored-roots>
-    <MESSAGE value="2020.04.21" />
     <MESSAGE value="2020.04.23" />
     <MESSAGE value="2020.04.24" />
     <MESSAGE value="2020.04.27" />
@@ -1315,7 +1317,8 @@
     <MESSAGE value="2020.05.25" />
     <MESSAGE value="2020.05.26" />
     <MESSAGE value="2020.05.27" />
-    <option name="LAST_COMMIT_MESSAGE" value="2020.05.27" />
+    <MESSAGE value="2020.05.28" />
+    <option name="LAST_COMMIT_MESSAGE" value="2020.05.28" />
   </component>
   <component name="WindowStateProjectService">
     <state x="7" y="64" key="#Inspections" timestamp="1590390414791">
@@ -1382,10 +1385,10 @@
       <screen x="0" y="0" width="1536" height="834" />
     </state>
     <state x="178" y="110" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1/0.0.1536.834@0.0.1536.834" timestamp="1582858062755" />
-    <state x="295" y="0" key="CommitChangelistDialog2" timestamp="1590547382924">
+    <state x="295" y="0" key="CommitChangelistDialog2" timestamp="1590636883182">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state x="295" y="0" key="CommitChangelistDialog2/0.0.1536.834@0.0.1536.834" timestamp="1590547382924" />
+    <state x="295" y="0" key="CommitChangelistDialog2/0.0.1536.834@0.0.1536.834" timestamp="1590636883182" />
     <state x="93" y="93" width="1350" height="648" key="DiffContextDialog" timestamp="1586318346122">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
@@ -1410,22 +1413,22 @@
       <screen x="0" y="0" width="1536" height="834" />
     </state>
     <state x="361" y="76" key="GrepConsoleSettings/0.0.1536.834@0.0.1536.834" timestamp="1589370685097" />
-    <state width="1493" height="318" key="GridCell.Tab.0.bottom" timestamp="1590636868548">
+    <state width="1493" height="318" key="GridCell.Tab.0.bottom" timestamp="1590717322204">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state width="1493" height="318" key="GridCell.Tab.0.bottom/0.0.1536.834@0.0.1536.834" timestamp="1590636868548" />
-    <state width="1493" height="318" key="GridCell.Tab.0.center" timestamp="1590636868548">
+    <state width="1493" height="318" key="GridCell.Tab.0.bottom/0.0.1536.834@0.0.1536.834" timestamp="1590717322204" />
+    <state width="1493" height="318" key="GridCell.Tab.0.center" timestamp="1590717322204">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state width="1493" height="318" key="GridCell.Tab.0.center/0.0.1536.834@0.0.1536.834" timestamp="1590636868548" />
-    <state width="1493" height="318" key="GridCell.Tab.0.left" timestamp="1590636868548">
+    <state width="1493" height="318" key="GridCell.Tab.0.center/0.0.1536.834@0.0.1536.834" timestamp="1590717322204" />
+    <state width="1493" height="318" key="GridCell.Tab.0.left" timestamp="1590717322204">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state width="1493" height="318" key="GridCell.Tab.0.left/0.0.1536.834@0.0.1536.834" timestamp="1590636868548" />
-    <state width="1493" height="318" key="GridCell.Tab.0.right" timestamp="1590636868548">
+    <state width="1493" height="318" key="GridCell.Tab.0.left/0.0.1536.834@0.0.1536.834" timestamp="1590717322204" />
+    <state width="1493" height="318" key="GridCell.Tab.0.right" timestamp="1590717322204">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state width="1493" height="318" key="GridCell.Tab.0.right/0.0.1536.834@0.0.1536.834" timestamp="1590636868548" />
+    <state width="1493" height="318" key="GridCell.Tab.0.right/0.0.1536.834@0.0.1536.834" timestamp="1590717322204" />
     <state width="1493" height="295" key="GridCell.Tab.1.bottom" timestamp="1590633578646">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
@@ -1530,10 +1533,10 @@
       <screen x="0" y="0" width="1536" height="834" />
     </state>
     <state x="490" y="159" width="558" height="540" key="StructurePopup/0.0.1536.834@0.0.1536.834" timestamp="1583544847974" />
-    <state x="361" y="146" key="Vcs.Push.Dialog.v2" timestamp="1590547429916">
+    <state x="361" y="146" key="Vcs.Push.Dialog.v2" timestamp="1590636915729">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state x="361" y="146" key="Vcs.Push.Dialog.v2/0.0.1536.834@0.0.1536.834" timestamp="1590547429916" />
+    <state x="361" y="146" key="Vcs.Push.Dialog.v2/0.0.1536.834@0.0.1536.834" timestamp="1590636915729" />
     <state x="92" y="123" width="884" height="568" key="com.intellij.history.integration.ui.views.DirectoryHistoryDialog" timestamp="1582858208019">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
