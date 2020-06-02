@@ -7,14 +7,6 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="07405ce8-cbd5-43fd-b903-16a731a448bb" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/LeetCode/src/BinarySearch/p350_IntersectionOfTwoArraysII.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/1/d/1d3edb82a73e4827ee13b447eaeb846c234a45c2" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/1/d/1d3edb82a73e4827ee13b447eaeb846c234a45c2" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/3/0/307e0d6d59216634cd509b02e7983cb04e4126f1" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/3/0/307e0d6d59216634cd509b02e7983cb04e4126f1" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/5/3/535101d83fb53999a11cda0c5db14986ebaf1860" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/5/3/535101d83fb53999a11cda0c5db14986ebaf1860" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/6/0/60ff66b8dfa1a40a28c6d73331a14339598b1c7b" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/6/0/60ff66b8dfa1a40a28c6d73331a14339598b1c7b" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/6/d/6d8daeee3d5be0d9164f246d2141f396b8edaa33" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/6/d/6d8daeee3d5be0d9164f246d2141f396b8edaa33" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/8/0/80906ecd367d30087a2d4acc2e6e9687808b9fcb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/8/0/80906ecd367d30087a2d4acc2e6e9687808b9fcb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -950,14 +942,7 @@
       <workItem from="1591019063166" duration="411000" />
       <workItem from="1591020044957" duration="104000" />
       <workItem from="1591024698469" duration="670000" />
-      <workItem from="1591059288705" duration="1658000" />
-    </task>
-    <task id="LOCAL-00023" summary="2020.04.21">
-      <created>1587525281369</created>
-      <option name="number" value="00023" />
-      <option name="presentableId" value="LOCAL-00023" />
-      <option name="project" value="LOCAL" />
-      <updated>1587525281369</updated>
+      <workItem from="1591059288705" duration="1978000" />
     </task>
     <task id="LOCAL-00024" summary="2020.04.21">
       <created>1587525412120</created>
@@ -1295,7 +1280,14 @@
       <option name="project" value="LOCAL" />
       <updated>1590929606333</updated>
     </task>
-    <option name="localTasksCounter" value="72" />
+    <task id="LOCAL-00072" summary="2020.06.02">
+      <created>1591062822823</created>
+      <option name="number" value="00072" />
+      <option name="presentableId" value="LOCAL-00072" />
+      <option name="project" value="LOCAL" />
+      <updated>1591062822824</updated>
+    </task>
+    <option name="localTasksCounter" value="73" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -1305,7 +1297,6 @@
     <ignored-roots>
       <path value="$PROJECT_DIR$" />
     </ignored-roots>
-    <MESSAGE value="2020.04.27" />
     <MESSAGE value="2020.04.29" />
     <MESSAGE value="2020.04.30" />
     <MESSAGE value="2020.05.01" />
@@ -1330,7 +1321,8 @@
     <MESSAGE value="2020.05.28" />
     <MESSAGE value="2020.05.29" />
     <MESSAGE value="2020.05.31" />
-    <option name="LAST_COMMIT_MESSAGE" value="2020.05.31" />
+    <MESSAGE value="2020.06.02" />
+    <option name="LAST_COMMIT_MESSAGE" value="2020.06.02" />
   </component>
   <component name="WindowStateProjectService">
     <state x="7" y="64" key="#Inspections" timestamp="1590390414791">
@@ -1397,10 +1389,10 @@
       <screen x="0" y="0" width="1536" height="834" />
     </state>
     <state x="178" y="110" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1/0.0.1536.834@0.0.1536.834" timestamp="1582858062755" />
-    <state x="295" y="0" key="CommitChangelistDialog2" timestamp="1590929604752">
+    <state x="295" y="0" key="CommitChangelistDialog2" timestamp="1591062820523">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state x="295" y="0" key="CommitChangelistDialog2/0.0.1536.834@0.0.1536.834" timestamp="1590929604752" />
+    <state x="295" y="0" key="CommitChangelistDialog2/0.0.1536.834@0.0.1536.834" timestamp="1591062820523" />
     <state x="93" y="93" width="1350" height="648" key="DiffContextDialog" timestamp="1586318346122">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
@@ -1425,22 +1417,22 @@
       <screen x="0" y="0" width="1536" height="834" />
     </state>
     <state x="361" y="76" key="GrepConsoleSettings/0.0.1536.834@0.0.1536.834" timestamp="1589370685097" />
-    <state width="1493" height="153" key="GridCell.Tab.0.bottom" timestamp="1591062791256">
+    <state width="1493" height="153" key="GridCell.Tab.0.bottom" timestamp="1591062821820">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state width="1493" height="153" key="GridCell.Tab.0.bottom/0.0.1536.834@0.0.1536.834" timestamp="1591062791256" />
-    <state width="1493" height="153" key="GridCell.Tab.0.center" timestamp="1591062791256">
+    <state width="1493" height="153" key="GridCell.Tab.0.bottom/0.0.1536.834@0.0.1536.834" timestamp="1591062821820" />
+    <state width="1493" height="153" key="GridCell.Tab.0.center" timestamp="1591062821820">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state width="1493" height="153" key="GridCell.Tab.0.center/0.0.1536.834@0.0.1536.834" timestamp="1591062791256" />
-    <state width="1493" height="153" key="GridCell.Tab.0.left" timestamp="1591062791256">
+    <state width="1493" height="153" key="GridCell.Tab.0.center/0.0.1536.834@0.0.1536.834" timestamp="1591062821820" />
+    <state width="1493" height="153" key="GridCell.Tab.0.left" timestamp="1591062821820">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state width="1493" height="153" key="GridCell.Tab.0.left/0.0.1536.834@0.0.1536.834" timestamp="1591062791256" />
-    <state width="1493" height="153" key="GridCell.Tab.0.right" timestamp="1591062791256">
+    <state width="1493" height="153" key="GridCell.Tab.0.left/0.0.1536.834@0.0.1536.834" timestamp="1591062821820" />
+    <state width="1493" height="153" key="GridCell.Tab.0.right" timestamp="1591062821820">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state width="1493" height="153" key="GridCell.Tab.0.right/0.0.1536.834@0.0.1536.834" timestamp="1591062791256" />
+    <state width="1493" height="153" key="GridCell.Tab.0.right/0.0.1536.834@0.0.1536.834" timestamp="1591062821820" />
     <state width="1493" height="295" key="GridCell.Tab.1.bottom" timestamp="1590633578646">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
@@ -1545,10 +1537,10 @@
       <screen x="0" y="0" width="1536" height="834" />
     </state>
     <state x="490" y="159" width="558" height="540" key="StructurePopup/0.0.1536.834@0.0.1536.834" timestamp="1583544847974" />
-    <state x="361" y="146" key="Vcs.Push.Dialog.v2" timestamp="1590929614610">
+    <state x="361" y="146" key="Vcs.Push.Dialog.v2" timestamp="1591062832565">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state x="361" y="146" key="Vcs.Push.Dialog.v2/0.0.1536.834@0.0.1536.834" timestamp="1590929614610" />
+    <state x="361" y="146" key="Vcs.Push.Dialog.v2/0.0.1536.834@0.0.1536.834" timestamp="1591062832565" />
     <state x="92" y="123" width="884" height="568" key="com.intellij.history.integration.ui.views.DirectoryHistoryDialog" timestamp="1582858208019">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
@@ -1577,6 +1569,10 @@
       <screen x="0" y="0" width="1536" height="834" />
     </state>
     <state x="733" y="0" width="803" height="834" key="find.popup/0.0.1536.834@0.0.1536.834" timestamp="1584025813171" />
+    <state x="550" y="196" key="git4idea.merge.GitMergeDialog" timestamp="1591062963513">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="550" y="196" key="git4idea.merge.GitMergeDialog/0.0.1536.834@0.0.1536.834" timestamp="1591062963513" />
     <state x="0" y="0" key="new project wizard" timestamp="1589166141769">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
