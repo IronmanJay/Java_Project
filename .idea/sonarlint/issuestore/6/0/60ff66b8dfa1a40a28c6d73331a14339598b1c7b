@@ -1,5 +1,5 @@
 
-K
-java:S2140")Use "java.util.Random.nextInt()" instead.(ı™¶Ñüÿÿÿÿ8éÚ˜›•.
 y	java:S127:"XRefactor the code in order to not assign to this loop counter from within the loop body.(¾‡à±şÿÿÿÿ8éÚ˜›•.
 v	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ÂÁÉ€8éÚ˜›•.
+K
+java:S2140")Use "java.util.Random.nextInt()" instead.(ı™¶Ñüÿÿÿÿ8éÚ˜›•.

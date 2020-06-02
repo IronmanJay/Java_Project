@@ -8820,3 +8820,7 @@ _
 /LeetCode/src/String/p93_RestoreIpAddresses.java,f\7\f7da99d97e4d361b7319ae15e23d216dc2d547d5
 b
 2LeetCode/src/String/p115_DistinctSubsequences.java,e\9\e90922ffc5b581faea3fc0b8d06d12276602ad9a
+f
+6LeetCode/src/BinarySearch/p367_ValidPerfectSquare.java,a\a\aa36d9db1dd30ac79e196b6e7b3d3d9f6a2aae8d
+m
+=LeetCode/src/BinarySearch/p350_IntersectionOfTwoArraysII.java,0\4\0453412ec331706f453dc804a73315d9cc6ca92f
