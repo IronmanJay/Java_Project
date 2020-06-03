@@ -7,6 +7,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="07405ce8-cbd5-43fd-b903-16a731a448bb" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -668,12 +669,12 @@
       <item itemvalue="Application.p115_DistinctSubsequences" />
       <item itemvalue="Application.p367_ValidPerfectSquare" />
       <item itemvalue="Application.p350_IntersectionOfTwoArraysII" />
+      <item itemvalue="Application.p162_FindPeakElement" />
       <item itemvalue="Tomcat Server.Redis" />
       <item itemvalue="Tomcat Server.Maven" />
       <item itemvalue="Tomcat Server.SpringMVC" />
       <item itemvalue="Tomcat Server.JavaWeb" />
       <item itemvalue="Tomcat Server.SSM" />
-      <item itemvalue="Application.p162_FindPeakElement" />
     </list>
     <recent_temporary>
       <list>
@@ -943,21 +944,8 @@
       <workItem from="1591020044957" duration="104000" />
       <workItem from="1591024698469" duration="670000" />
       <workItem from="1591059288705" duration="2003000" />
-      <workItem from="1591104520925" duration="2419000" />
-    </task>
-    <task id="LOCAL-00026" summary="2020.04.23">
-      <created>1587613436544</created>
-      <option name="number" value="00026" />
-      <option name="presentableId" value="LOCAL-00026" />
-      <option name="project" value="LOCAL" />
-      <updated>1587613436544</updated>
-    </task>
-    <task id="LOCAL-00027" summary="2020.04.24">
-      <created>1587697636552</created>
-      <option name="number" value="00027" />
-      <option name="presentableId" value="LOCAL-00027" />
-      <option name="project" value="LOCAL" />
-      <updated>1587697636552</updated>
+      <workItem from="1591104520925" duration="2622000" />
+      <workItem from="1591188636835" duration="72000" />
     </task>
     <task id="LOCAL-00028" summary="2020.04.24">
       <created>1587697676896</created>
@@ -1288,7 +1276,21 @@
       <option name="project" value="LOCAL" />
       <updated>1591107622838</updated>
     </task>
-    <option name="localTasksCounter" value="75" />
+    <task id="LOCAL-00075" summary="2020.06.03">
+      <created>1591108000214</created>
+      <option name="number" value="00075" />
+      <option name="presentableId" value="LOCAL-00075" />
+      <option name="project" value="LOCAL" />
+      <updated>1591108000214</updated>
+    </task>
+    <task id="LOCAL-00076" summary="2020.06.03">
+      <created>1591108017352</created>
+      <option name="number" value="00076" />
+      <option name="presentableId" value="LOCAL-00076" />
+      <option name="project" value="LOCAL" />
+      <updated>1591108017352</updated>
+    </task>
+    <option name="localTasksCounter" value="77" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -1382,10 +1384,10 @@
       <screen x="0" y="0" width="1536" height="834" />
     </state>
     <state x="178" y="110" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1/0.0.1536.834@0.0.1536.834" timestamp="1582858062755" />
-    <state x="295" y="0" key="CommitChangelistDialog2" timestamp="1591108008106">
+    <state x="295" y="0" key="CommitChangelistDialog2" timestamp="1591108016465">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state x="295" y="0" key="CommitChangelistDialog2/0.0.1536.834@0.0.1536.834" timestamp="1591108008106" />
+    <state x="295" y="0" key="CommitChangelistDialog2/0.0.1536.834@0.0.1536.834" timestamp="1591108016465" />
     <state x="93" y="93" width="1350" height="648" key="DiffContextDialog" timestamp="1586318346122">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
@@ -1530,10 +1532,10 @@
       <screen x="0" y="0" width="1536" height="834" />
     </state>
     <state x="490" y="159" width="558" height="540" key="StructurePopup/0.0.1536.834@0.0.1536.834" timestamp="1583544847974" />
-    <state x="361" y="146" key="Vcs.Push.Dialog.v2" timestamp="1591107832238">
+    <state x="361" y="146" key="Vcs.Push.Dialog.v2" timestamp="1591108022228">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state x="361" y="146" key="Vcs.Push.Dialog.v2/0.0.1536.834@0.0.1536.834" timestamp="1591107832238" />
+    <state x="361" y="146" key="Vcs.Push.Dialog.v2/0.0.1536.834@0.0.1536.834" timestamp="1591108022228" />
     <state x="92" y="123" width="884" height="568" key="com.intellij.history.integration.ui.views.DirectoryHistoryDialog" timestamp="1582858208019">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
