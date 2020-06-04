@@ -21,7 +21,7 @@ public class p33_SearchInRotatedSortedArray {
                 return mid;
             }
             // 如果中间值大于左边的值，说明左边的数组是升序的
-            if (nums[mid] >= left) {
+            if (nums[mid] >= nums[left]) {
                 // 在这个前提下，如果target>=左边值并且target<=中间值，那么说明target一定在左边，那么变化右边的值，否则target一定在右边，变化左边的值
                 if (target >= nums[left] && target <= nums[mid]) {
                     right = mid - 1;
