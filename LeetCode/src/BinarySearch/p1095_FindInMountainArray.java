@@ -54,6 +54,7 @@ public class p1095_FindInMountainArray {
         return -1;
     }
 
+    // 用于返回峰顶元素下标
     public static int findPeakElement(int[] nums) {
         // 首先定义左右指针
         int left = 0;

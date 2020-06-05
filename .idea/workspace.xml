@@ -7,9 +7,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="07405ce8-cbd5-43fd-b903-16a731a448bb" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/LeetCode/src/BinarySearch/p1095_FindInMountainArray.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LeetCode/src/BinarySearch/p1095_FindInMountainArray.java" beforeDir="false" afterPath="$PROJECT_DIR$/LeetCode/src/BinarySearch/p1095_FindInMountainArray.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -950,14 +949,7 @@
       <workItem from="1591231732215" duration="1316000" />
       <workItem from="1591235883190" duration="346000" />
       <workItem from="1591240243876" duration="674000" />
-      <workItem from="1591318662192" duration="3006000" />
-    </task>
-    <task id="LOCAL-00032" summary="2020.04.29">
-      <created>1588145834938</created>
-      <option name="number" value="00032" />
-      <option name="presentableId" value="LOCAL-00032" />
-      <option name="project" value="LOCAL" />
-      <updated>1588145834938</updated>
+      <workItem from="1591318662192" duration="3949000" />
     </task>
     <task id="LOCAL-00033" summary="2020.04.30">
       <created>1588230574833</created>
@@ -1295,7 +1287,14 @@
       <option name="project" value="LOCAL" />
       <updated>1591236111627</updated>
     </task>
-    <option name="localTasksCounter" value="81" />
+    <task id="LOCAL-00081" summary="2020.06.05">
+      <created>1591324824644</created>
+      <option name="number" value="00081" />
+      <option name="presentableId" value="LOCAL-00081" />
+      <option name="project" value="LOCAL" />
+      <updated>1591324824645</updated>
+    </task>
+    <option name="localTasksCounter" value="82" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -1305,7 +1304,6 @@
     <ignored-roots>
       <path value="$PROJECT_DIR$" />
     </ignored-roots>
-    <MESSAGE value="2020.05.01" />
     <MESSAGE value="2020.05.04" />
     <MESSAGE value="2020.05.05" />
     <MESSAGE value="2020.05.06" />
@@ -1330,7 +1328,8 @@
     <MESSAGE value="2020.06.02" />
     <MESSAGE value="2020.06.03" />
     <MESSAGE value="2020.06.04" />
-    <option name="LAST_COMMIT_MESSAGE" value="2020.06.04" />
+    <MESSAGE value="2020.06.05" />
+    <option name="LAST_COMMIT_MESSAGE" value="2020.06.05" />
   </component>
   <component name="WindowStateProjectService">
     <state x="7" y="64" key="#Inspections" timestamp="1590390414791">
@@ -1381,10 +1380,10 @@
       <screen x="0" y="0" width="1536" height="834" />
     </state>
     <state x="178" y="110" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1/0.0.1536.834@0.0.1536.834" timestamp="1582858062755" />
-    <state x="295" y="0" key="CommitChangelistDialog2" timestamp="1591236110503">
+    <state x="295" y="0" key="CommitChangelistDialog2" timestamp="1591324821745">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state x="295" y="0" key="CommitChangelistDialog2/0.0.1536.834@0.0.1536.834" timestamp="1591236110503" />
+    <state x="295" y="0" key="CommitChangelistDialog2/0.0.1536.834@0.0.1536.834" timestamp="1591324821745" />
     <state x="93" y="93" width="1350" height="648" key="DiffContextDialog" timestamp="1586318346122">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
@@ -1525,10 +1524,10 @@
       <screen x="0" y="0" width="1536" height="834" />
     </state>
     <state x="490" y="159" width="558" height="540" key="StructurePopup/0.0.1536.834@0.0.1536.834" timestamp="1583544847974" />
-    <state x="361" y="146" key="Vcs.Push.Dialog.v2" timestamp="1591236129421">
+    <state x="361" y="146" key="Vcs.Push.Dialog.v2" timestamp="1591324830101">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state x="361" y="146" key="Vcs.Push.Dialog.v2/0.0.1536.834@0.0.1536.834" timestamp="1591236129421" />
+    <state x="361" y="146" key="Vcs.Push.Dialog.v2/0.0.1536.834@0.0.1536.834" timestamp="1591324830101" />
     <state x="92" y="123" width="884" height="568" key="com.intellij.history.integration.ui.views.DirectoryHistoryDialog" timestamp="1582858208019">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
