@@ -7,6 +7,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="07405ce8-cbd5-43fd-b903-16a731a448bb" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/LeetCode/src/Sort/p179_LargestNumber.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -177,7 +178,7 @@
       <command value="mvn clean" />
     </option>
   </component>
-  <component name="RunManager" selected="Application.p1122_RelativeSortArray">
+  <component name="RunManager" selected="Application.p179_LargestNumber">
     <configuration name="p1095_FindInMountainArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="BinarySearch.p1095_FindInMountainArray" />
       <module name="LeetCode" />
@@ -217,12 +218,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="p33_SearchInRotatedSortedArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="BinarySearch.p33_SearchInRotatedSortedArray" />
+    <configuration name="p179_LargestNumber" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Sort.p179_LargestNumber" />
       <module name="LeetCode" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="BinarySearch.*" />
+          <option name="PATTERN" value="Sort.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -665,7 +666,6 @@
     </configuration>
     <list>
       <item itemvalue="Application.p162_FindPeakElement" />
-      <item itemvalue="Application.p33_SearchInRotatedSortedArray" />
       <item itemvalue="Application.p1095_FindInMountainArray" />
       <item itemvalue="Application.p922_SortArrayByParityII" />
       <item itemvalue="Application.p1122_RelativeSortArray" />
@@ -674,14 +674,15 @@
       <item itemvalue="Tomcat Server.SpringMVC" />
       <item itemvalue="Tomcat Server.JavaWeb" />
       <item itemvalue="Tomcat Server.SSM" />
+      <item itemvalue="Application.p179_LargestNumber" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.p179_LargestNumber" />
         <item itemvalue="Application.p1122_RelativeSortArray" />
         <item itemvalue="Application.p922_SortArrayByParityII" />
         <item itemvalue="Application.p1095_FindInMountainArray" />
         <item itemvalue="Application.p162_FindPeakElement" />
-        <item itemvalue="Application.p33_SearchInRotatedSortedArray" />
       </list>
     </recent_temporary>
   </component>
@@ -956,20 +957,8 @@
       <workItem from="1591587585562" duration="194000" />
       <workItem from="1591617790264" duration="35000" />
       <workItem from="1591621908812" duration="4749000" />
-    </task>
-    <task id="LOCAL-00036" summary="2020.05.01">
-      <created>1588301734331</created>
-      <option name="number" value="00036" />
-      <option name="presentableId" value="LOCAL-00036" />
-      <option name="project" value="LOCAL" />
-      <updated>1588301734331</updated>
-    </task>
-    <task id="LOCAL-00037" summary="2020.05.01">
-      <created>1588301930650</created>
-      <option name="number" value="00037" />
-      <option name="presentableId" value="LOCAL-00037" />
-      <option name="project" value="LOCAL" />
-      <updated>1588301930650</updated>
+      <workItem from="1591630390956" duration="67000" />
+      <workItem from="1591752764832" duration="519000" />
     </task>
     <task id="LOCAL-00038" summary="2020.05.04">
       <created>1588592692997</created>
@@ -1300,7 +1289,21 @@
       <option name="project" value="LOCAL" />
       <updated>1591630161745</updated>
     </task>
-    <option name="localTasksCounter" value="85" />
+    <task id="LOCAL-00085" summary="2020.06.09">
+      <created>1591630405737</created>
+      <option name="number" value="00085" />
+      <option name="presentableId" value="LOCAL-00085" />
+      <option name="project" value="LOCAL" />
+      <updated>1591630405737</updated>
+    </task>
+    <task id="LOCAL-00086" summary="2020.06.09">
+      <created>1591630423116</created>
+      <option name="number" value="00086" />
+      <option name="presentableId" value="LOCAL-00086" />
+      <option name="project" value="LOCAL" />
+      <updated>1591630423116</updated>
+    </task>
+    <option name="localTasksCounter" value="87" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -1354,10 +1357,10 @@
       <screen x="0" y="0" width="1536" height="834" />
     </state>
     <state x="377" y="51" width="1089" height="708" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1536.834@0.0.1536.834" timestamp="1587960558314" />
-    <state x="110" y="112" key="#com.intellij.ide.util.MemberChooser" timestamp="1591319229973">
+    <state x="110" y="112" key="#com.intellij.ide.util.MemberChooser" timestamp="1591753093187">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state x="110" y="112" key="#com.intellij.ide.util.MemberChooser/0.0.1536.834@0.0.1536.834" timestamp="1591319229973" />
+    <state x="110" y="112" key="#com.intellij.ide.util.MemberChooser/0.0.1536.834@0.0.1536.834" timestamp="1591753093187" />
     <state x="96" y="48" key="#com.intellij.ide.util.frameworkSupport.AddFrameworkSupportDialog" timestamp="1584025821692">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
@@ -1374,10 +1377,10 @@
       <screen x="0" y="0" width="1536" height="834" />
     </state>
     <state x="295" y="172" key="#com.intellij.util.ui.classpath.ChooseLibrariesDialog/0.0.1536.834@0.0.1536.834" timestamp="1584025653867" />
-    <state x="295" y="0" key="CommitChangelistDialog2" timestamp="1591630413893">
+    <state x="295" y="0" key="CommitChangelistDialog2" timestamp="1591630422305">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state x="295" y="0" key="CommitChangelistDialog2/0.0.1536.834@0.0.1536.834" timestamp="1591630413893" />
+    <state x="295" y="0" key="CommitChangelistDialog2/0.0.1536.834@0.0.1536.834" timestamp="1591630422305" />
     <state x="93" y="93" width="1350" height="648" key="DiffContextDialog" timestamp="1586318346122">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
@@ -1402,22 +1405,22 @@
       <screen x="0" y="0" width="1536" height="834" />
     </state>
     <state x="361" y="76" key="GrepConsoleSettings/0.0.1536.834@0.0.1536.834" timestamp="1589370685097" />
-    <state width="1042" height="136" key="GridCell.Tab.0.bottom" timestamp="1591630144834">
+    <state width="1042" height="136" key="GridCell.Tab.0.bottom" timestamp="1591753334489">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state width="1042" height="136" key="GridCell.Tab.0.bottom/0.0.1536.834@0.0.1536.834" timestamp="1591630144834" />
-    <state width="1042" height="136" key="GridCell.Tab.0.center" timestamp="1591630144834">
+    <state width="1042" height="136" key="GridCell.Tab.0.bottom/0.0.1536.834@0.0.1536.834" timestamp="1591753334489" />
+    <state width="1042" height="136" key="GridCell.Tab.0.center" timestamp="1591753334489">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state width="1042" height="136" key="GridCell.Tab.0.center/0.0.1536.834@0.0.1536.834" timestamp="1591630144834" />
-    <state width="1042" height="136" key="GridCell.Tab.0.left" timestamp="1591630144834">
+    <state width="1042" height="136" key="GridCell.Tab.0.center/0.0.1536.834@0.0.1536.834" timestamp="1591753334489" />
+    <state width="1042" height="136" key="GridCell.Tab.0.left" timestamp="1591753334489">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state width="1042" height="136" key="GridCell.Tab.0.left/0.0.1536.834@0.0.1536.834" timestamp="1591630144834" />
-    <state width="1042" height="136" key="GridCell.Tab.0.right" timestamp="1591630144834">
+    <state width="1042" height="136" key="GridCell.Tab.0.left/0.0.1536.834@0.0.1536.834" timestamp="1591753334489" />
+    <state width="1042" height="136" key="GridCell.Tab.0.right" timestamp="1591753334489">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state width="1042" height="136" key="GridCell.Tab.0.right/0.0.1536.834@0.0.1536.834" timestamp="1591630144834" />
+    <state width="1042" height="136" key="GridCell.Tab.0.right/0.0.1536.834@0.0.1536.834" timestamp="1591753334489" />
     <state width="1493" height="295" key="GridCell.Tab.1.bottom" timestamp="1590633578646">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
@@ -1498,10 +1501,10 @@
       <screen x="0" y="0" width="1536" height="834" />
     </state>
     <state x="490" y="159" width="558" height="540" key="StructurePopup/0.0.1536.834@0.0.1536.834" timestamp="1583544847974" />
-    <state x="361" y="146" key="Vcs.Push.Dialog.v2" timestamp="1591630261618">
+    <state x="361" y="146" key="Vcs.Push.Dialog.v2" timestamp="1591630427552">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state x="361" y="146" key="Vcs.Push.Dialog.v2/0.0.1536.834@0.0.1536.834" timestamp="1591630261618" />
+    <state x="361" y="146" key="Vcs.Push.Dialog.v2/0.0.1536.834@0.0.1536.834" timestamp="1591630427552" />
     <state x="255" y="279" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD" timestamp="1589370309388">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
@@ -1530,10 +1533,6 @@
       <screen x="0" y="0" width="1536" height="834" />
     </state>
     <state x="0" y="0" key="new project wizard/0.0.1536.834@0.0.1536.834" timestamp="1589166141769" />
-    <state x="327" y="197" width="734" height="573" key="org.intellij.images.editor.actions.BackgroundImageDialog" timestamp="1583022150692">
-      <screen x="0" y="0" width="1536" height="834" />
-    </state>
-    <state x="327" y="197" width="734" height="573" key="org.intellij.images.editor.actions.BackgroundImageDialog/0.0.1536.834@0.0.1536.834" timestamp="1583022150692" />
     <state x="473" y="40" key="refactoring.ChangeSignatureDialog" timestamp="1591324767625">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
