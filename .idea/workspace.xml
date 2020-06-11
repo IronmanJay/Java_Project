@@ -6,10 +6,7 @@
     </artifacts-to-build>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="07405ce8-cbd5-43fd-b903-16a731a448bb" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/LeetCode/src/Sort/p164_MaximumGap.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="07405ce8-cbd5-43fd-b903-16a731a448bb" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -961,14 +958,7 @@
       <workItem from="1591752764832" duration="1217000" />
       <workItem from="1591800406395" duration="74000" />
       <workItem from="1591837141723" duration="1712000" />
-      <workItem from="1591880212325" duration="2541000" />
-    </task>
-    <task id="LOCAL-00041" summary="2020.05.07">
-      <created>1588821073493</created>
-      <option name="number" value="00041" />
-      <option name="presentableId" value="LOCAL-00041" />
-      <option name="project" value="LOCAL" />
-      <updated>1588821073493</updated>
+      <workItem from="1591880212325" duration="2844000" />
     </task>
     <task id="LOCAL-00042" summary="2020.05.07">
       <created>1588863853619</created>
@@ -1306,7 +1296,14 @@
       <option name="project" value="LOCAL" />
       <updated>1591840784520</updated>
     </task>
-    <option name="localTasksCounter" value="90" />
+    <task id="LOCAL-00090" summary="2020.06.12">
+      <created>1591882995987</created>
+      <option name="number" value="00090" />
+      <option name="presentableId" value="LOCAL-00090" />
+      <option name="project" value="LOCAL" />
+      <updated>1591882995987</updated>
+    </task>
+    <option name="localTasksCounter" value="91" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -1316,7 +1313,6 @@
     <ignored-roots>
       <path value="$PROJECT_DIR$" />
     </ignored-roots>
-    <MESSAGE value="2020.05.08" />
     <MESSAGE value="2020.05.11" />
     <MESSAGE value="2020.05.12" />
     <MESSAGE value="2020.05.13" />
@@ -1341,7 +1337,8 @@
     <MESSAGE value="2020.06.09" />
     <MESSAGE value="2020.06.10" />
     <MESSAGE value="2020.06.11" />
-    <option name="LAST_COMMIT_MESSAGE" value="2020.06.11" />
+    <MESSAGE value="2020.06.12" />
+    <option name="LAST_COMMIT_MESSAGE" value="2020.06.12" />
   </component>
   <component name="WindowStateProjectService">
     <state x="7" y="64" key="#Inspections" timestamp="1590390414791">
@@ -1380,10 +1377,10 @@
       <screen x="0" y="0" width="1536" height="834" />
     </state>
     <state x="295" y="172" key="#com.intellij.util.ui.classpath.ChooseLibrariesDialog/0.0.1536.834@0.0.1536.834" timestamp="1584025653867" />
-    <state x="295" y="0" key="CommitChangelistDialog2" timestamp="1591840783729">
+    <state x="295" y="0" key="CommitChangelistDialog2" timestamp="1591883069313">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state x="295" y="0" key="CommitChangelistDialog2/0.0.1536.834@0.0.1536.834" timestamp="1591840783729" />
+    <state x="295" y="0" key="CommitChangelistDialog2/0.0.1536.834@0.0.1536.834" timestamp="1591883069313" />
     <state x="93" y="93" width="1350" height="648" key="DiffContextDialog" timestamp="1586318346122">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
@@ -1496,18 +1493,18 @@
       <screen x="0" y="0" width="1536" height="834" />
     </state>
     <state x="470" y="123" key="MultipleFileMergeDialog/0.0.1536.834@0.0.1536.834" timestamp="1586246163747" />
-    <state x="57" y="0" width="1037" height="834" key="SettingsEditor" timestamp="1591840779453">
+    <state x="57" y="0" width="1037" height="834" key="SettingsEditor" timestamp="1591883062712">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state x="57" y="0" width="1037" height="834" key="SettingsEditor/0.0.1536.834@0.0.1536.834" timestamp="1591840779453" />
+    <state x="57" y="0" width="1037" height="834" key="SettingsEditor/0.0.1536.834@0.0.1536.834" timestamp="1591883062712" />
     <state x="490" y="159" width="558" height="540" key="StructurePopup" timestamp="1583544847974">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
     <state x="490" y="159" width="558" height="540" key="StructurePopup/0.0.1536.834@0.0.1536.834" timestamp="1583544847974" />
-    <state x="361" y="146" key="Vcs.Push.Dialog.v2" timestamp="1591840788561">
+    <state x="361" y="146" key="Vcs.Push.Dialog.v2" timestamp="1591883001043">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state x="361" y="146" key="Vcs.Push.Dialog.v2/0.0.1536.834@0.0.1536.834" timestamp="1591840788561" />
+    <state x="361" y="146" key="Vcs.Push.Dialog.v2/0.0.1536.834@0.0.1536.834" timestamp="1591883001043" />
     <state x="255" y="279" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD" timestamp="1589370309388">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
