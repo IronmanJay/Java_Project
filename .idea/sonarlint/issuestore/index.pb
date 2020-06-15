@@ -8848,3 +8848,7 @@ Y
 )LeetCode/src/Sort/p56_MergeIntervals.java,0\4\044656d19a289d369cf8c56b9fbc66f9645d6f23
 V
 &LeetCode/src/Sort/p164_MaximumGap.java,e\3\e3558e02cbb2c2806f209ed0fa1b8534c9c965b2
+\
+,LeetCode/src/Stack/p20_ValidParentheses.java,c\8\c838af113810cebe964b01fb52d71ae9a078eadd
+j
+:LeetCode/src/Stack/I9_UsingTwoStacksToImplementQueues.java,d\b\db5898ae890b0406c55423575f19d7eb72f3835b
