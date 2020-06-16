@@ -7,10 +7,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="07405ce8-cbd5-43fd-b903-16a731a448bb" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/LeetCode/src/Stack/I9_UsingTwoStacksToImplementQueues.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/5/1/51d69c61c4e24e648f60ebe9ccb47fae5637aadb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/5/1/51d69c61c4e24e648f60ebe9ccb47fae5637aadb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LeetCode/src/Stack/p150_EvaluateReversePolishNotation.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DataStructures/src/Stack/PolandNotation.java" beforeDir="false" afterPath="$PROJECT_DIR$/DataStructures/src/Stack/PolandNotation.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -180,7 +179,7 @@
       <command value="mvn clean" />
     </option>
   </component>
-  <component name="RunManager" selected="Application.I9_UsingTwoStacksToImplementQueues">
+  <component name="RunManager" selected="Application.PolandNotation">
     <configuration name="I9_UsingTwoStacksToImplementQueues" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Stack.I9_UsingTwoStacksToImplementQueues" />
       <module name="LeetCode" />
@@ -194,12 +193,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="p164_MaximumGap" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Sort.p164_MaximumGap" />
-      <module name="LeetCode" />
+    <configuration name="PolandNotation" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Stack.PolandNotation" />
+      <module name="DataStructures" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Sort.*" />
+          <option name="PATTERN" value="Stack.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -207,8 +206,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="p179_LargestNumber" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Sort.p179_LargestNumber" />
+    <configuration name="p164_MaximumGap" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Sort.p164_MaximumGap" />
       <module name="LeetCode" />
       <extension name="coverage">
         <pattern>
@@ -667,7 +666,6 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.p179_LargestNumber" />
       <item itemvalue="Application.p56_MergeIntervals" />
       <item itemvalue="Application.p164_MaximumGap" />
       <item itemvalue="Application.p20_ValidParentheses" />
@@ -677,14 +675,15 @@
       <item itemvalue="Tomcat Server.SpringMVC" />
       <item itemvalue="Tomcat Server.JavaWeb" />
       <item itemvalue="Tomcat Server.SSM" />
+      <item itemvalue="Application.PolandNotation" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.PolandNotation" />
         <item itemvalue="Application.I9_UsingTwoStacksToImplementQueues" />
         <item itemvalue="Application.p20_ValidParentheses" />
         <item itemvalue="Application.p164_MaximumGap" />
         <item itemvalue="Application.p56_MergeIntervals" />
-        <item itemvalue="Application.p179_LargestNumber" />
       </list>
     </recent_temporary>
   </component>
@@ -967,14 +966,8 @@
       <workItem from="1592146087510" duration="2462000" />
       <workItem from="1592215817169" duration="141000" />
       <workItem from="1592216041456" duration="25000" />
-      <workItem from="1592233878885" duration="1114000" />
-    </task>
-    <task id="LOCAL-00045" summary="2020.05.11">
-      <created>1589159703416</created>
-      <option name="number" value="00045" />
-      <option name="presentableId" value="LOCAL-00045" />
-      <option name="project" value="LOCAL" />
-      <updated>1589159703416</updated>
+      <workItem from="1592233878885" duration="1719000" />
+      <workItem from="1592318077117" duration="2630000" />
     </task>
     <task id="LOCAL-00046" summary="2020.05.11">
       <created>1589159760965</created>
@@ -1312,7 +1305,14 @@
       <option name="project" value="LOCAL" />
       <updated>1592147730794</updated>
     </task>
-    <option name="localTasksCounter" value="94" />
+    <task id="LOCAL-00094" summary="2020.06.14">
+      <created>1592235190670</created>
+      <option name="number" value="00094" />
+      <option name="presentableId" value="LOCAL-00094" />
+      <option name="project" value="LOCAL" />
+      <updated>1592235190671</updated>
+    </task>
+    <option name="localTasksCounter" value="95" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -1322,7 +1322,6 @@
     <ignored-roots>
       <path value="$PROJECT_DIR$" />
     </ignored-roots>
-    <MESSAGE value="2020.05.12" />
     <MESSAGE value="2020.05.13" />
     <MESSAGE value="2020.05.14" />
     <MESSAGE value="2020.05.15" />
@@ -1347,7 +1346,8 @@
     <MESSAGE value="2020.06.11" />
     <MESSAGE value="2020.06.12" />
     <MESSAGE value="2020.06.13" />
-    <option name="LAST_COMMIT_MESSAGE" value="2020.06.13" />
+    <MESSAGE value="2020.06.14" />
+    <option name="LAST_COMMIT_MESSAGE" value="2020.06.14" />
   </component>
   <component name="WindowStateProjectService">
     <state x="7" y="64" key="#Inspections" timestamp="1590390414791">
@@ -1386,10 +1386,10 @@
       <screen x="0" y="0" width="1536" height="834" />
     </state>
     <state x="295" y="172" key="#com.intellij.util.ui.classpath.ChooseLibrariesDialog/0.0.1536.834@0.0.1536.834" timestamp="1584025653867" />
-    <state x="295" y="0" key="CommitChangelistDialog2" timestamp="1592147730057">
+    <state x="295" y="0" key="CommitChangelistDialog2" timestamp="1592235188479">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state x="295" y="0" key="CommitChangelistDialog2/0.0.1536.834@0.0.1536.834" timestamp="1592147730057" />
+    <state x="295" y="0" key="CommitChangelistDialog2/0.0.1536.834@0.0.1536.834" timestamp="1592235188479" />
     <state x="93" y="93" width="1350" height="648" key="DiffContextDialog" timestamp="1586318346122">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
@@ -1414,22 +1414,22 @@
       <screen x="0" y="0" width="1536" height="834" />
     </state>
     <state x="361" y="76" key="GrepConsoleSettings/0.0.1536.834@0.0.1536.834" timestamp="1589370685097" />
-    <state width="1042" height="131" key="GridCell.Tab.0.bottom" timestamp="1592235162593">
+    <state width="1493" height="154" key="GridCell.Tab.0.bottom" timestamp="1592321609471">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state width="1042" height="131" key="GridCell.Tab.0.bottom/0.0.1536.834@0.0.1536.834" timestamp="1592235162593" />
-    <state width="1042" height="131" key="GridCell.Tab.0.center" timestamp="1592235162593">
+    <state width="1493" height="154" key="GridCell.Tab.0.bottom/0.0.1536.834@0.0.1536.834" timestamp="1592321609471" />
+    <state width="1493" height="154" key="GridCell.Tab.0.center" timestamp="1592321609470">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state width="1042" height="131" key="GridCell.Tab.0.center/0.0.1536.834@0.0.1536.834" timestamp="1592235162593" />
-    <state width="1042" height="131" key="GridCell.Tab.0.left" timestamp="1592235162593">
+    <state width="1493" height="154" key="GridCell.Tab.0.center/0.0.1536.834@0.0.1536.834" timestamp="1592321609470" />
+    <state width="1493" height="154" key="GridCell.Tab.0.left" timestamp="1592321609470">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state width="1042" height="131" key="GridCell.Tab.0.left/0.0.1536.834@0.0.1536.834" timestamp="1592235162593" />
-    <state width="1042" height="131" key="GridCell.Tab.0.right" timestamp="1592235162593">
+    <state width="1493" height="154" key="GridCell.Tab.0.left/0.0.1536.834@0.0.1536.834" timestamp="1592321609470" />
+    <state width="1493" height="154" key="GridCell.Tab.0.right" timestamp="1592321609471">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state width="1042" height="131" key="GridCell.Tab.0.right/0.0.1536.834@0.0.1536.834" timestamp="1592235162593" />
+    <state width="1493" height="154" key="GridCell.Tab.0.right/0.0.1536.834@0.0.1536.834" timestamp="1592321609471" />
     <state width="1493" height="295" key="GridCell.Tab.1.bottom" timestamp="1590633578646">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
@@ -1502,14 +1502,14 @@
       <screen x="0" y="0" width="1536" height="834" />
     </state>
     <state x="470" y="123" key="MultipleFileMergeDialog/0.0.1536.834@0.0.1536.834" timestamp="1586246163747" />
-    <state x="57" y="0" width="1037" height="834" key="SettingsEditor" timestamp="1592147736747">
+    <state x="57" y="0" width="1037" height="834" key="SettingsEditor" timestamp="1592235209431">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state x="57" y="0" width="1037" height="834" key="SettingsEditor/0.0.1536.834@0.0.1536.834" timestamp="1592147736747" />
-    <state x="361" y="146" key="Vcs.Push.Dialog.v2" timestamp="1592147740152">
+    <state x="57" y="0" width="1037" height="834" key="SettingsEditor/0.0.1536.834@0.0.1536.834" timestamp="1592235209431" />
+    <state x="361" y="146" key="Vcs.Push.Dialog.v2" timestamp="1592235214029">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state x="361" y="146" key="Vcs.Push.Dialog.v2/0.0.1536.834@0.0.1536.834" timestamp="1592147740152" />
+    <state x="361" y="146" key="Vcs.Push.Dialog.v2/0.0.1536.834@0.0.1536.834" timestamp="1592235214029" />
     <state x="255" y="279" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD" timestamp="1589370309388">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
