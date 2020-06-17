@@ -7,11 +7,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="07405ce8-cbd5-43fd-b903-16a731a448bb" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/7/8/7856e4ad12d42e91f59f7bf8b89948d9f384dff3" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/7/8/7856e4ad12d42e91f59f7bf8b89948d9f384dff3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LeetCode/src/Stack/p856_ScoreOfParentheses.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/LeetCode/src/Stack/p150_EvaluateReversePolishNotation.java" beforeDir="false" afterPath="$PROJECT_DIR$/LeetCode/src/Stack/p150_EvaluateReversePolishNotation.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/DataStructures/Stack/PolandNotation.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DataStructures/Stack/PolandNotation.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -127,6 +125,7 @@
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit5" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5" value="" />
     <property name="create.test.in.the.same.root" value="true" />
+    <property name="full.screen.before.presentation.mode" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
@@ -181,7 +180,7 @@
       <command value="mvn clean" />
     </option>
   </component>
-  <component name="RunManager" selected="Application.p150_EvaluateReversePolishNotation">
+  <component name="RunManager" selected="Application.p856_ScoreOfParentheses">
     <configuration name="I9_UsingTwoStacksToImplementQueues" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Stack.I9_UsingTwoStacksToImplementQueues" />
       <module name="LeetCode" />
@@ -221,12 +220,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="p164_MaximumGap" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Sort.p164_MaximumGap" />
+    <configuration name="p20_ValidParentheses" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Stack.p20_ValidParentheses" />
       <module name="LeetCode" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Sort.*" />
+          <option name="PATTERN" value="Stack.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -234,8 +233,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="p20_ValidParentheses" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Stack.p20_ValidParentheses" />
+    <configuration name="p856_ScoreOfParentheses" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Stack.p856_ScoreOfParentheses" />
       <module name="LeetCode" />
       <extension name="coverage">
         <pattern>
@@ -668,24 +667,24 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.p164_MaximumGap" />
       <item itemvalue="Application.p20_ValidParentheses" />
       <item itemvalue="Application.I9_UsingTwoStacksToImplementQueues" />
       <item itemvalue="Application.PolandNotation" />
+      <item itemvalue="Application.p150_EvaluateReversePolishNotation" />
       <item itemvalue="Tomcat Server.Redis" />
       <item itemvalue="Tomcat Server.Maven" />
       <item itemvalue="Tomcat Server.SpringMVC" />
       <item itemvalue="Tomcat Server.JavaWeb" />
       <item itemvalue="Tomcat Server.SSM" />
-      <item itemvalue="Application.p150_EvaluateReversePolishNotation" />
+      <item itemvalue="Application.p856_ScoreOfParentheses" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.p856_ScoreOfParentheses" />
+        <item itemvalue="Application.p20_ValidParentheses" />
         <item itemvalue="Application.p150_EvaluateReversePolishNotation" />
         <item itemvalue="Application.PolandNotation" />
         <item itemvalue="Application.I9_UsingTwoStacksToImplementQueues" />
-        <item itemvalue="Application.p20_ValidParentheses" />
-        <item itemvalue="Application.p164_MaximumGap" />
       </list>
     </recent_temporary>
   </component>
@@ -970,21 +969,9 @@
       <workItem from="1592216041456" duration="25000" />
       <workItem from="1592233878885" duration="1719000" />
       <workItem from="1592318077117" duration="2669000" />
-      <workItem from="1592356321074" duration="441000" />
-    </task>
-    <task id="LOCAL-00047" summary="2020.05.12">
-      <created>1589254772743</created>
-      <option name="number" value="00047" />
-      <option name="presentableId" value="LOCAL-00047" />
-      <option name="project" value="LOCAL" />
-      <updated>1589254772743</updated>
-    </task>
-    <task id="LOCAL-00048" summary="2020.05.12">
-      <created>1589254821880</created>
-      <option name="number" value="00048" />
-      <option name="presentableId" value="LOCAL-00048" />
-      <option name="project" value="LOCAL" />
-      <updated>1589254821880</updated>
+      <workItem from="1592356321074" duration="673000" />
+      <workItem from="1592391146074" duration="48000" />
+      <workItem from="1592405626533" duration="2169000" />
     </task>
     <task id="LOCAL-00049" summary="2020.05.13">
       <created>1589336775162</created>
@@ -1315,7 +1302,21 @@
       <option name="project" value="LOCAL" />
       <updated>1592321626411</updated>
     </task>
-    <option name="localTasksCounter" value="96" />
+    <task id="LOCAL-00096" summary="2020.06.17">
+      <created>1592356941984</created>
+      <option name="number" value="00096" />
+      <option name="presentableId" value="LOCAL-00096" />
+      <option name="project" value="LOCAL" />
+      <updated>1592356941985</updated>
+    </task>
+    <task id="LOCAL-00097" summary="2020.06.17">
+      <created>1592356981902</created>
+      <option name="number" value="00097" />
+      <option name="presentableId" value="LOCAL-00097" />
+      <option name="project" value="LOCAL" />
+      <updated>1592356981902</updated>
+    </task>
+    <option name="localTasksCounter" value="98" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -1325,7 +1326,6 @@
     <ignored-roots>
       <path value="$PROJECT_DIR$" />
     </ignored-roots>
-    <MESSAGE value="2020.05.13" />
     <MESSAGE value="2020.05.14" />
     <MESSAGE value="2020.05.15" />
     <MESSAGE value="2020.05.18" />
@@ -1350,7 +1350,8 @@
     <MESSAGE value="2020.06.12" />
     <MESSAGE value="2020.06.13" />
     <MESSAGE value="2020.06.14" />
-    <option name="LAST_COMMIT_MESSAGE" value="2020.06.14" />
+    <MESSAGE value="2020.06.17" />
+    <option name="LAST_COMMIT_MESSAGE" value="2020.06.17" />
   </component>
   <component name="WindowStateProjectService">
     <state x="7" y="64" key="#Inspections" timestamp="1590390414791">
@@ -1389,10 +1390,10 @@
       <screen x="0" y="0" width="1536" height="834" />
     </state>
     <state x="295" y="172" key="#com.intellij.util.ui.classpath.ChooseLibrariesDialog/0.0.1536.834@0.0.1536.834" timestamp="1584025653867" />
-    <state x="295" y="0" key="CommitChangelistDialog2" timestamp="1592356938071">
+    <state x="295" y="0" key="CommitChangelistDialog2" timestamp="1592408609753">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state x="295" y="0" key="CommitChangelistDialog2/0.0.1536.834@0.0.1536.834" timestamp="1592356938071" />
+    <state x="295" y="0" key="CommitChangelistDialog2/0.0.1536.834@0.0.1536.834" timestamp="1592408609753" />
     <state x="93" y="93" width="1350" height="648" key="DiffContextDialog" timestamp="1586318346122">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
@@ -1417,22 +1418,22 @@
       <screen x="0" y="0" width="1536" height="834" />
     </state>
     <state x="361" y="76" key="GrepConsoleSettings/0.0.1536.834@0.0.1536.834" timestamp="1589370685097" />
-    <state width="1042" height="130" key="GridCell.Tab.0.bottom" timestamp="1592356922002">
+    <state width="1493" height="153" key="GridCell.Tab.0.bottom" timestamp="1592408641132">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state width="1042" height="130" key="GridCell.Tab.0.bottom/0.0.1536.834@0.0.1536.834" timestamp="1592356922002" />
-    <state width="1042" height="130" key="GridCell.Tab.0.center" timestamp="1592356922002">
+    <state width="1493" height="153" key="GridCell.Tab.0.bottom/0.0.1536.834@0.0.1536.834" timestamp="1592408641132" />
+    <state width="1493" height="153" key="GridCell.Tab.0.center" timestamp="1592408641132">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state width="1042" height="130" key="GridCell.Tab.0.center/0.0.1536.834@0.0.1536.834" timestamp="1592356922002" />
-    <state width="1042" height="130" key="GridCell.Tab.0.left" timestamp="1592356922002">
+    <state width="1493" height="153" key="GridCell.Tab.0.center/0.0.1536.834@0.0.1536.834" timestamp="1592408641132" />
+    <state width="1493" height="153" key="GridCell.Tab.0.left" timestamp="1592408641131">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state width="1042" height="130" key="GridCell.Tab.0.left/0.0.1536.834@0.0.1536.834" timestamp="1592356922002" />
-    <state width="1042" height="130" key="GridCell.Tab.0.right" timestamp="1592356922002">
+    <state width="1493" height="153" key="GridCell.Tab.0.left/0.0.1536.834@0.0.1536.834" timestamp="1592408641131" />
+    <state width="1493" height="153" key="GridCell.Tab.0.right" timestamp="1592408641132">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state width="1042" height="130" key="GridCell.Tab.0.right/0.0.1536.834@0.0.1536.834" timestamp="1592356922002" />
+    <state width="1493" height="153" key="GridCell.Tab.0.right/0.0.1536.834@0.0.1536.834" timestamp="1592408641132" />
     <state width="1493" height="295" key="GridCell.Tab.1.bottom" timestamp="1590633578646">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
@@ -1509,10 +1510,10 @@
       <screen x="0" y="0" width="1536" height="834" />
     </state>
     <state x="57" y="0" width="1037" height="834" key="SettingsEditor/0.0.1536.834@0.0.1536.834" timestamp="1592356976215" />
-    <state x="361" y="146" key="Vcs.Push.Dialog.v2" timestamp="1592356947405">
+    <state x="361" y="146" key="Vcs.Push.Dialog.v2" timestamp="1592356985992">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state x="361" y="146" key="Vcs.Push.Dialog.v2/0.0.1536.834@0.0.1536.834" timestamp="1592356947405" />
+    <state x="361" y="146" key="Vcs.Push.Dialog.v2/0.0.1536.834@0.0.1536.834" timestamp="1592356985992" />
     <state x="255" y="279" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD" timestamp="1589370309388">
       <screen x="0" y="0" width="1536" height="834" />
     </state>

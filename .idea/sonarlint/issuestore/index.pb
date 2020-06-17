@@ -8854,3 +8854,7 @@ j
 :LeetCode/src/Stack/I9_UsingTwoStacksToImplementQueues.java,d\b\db5898ae890b0406c55423575f19d7eb72f3835b
 j
 :LeetCode/src/Stack/p150_EvaluateReversePolishNotation.java,b\e\be5ea6d60731af25adb5c337137157169aedcb9d
+w
+G.idea/sonarlint/issuestore/7/8/7856e4ad12d42e91f59f7bf8b89948d9f384dff3,1\8\184f742e97308161487fde79d5e94247027b8085
+_
+/LeetCode/src/Stack/p856_ScoreOfParentheses.java,e\b\eb8cfc2d180860abc441b7ae00e6350d7fa53f1c
