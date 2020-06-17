@@ -7,9 +7,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="07405ce8-cbd5-43fd-b903-16a731a448bb" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/LeetCode/src/Stack/p150_EvaluateReversePolishNotation.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/7/8/7856e4ad12d42e91f59f7bf8b89948d9f384dff3" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/7/8/7856e4ad12d42e91f59f7bf8b89948d9f384dff3" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DataStructures/src/Stack/PolandNotation.java" beforeDir="false" afterPath="$PROJECT_DIR$/DataStructures/src/Stack/PolandNotation.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LeetCode/src/Stack/p150_EvaluateReversePolishNotation.java" beforeDir="false" afterPath="$PROJECT_DIR$/LeetCode/src/Stack/p150_EvaluateReversePolishNotation.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DataStructures/Stack/PolandNotation.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DataStructures/Stack/PolandNotation.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -179,7 +181,7 @@
       <command value="mvn clean" />
     </option>
   </component>
-  <component name="RunManager" selected="Application.PolandNotation">
+  <component name="RunManager" selected="Application.p150_EvaluateReversePolishNotation">
     <configuration name="I9_UsingTwoStacksToImplementQueues" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Stack.I9_UsingTwoStacksToImplementQueues" />
       <module name="LeetCode" />
@@ -196,6 +198,19 @@
     <configuration name="PolandNotation" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Stack.PolandNotation" />
       <module name="DataStructures" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Stack.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="p150_EvaluateReversePolishNotation" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Stack.p150_EvaluateReversePolishNotation" />
+      <module name="LeetCode" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="Stack.*" />
@@ -225,19 +240,6 @@
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="Stack.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="p56_MergeIntervals" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Sort.p56_MergeIntervals" />
-      <module name="LeetCode" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Sort.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -666,24 +668,24 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.p56_MergeIntervals" />
       <item itemvalue="Application.p164_MaximumGap" />
       <item itemvalue="Application.p20_ValidParentheses" />
       <item itemvalue="Application.I9_UsingTwoStacksToImplementQueues" />
+      <item itemvalue="Application.PolandNotation" />
       <item itemvalue="Tomcat Server.Redis" />
       <item itemvalue="Tomcat Server.Maven" />
       <item itemvalue="Tomcat Server.SpringMVC" />
       <item itemvalue="Tomcat Server.JavaWeb" />
       <item itemvalue="Tomcat Server.SSM" />
-      <item itemvalue="Application.PolandNotation" />
+      <item itemvalue="Application.p150_EvaluateReversePolishNotation" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.p150_EvaluateReversePolishNotation" />
         <item itemvalue="Application.PolandNotation" />
         <item itemvalue="Application.I9_UsingTwoStacksToImplementQueues" />
         <item itemvalue="Application.p20_ValidParentheses" />
         <item itemvalue="Application.p164_MaximumGap" />
-        <item itemvalue="Application.p56_MergeIntervals" />
       </list>
     </recent_temporary>
   </component>
@@ -967,14 +969,8 @@
       <workItem from="1592215817169" duration="141000" />
       <workItem from="1592216041456" duration="25000" />
       <workItem from="1592233878885" duration="1719000" />
-      <workItem from="1592318077117" duration="2630000" />
-    </task>
-    <task id="LOCAL-00046" summary="2020.05.11">
-      <created>1589159760965</created>
-      <option name="number" value="00046" />
-      <option name="presentableId" value="LOCAL-00046" />
-      <option name="project" value="LOCAL" />
-      <updated>1589159760965</updated>
+      <workItem from="1592318077117" duration="2669000" />
+      <workItem from="1592356321074" duration="441000" />
     </task>
     <task id="LOCAL-00047" summary="2020.05.12">
       <created>1589254772743</created>
@@ -1312,7 +1308,14 @@
       <option name="project" value="LOCAL" />
       <updated>1592235190671</updated>
     </task>
-    <option name="localTasksCounter" value="95" />
+    <task id="LOCAL-00095" summary="2020.06.14">
+      <created>1592321626411</created>
+      <option name="number" value="00095" />
+      <option name="presentableId" value="LOCAL-00095" />
+      <option name="project" value="LOCAL" />
+      <updated>1592321626411</updated>
+    </task>
+    <option name="localTasksCounter" value="96" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -1386,10 +1389,10 @@
       <screen x="0" y="0" width="1536" height="834" />
     </state>
     <state x="295" y="172" key="#com.intellij.util.ui.classpath.ChooseLibrariesDialog/0.0.1536.834@0.0.1536.834" timestamp="1584025653867" />
-    <state x="295" y="0" key="CommitChangelistDialog2" timestamp="1592235188479">
+    <state x="295" y="0" key="CommitChangelistDialog2" timestamp="1592321624782">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state x="295" y="0" key="CommitChangelistDialog2/0.0.1536.834@0.0.1536.834" timestamp="1592235188479" />
+    <state x="295" y="0" key="CommitChangelistDialog2/0.0.1536.834@0.0.1536.834" timestamp="1592321624782" />
     <state x="93" y="93" width="1350" height="648" key="DiffContextDialog" timestamp="1586318346122">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
@@ -1414,22 +1417,22 @@
       <screen x="0" y="0" width="1536" height="834" />
     </state>
     <state x="361" y="76" key="GrepConsoleSettings/0.0.1536.834@0.0.1536.834" timestamp="1589370685097" />
-    <state width="1493" height="154" key="GridCell.Tab.0.bottom" timestamp="1592321609471">
+    <state width="1042" height="130" key="GridCell.Tab.0.bottom" timestamp="1592356922002">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state width="1493" height="154" key="GridCell.Tab.0.bottom/0.0.1536.834@0.0.1536.834" timestamp="1592321609471" />
-    <state width="1493" height="154" key="GridCell.Tab.0.center" timestamp="1592321609470">
+    <state width="1042" height="130" key="GridCell.Tab.0.bottom/0.0.1536.834@0.0.1536.834" timestamp="1592356922002" />
+    <state width="1042" height="130" key="GridCell.Tab.0.center" timestamp="1592356922002">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state width="1493" height="154" key="GridCell.Tab.0.center/0.0.1536.834@0.0.1536.834" timestamp="1592321609470" />
-    <state width="1493" height="154" key="GridCell.Tab.0.left" timestamp="1592321609470">
+    <state width="1042" height="130" key="GridCell.Tab.0.center/0.0.1536.834@0.0.1536.834" timestamp="1592356922002" />
+    <state width="1042" height="130" key="GridCell.Tab.0.left" timestamp="1592356922002">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state width="1493" height="154" key="GridCell.Tab.0.left/0.0.1536.834@0.0.1536.834" timestamp="1592321609470" />
-    <state width="1493" height="154" key="GridCell.Tab.0.right" timestamp="1592321609471">
+    <state width="1042" height="130" key="GridCell.Tab.0.left/0.0.1536.834@0.0.1536.834" timestamp="1592356922002" />
+    <state width="1042" height="130" key="GridCell.Tab.0.right" timestamp="1592356922002">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state width="1493" height="154" key="GridCell.Tab.0.right/0.0.1536.834@0.0.1536.834" timestamp="1592321609471" />
+    <state width="1042" height="130" key="GridCell.Tab.0.right/0.0.1536.834@0.0.1536.834" timestamp="1592356922002" />
     <state width="1493" height="295" key="GridCell.Tab.1.bottom" timestamp="1590633578646">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
@@ -1506,10 +1509,10 @@
       <screen x="0" y="0" width="1536" height="834" />
     </state>
     <state x="57" y="0" width="1037" height="834" key="SettingsEditor/0.0.1536.834@0.0.1536.834" timestamp="1592235209431" />
-    <state x="361" y="146" key="Vcs.Push.Dialog.v2" timestamp="1592235214029">
+    <state x="361" y="146" key="Vcs.Push.Dialog.v2" timestamp="1592321632871">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state x="361" y="146" key="Vcs.Push.Dialog.v2/0.0.1536.834@0.0.1536.834" timestamp="1592235214029" />
+    <state x="361" y="146" key="Vcs.Push.Dialog.v2/0.0.1536.834@0.0.1536.834" timestamp="1592321632871" />
     <state x="255" y="279" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD" timestamp="1589370309388">
       <screen x="0" y="0" width="1536" height="834" />
     </state>

@@ -8852,3 +8852,5 @@ V
 ,LeetCode/src/Stack/p20_ValidParentheses.java,c\8\c838af113810cebe964b01fb52d71ae9a078eadd
 j
 :LeetCode/src/Stack/I9_UsingTwoStacksToImplementQueues.java,d\b\db5898ae890b0406c55423575f19d7eb72f3835b
+j
+:LeetCode/src/Stack/p150_EvaluateReversePolishNotation.java,b\e\be5ea6d60731af25adb5c337137157169aedcb9d
