@@ -32,7 +32,7 @@ public class p145_BinaryTreePostorderTraversal {
     public static List<Integer> postorderTraversal(p145_BinaryTreePostorderTraversal root) {
         // 创建存放树结点的栈
         Stack<p145_BinaryTreePostorderTraversal> stackTree = new Stack<p145_BinaryTreePostorderTraversal>();
-        // 创建存放结点指的栈（这里保存按照后序遍历的顺序的结点值）
+        // 创建存放结点值的栈（这里保存按照后序遍历的顺序的结点值）
         Stack<Integer> stackNum = new Stack<Integer>();
         // 存放结果数组
         List<Integer> res = new ArrayList<Integer>();
