@@ -7,7 +7,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="07405ce8-cbd5-43fd-b903-16a731a448bb" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/LeetCode/src/Stack/p856_ScoreOfParentheses.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LeetCode/src/Stack/p145_BinaryTreePostorderTraversal.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
@@ -180,10 +180,10 @@
       <command value="mvn clean" />
     </option>
   </component>
-  <component name="RunManager" selected="Application.p856_ScoreOfParentheses">
-    <configuration name="I9_UsingTwoStacksToImplementQueues" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Stack.I9_UsingTwoStacksToImplementQueues" />
-      <module name="LeetCode" />
+  <component name="RunManager" selected="Application.p145_BinaryTreePostorderTraversal">
+    <configuration name="PolandNotation" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Stack.PolandNotation" />
+      <module name="DataStructures" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="Stack.*" />
@@ -194,9 +194,9 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="PolandNotation" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Stack.PolandNotation" />
-      <module name="DataStructures" />
+    <configuration name="p145_BinaryTreePostorderTraversal" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Stack.p145_BinaryTreePostorderTraversal" />
+      <module name="LeetCode" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="Stack.*" />
@@ -668,23 +668,23 @@
     </configuration>
     <list>
       <item itemvalue="Application.p20_ValidParentheses" />
-      <item itemvalue="Application.I9_UsingTwoStacksToImplementQueues" />
       <item itemvalue="Application.PolandNotation" />
       <item itemvalue="Application.p150_EvaluateReversePolishNotation" />
+      <item itemvalue="Application.p856_ScoreOfParentheses" />
       <item itemvalue="Tomcat Server.Redis" />
       <item itemvalue="Tomcat Server.Maven" />
       <item itemvalue="Tomcat Server.SpringMVC" />
       <item itemvalue="Tomcat Server.JavaWeb" />
       <item itemvalue="Tomcat Server.SSM" />
-      <item itemvalue="Application.p856_ScoreOfParentheses" />
+      <item itemvalue="Application.p145_BinaryTreePostorderTraversal" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.p145_BinaryTreePostorderTraversal" />
         <item itemvalue="Application.p856_ScoreOfParentheses" />
         <item itemvalue="Application.p20_ValidParentheses" />
         <item itemvalue="Application.p150_EvaluateReversePolishNotation" />
         <item itemvalue="Application.PolandNotation" />
-        <item itemvalue="Application.I9_UsingTwoStacksToImplementQueues" />
       </list>
     </recent_temporary>
   </component>
@@ -971,14 +971,11 @@
       <workItem from="1592318077117" duration="2669000" />
       <workItem from="1592356321074" duration="673000" />
       <workItem from="1592391146074" duration="48000" />
-      <workItem from="1592405626533" duration="2169000" />
-    </task>
-    <task id="LOCAL-00049" summary="2020.05.13">
-      <created>1589336775162</created>
-      <option name="number" value="00049" />
-      <option name="presentableId" value="LOCAL-00049" />
-      <option name="project" value="LOCAL" />
-      <updated>1589336775162</updated>
+      <workItem from="1592405626533" duration="2236000" />
+      <workItem from="1592440711071" duration="362000" />
+      <workItem from="1592442178122" duration="488000" />
+      <workItem from="1592493056486" duration="707000" />
+      <workItem from="1592529531521" duration="1458000" />
     </task>
     <task id="LOCAL-00050" summary="2020.05.14">
       <created>1589418947133</created>
@@ -1316,7 +1313,14 @@
       <option name="project" value="LOCAL" />
       <updated>1592356981902</updated>
     </task>
-    <option name="localTasksCounter" value="98" />
+    <task id="LOCAL-00098" summary="2020.06.17">
+      <created>1592408654498</created>
+      <option name="number" value="00098" />
+      <option name="presentableId" value="LOCAL-00098" />
+      <option name="project" value="LOCAL" />
+      <updated>1592408654499</updated>
+    </task>
+    <option name="localTasksCounter" value="99" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -1358,6 +1362,10 @@
       <screen x="0" y="0" width="1536" height="834" />
     </state>
     <state x="7" y="64" key="#Inspections/0.0.1536.834@0.0.1536.834" timestamp="1590390414791" />
+    <state x="643" y="94" width="814" height="730" key="#Intentions" timestamp="1592531304717">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="643" y="94" width="814" height="730" key="#Intentions/0.0.1536.834@0.0.1536.834" timestamp="1592531304716" />
     <state x="361" y="76" key="#Notifications" timestamp="1589857699757">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
@@ -1390,10 +1398,10 @@
       <screen x="0" y="0" width="1536" height="834" />
     </state>
     <state x="295" y="172" key="#com.intellij.util.ui.classpath.ChooseLibrariesDialog/0.0.1536.834@0.0.1536.834" timestamp="1584025653867" />
-    <state x="295" y="0" key="CommitChangelistDialog2" timestamp="1592408609753">
+    <state x="295" y="0" key="CommitChangelistDialog2" timestamp="1592408652174">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state x="295" y="0" key="CommitChangelistDialog2/0.0.1536.834@0.0.1536.834" timestamp="1592408609753" />
+    <state x="295" y="0" key="CommitChangelistDialog2/0.0.1536.834@0.0.1536.834" timestamp="1592408652174" />
     <state x="93" y="93" width="1350" height="648" key="DiffContextDialog" timestamp="1586318346122">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
@@ -1510,10 +1518,10 @@
       <screen x="0" y="0" width="1536" height="834" />
     </state>
     <state x="57" y="0" width="1037" height="834" key="SettingsEditor/0.0.1536.834@0.0.1536.834" timestamp="1592356976215" />
-    <state x="361" y="146" key="Vcs.Push.Dialog.v2" timestamp="1592356985992">
+    <state x="361" y="146" key="Vcs.Push.Dialog.v2" timestamp="1592408663356">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state x="361" y="146" key="Vcs.Push.Dialog.v2/0.0.1536.834@0.0.1536.834" timestamp="1592356985992" />
+    <state x="361" y="146" key="Vcs.Push.Dialog.v2/0.0.1536.834@0.0.1536.834" timestamp="1592408663356" />
     <state x="255" y="279" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD" timestamp="1589370309388">
       <screen x="0" y="0" width="1536" height="834" />
     </state>

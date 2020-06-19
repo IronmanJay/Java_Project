@@ -8858,3 +8858,5 @@ w
 G.idea/sonarlint/issuestore/7/8/7856e4ad12d42e91f59f7bf8b89948d9f384dff3,1\8\184f742e97308161487fde79d5e94247027b8085
 _
 /LeetCode/src/Stack/p856_ScoreOfParentheses.java,e\b\eb8cfc2d180860abc441b7ae00e6350d7fa53f1c
+i
+9LeetCode/src/Stack/p145_BinaryTreePostorderTraversal.java,9\8\988e379bccfb7cf06b27f874747756ff127aa6c3
