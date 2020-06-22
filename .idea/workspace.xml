@@ -7,7 +7,6 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="07405ce8-cbd5-43fd-b903-16a731a448bb" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/LeetCode/src/Array/p26_RemoveDuplicatesFromSortedArray.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -670,12 +669,12 @@
       <item itemvalue="Application.p150_EvaluateReversePolishNotation" />
       <item itemvalue="Application.p856_ScoreOfParentheses" />
       <item itemvalue="Application.p145_BinaryTreePostorderTraversal" />
+      <item itemvalue="Application.p26_RemoveDuplicatesFromSortedArray" />
       <item itemvalue="Tomcat Server.Redis" />
       <item itemvalue="Tomcat Server.Maven" />
       <item itemvalue="Tomcat Server.SpringMVC" />
       <item itemvalue="Tomcat Server.JavaWeb" />
       <item itemvalue="Tomcat Server.SSM" />
-      <item itemvalue="Application.p26_RemoveDuplicatesFromSortedArray" />
     </list>
     <recent_temporary>
       <list>
@@ -975,21 +974,7 @@
       <workItem from="1592442178122" duration="488000" />
       <workItem from="1592493056486" duration="707000" />
       <workItem from="1592529531521" duration="1749000" />
-      <workItem from="1592786427886" duration="1222000" />
-    </task>
-    <task id="LOCAL-00054" summary="2020.05.15">
-      <created>1589511740070</created>
-      <option name="number" value="00054" />
-      <option name="presentableId" value="LOCAL-00054" />
-      <option name="project" value="LOCAL" />
-      <updated>1589511740070</updated>
-    </task>
-    <task id="LOCAL-00055" summary="2020.05.15">
-      <created>1589511896320</created>
-      <option name="number" value="00055" />
-      <option name="presentableId" value="LOCAL-00055" />
-      <option name="project" value="LOCAL" />
-      <updated>1589511896320</updated>
+      <workItem from="1592786427886" duration="1359000" />
     </task>
     <task id="LOCAL-00056" summary="2020.05.18">
       <created>1589765072139</created>
@@ -1320,7 +1305,21 @@
       <option name="project" value="LOCAL" />
       <updated>1592531622654</updated>
     </task>
-    <option name="localTasksCounter" value="103" />
+    <task id="LOCAL-00103" summary="2020.06.22">
+      <created>1592788877349</created>
+      <option name="number" value="00103" />
+      <option name="presentableId" value="LOCAL-00103" />
+      <option name="project" value="LOCAL" />
+      <updated>1592788877351</updated>
+    </task>
+    <task id="LOCAL-00104" summary="2020.06.22">
+      <created>1592788968170</created>
+      <option name="number" value="00104" />
+      <option name="presentableId" value="LOCAL-00104" />
+      <option name="project" value="LOCAL" />
+      <updated>1592788968171</updated>
+    </task>
+    <option name="localTasksCounter" value="105" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -1330,7 +1329,6 @@
     <ignored-roots>
       <path value="$PROJECT_DIR$" />
     </ignored-roots>
-    <MESSAGE value="2020.05.15" />
     <MESSAGE value="2020.05.18" />
     <MESSAGE value="2020.05.19" />
     <MESSAGE value="2020.05.20" />
@@ -1355,7 +1353,8 @@
     <MESSAGE value="2020.06.14" />
     <MESSAGE value="2020.06.17" />
     <MESSAGE value="2020.06.19" />
-    <option name="LAST_COMMIT_MESSAGE" value="2020.06.19" />
+    <MESSAGE value="2020.06.22" />
+    <option name="LAST_COMMIT_MESSAGE" value="2020.06.22" />
   </component>
   <component name="WindowStateProjectService">
     <state x="7" y="64" key="#Inspections" timestamp="1590390414791">
@@ -1386,10 +1385,10 @@
       <screen x="0" y="0" width="1536" height="834" />
     </state>
     <state x="514" y="64" key="#com.intellij.j2ee.appServerIntegrations.ApplicationServersConfigurable/0.0.1536.834@0.0.1536.834" timestamp="1585552823332" />
-    <state x="295" y="0" key="CommitChangelistDialog2" timestamp="1592788875867">
+    <state x="295" y="0" key="CommitChangelistDialog2" timestamp="1592788967216">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state x="295" y="0" key="CommitChangelistDialog2/0.0.1536.834@0.0.1536.834" timestamp="1592788875867" />
+    <state x="295" y="0" key="CommitChangelistDialog2/0.0.1536.834@0.0.1536.834" timestamp="1592788967216" />
     <state x="93" y="93" width="1350" height="648" key="DiffContextDialog" timestamp="1586318346122">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
@@ -1506,10 +1505,10 @@
       <screen x="0" y="0" width="1536" height="834" />
     </state>
     <state x="57" y="0" width="1037" height="834" key="SettingsEditor/0.0.1536.834@0.0.1536.834" timestamp="1592531612458" />
-    <state x="361" y="146" key="Vcs.Push.Dialog.v2" timestamp="1592788894821">
+    <state x="361" y="146" key="Vcs.Push.Dialog.v2" timestamp="1592788981581">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state x="361" y="146" key="Vcs.Push.Dialog.v2/0.0.1536.834@0.0.1536.834" timestamp="1592788894821" />
+    <state x="361" y="146" key="Vcs.Push.Dialog.v2/0.0.1536.834@0.0.1536.834" timestamp="1592788981581" />
     <state x="255" y="279" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD" timestamp="1589370309388">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
