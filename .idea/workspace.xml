@@ -7,7 +7,6 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="07405ce8-cbd5-43fd-b903-16a731a448bb" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/LeetCode/src/Array/p88_MergeSortedArray.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -136,6 +135,7 @@
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.37260678" />
     <property name="settings.editor.selected.configurable" value="settings.github" />
+    <property name="settings.editor.splitter.proportion" value="0.21428572" />
   </component>
   <component name="RecentsManager">
     <key name="CreateTestDialog.RecentsKey">
@@ -670,12 +670,12 @@
       <item itemvalue="Application.p856_ScoreOfParentheses" />
       <item itemvalue="Application.p145_BinaryTreePostorderTraversal" />
       <item itemvalue="Application.p26_RemoveDuplicatesFromSortedArray" />
+      <item itemvalue="Application.p88_MergeSortedArray" />
       <item itemvalue="Tomcat Server.Redis" />
       <item itemvalue="Tomcat Server.Maven" />
       <item itemvalue="Tomcat Server.SpringMVC" />
       <item itemvalue="Tomcat Server.JavaWeb" />
       <item itemvalue="Tomcat Server.SSM" />
-      <item itemvalue="Application.p88_MergeSortedArray" />
     </list>
     <recent_temporary>
       <list>
@@ -977,21 +977,7 @@
       <workItem from="1592529531521" duration="1749000" />
       <workItem from="1592786427886" duration="1359000" />
       <workItem from="1592789393379" duration="185000" />
-      <workItem from="1592837196751" duration="933000" />
-    </task>
-    <task id="LOCAL-00057" summary="2020.05.19">
-      <created>1589857476568</created>
-      <option name="number" value="00057" />
-      <option name="presentableId" value="LOCAL-00057" />
-      <option name="project" value="LOCAL" />
-      <updated>1589857476570</updated>
-    </task>
-    <task id="LOCAL-00058" summary="2020.05.20">
-      <created>1589944868489</created>
-      <option name="number" value="00058" />
-      <option name="presentableId" value="LOCAL-00058" />
-      <option name="project" value="LOCAL" />
-      <updated>1589944868489</updated>
+      <workItem from="1592837196751" duration="1080000" />
     </task>
     <task id="LOCAL-00059" summary="2020.05.20">
       <created>1589945190987</created>
@@ -1322,7 +1308,21 @@
       <option name="project" value="LOCAL" />
       <updated>1592789564042</updated>
     </task>
-    <option name="localTasksCounter" value="106" />
+    <task id="LOCAL-00106" summary="2020.06.23">
+      <created>1592840975590</created>
+      <option name="number" value="00106" />
+      <option name="presentableId" value="LOCAL-00106" />
+      <option name="project" value="LOCAL" />
+      <updated>1592840975590</updated>
+    </task>
+    <task id="LOCAL-00107" summary="2020.06.23">
+      <created>1592841015787</created>
+      <option name="number" value="00107" />
+      <option name="presentableId" value="LOCAL-00107" />
+      <option name="project" value="LOCAL" />
+      <updated>1592841015787</updated>
+    </task>
+    <option name="localTasksCounter" value="108" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -1332,7 +1332,6 @@
     <ignored-roots>
       <path value="$PROJECT_DIR$" />
     </ignored-roots>
-    <MESSAGE value="2020.05.18" />
     <MESSAGE value="2020.05.19" />
     <MESSAGE value="2020.05.20" />
     <MESSAGE value="2020.05.21" />
@@ -1357,7 +1356,8 @@
     <MESSAGE value="2020.06.17" />
     <MESSAGE value="2020.06.19" />
     <MESSAGE value="2020.06.22" />
-    <option name="LAST_COMMIT_MESSAGE" value="2020.06.22" />
+    <MESSAGE value="2020.06.23" />
+    <option name="LAST_COMMIT_MESSAGE" value="2020.06.23" />
   </component>
   <component name="WindowStateProjectService">
     <state x="7" y="64" key="#Inspections" timestamp="1590390414791">
@@ -1388,10 +1388,10 @@
       <screen x="0" y="0" width="1536" height="834" />
     </state>
     <state x="514" y="64" key="#com.intellij.j2ee.appServerIntegrations.ApplicationServersConfigurable/0.0.1536.834@0.0.1536.834" timestamp="1585552823332" />
-    <state x="295" y="0" key="CommitChangelistDialog2" timestamp="1592840974518">
+    <state x="295" y="0" key="CommitChangelistDialog2" timestamp="1592841015089">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state x="295" y="0" key="CommitChangelistDialog2/0.0.1536.834@0.0.1536.834" timestamp="1592840974518" />
+    <state x="295" y="0" key="CommitChangelistDialog2/0.0.1536.834@0.0.1536.834" timestamp="1592841015089" />
     <state x="93" y="93" width="1350" height="648" key="DiffContextDialog" timestamp="1586318346122">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
@@ -1504,10 +1504,10 @@
       <screen x="0" y="0" width="1536" height="834" />
     </state>
     <state x="470" y="123" key="MultipleFileMergeDialog/0.0.1536.834@0.0.1536.834" timestamp="1586246163747" />
-    <state x="57" y="0" width="1037" height="834" key="SettingsEditor" timestamp="1592841010113">
+    <state x="57" y="0" width="1037" height="834" key="SettingsEditor" timestamp="1592841136173">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state x="57" y="0" width="1037" height="834" key="SettingsEditor/0.0.1536.834@0.0.1536.834" timestamp="1592841010113" />
+    <state x="57" y="0" width="1037" height="834" key="SettingsEditor/0.0.1536.834@0.0.1536.834" timestamp="1592841136173" />
     <state x="361" y="146" key="Vcs.Push.Dialog.v2" timestamp="1592789568339">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
