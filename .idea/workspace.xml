@@ -7,8 +7,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="07405ce8-cbd5-43fd-b903-16a731a448bb" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/LeetCode/src/Stack/p145_BinaryTreePostorderTraversal.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LeetCode/src/Array/p26_RemoveDuplicatesFromSortedArray.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -180,20 +179,7 @@
       <command value="mvn clean" />
     </option>
   </component>
-  <component name="RunManager" selected="Application.p145_BinaryTreePostorderTraversal">
-    <configuration name="PolandNotation" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Stack.PolandNotation" />
-      <module name="DataStructures" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Stack.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.p26_RemoveDuplicatesFromSortedArray">
     <configuration name="p145_BinaryTreePostorderTraversal" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Stack.p145_BinaryTreePostorderTraversal" />
       <module name="LeetCode" />
@@ -226,6 +212,19 @@
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="Stack.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="p26_RemoveDuplicatesFromSortedArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Array.p26_RemoveDuplicatesFromSortedArray" />
+      <module name="LeetCode" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Array.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -668,23 +667,23 @@
     </configuration>
     <list>
       <item itemvalue="Application.p20_ValidParentheses" />
-      <item itemvalue="Application.PolandNotation" />
       <item itemvalue="Application.p150_EvaluateReversePolishNotation" />
       <item itemvalue="Application.p856_ScoreOfParentheses" />
+      <item itemvalue="Application.p145_BinaryTreePostorderTraversal" />
       <item itemvalue="Tomcat Server.Redis" />
       <item itemvalue="Tomcat Server.Maven" />
       <item itemvalue="Tomcat Server.SpringMVC" />
       <item itemvalue="Tomcat Server.JavaWeb" />
       <item itemvalue="Tomcat Server.SSM" />
-      <item itemvalue="Application.p145_BinaryTreePostorderTraversal" />
+      <item itemvalue="Application.p26_RemoveDuplicatesFromSortedArray" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.p26_RemoveDuplicatesFromSortedArray" />
         <item itemvalue="Application.p145_BinaryTreePostorderTraversal" />
         <item itemvalue="Application.p856_ScoreOfParentheses" />
         <item itemvalue="Application.p20_ValidParentheses" />
         <item itemvalue="Application.p150_EvaluateReversePolishNotation" />
-        <item itemvalue="Application.PolandNotation" />
       </list>
     </recent_temporary>
   </component>
@@ -975,35 +974,8 @@
       <workItem from="1592440711071" duration="362000" />
       <workItem from="1592442178122" duration="488000" />
       <workItem from="1592493056486" duration="707000" />
-      <workItem from="1592529531521" duration="1458000" />
-    </task>
-    <task id="LOCAL-00050" summary="2020.05.14">
-      <created>1589418947133</created>
-      <option name="number" value="00050" />
-      <option name="presentableId" value="LOCAL-00050" />
-      <option name="project" value="LOCAL" />
-      <updated>1589418947134</updated>
-    </task>
-    <task id="LOCAL-00051" summary="2020.05.14">
-      <created>1589419125307</created>
-      <option name="number" value="00051" />
-      <option name="presentableId" value="LOCAL-00051" />
-      <option name="project" value="LOCAL" />
-      <updated>1589419125307</updated>
-    </task>
-    <task id="LOCAL-00052" summary="2020.05.14">
-      <created>1589419332517</created>
-      <option name="number" value="00052" />
-      <option name="presentableId" value="LOCAL-00052" />
-      <option name="project" value="LOCAL" />
-      <updated>1589419332518</updated>
-    </task>
-    <task id="LOCAL-00053" summary="2020.05.15">
-      <created>1589511623120</created>
-      <option name="number" value="00053" />
-      <option name="presentableId" value="LOCAL-00053" />
-      <option name="project" value="LOCAL" />
-      <updated>1589511623121</updated>
+      <workItem from="1592529531521" duration="1749000" />
+      <workItem from="1592786427886" duration="1222000" />
     </task>
     <task id="LOCAL-00054" summary="2020.05.15">
       <created>1589511740070</created>
@@ -1320,7 +1292,35 @@
       <option name="project" value="LOCAL" />
       <updated>1592408654499</updated>
     </task>
-    <option name="localTasksCounter" value="99" />
+    <task id="LOCAL-00099" summary="2020.06.19">
+      <created>1592531485890</created>
+      <option name="number" value="00099" />
+      <option name="presentableId" value="LOCAL-00099" />
+      <option name="project" value="LOCAL" />
+      <updated>1592531485891</updated>
+    </task>
+    <task id="LOCAL-00100" summary="2020.06.19">
+      <created>1592531524294</created>
+      <option name="number" value="00100" />
+      <option name="presentableId" value="LOCAL-00100" />
+      <option name="project" value="LOCAL" />
+      <updated>1592531524294</updated>
+    </task>
+    <task id="LOCAL-00101" summary="2020.06.19">
+      <created>1592531592595</created>
+      <option name="number" value="00101" />
+      <option name="presentableId" value="LOCAL-00101" />
+      <option name="project" value="LOCAL" />
+      <updated>1592531592595</updated>
+    </task>
+    <task id="LOCAL-00102" summary="2020.06.19">
+      <created>1592531622654</created>
+      <option name="number" value="00102" />
+      <option name="presentableId" value="LOCAL-00102" />
+      <option name="project" value="LOCAL" />
+      <updated>1592531622654</updated>
+    </task>
+    <option name="localTasksCounter" value="103" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -1330,7 +1330,6 @@
     <ignored-roots>
       <path value="$PROJECT_DIR$" />
     </ignored-roots>
-    <MESSAGE value="2020.05.14" />
     <MESSAGE value="2020.05.15" />
     <MESSAGE value="2020.05.18" />
     <MESSAGE value="2020.05.19" />
@@ -1355,7 +1354,8 @@
     <MESSAGE value="2020.06.13" />
     <MESSAGE value="2020.06.14" />
     <MESSAGE value="2020.06.17" />
-    <option name="LAST_COMMIT_MESSAGE" value="2020.06.17" />
+    <MESSAGE value="2020.06.19" />
+    <option name="LAST_COMMIT_MESSAGE" value="2020.06.19" />
   </component>
   <component name="WindowStateProjectService">
     <state x="7" y="64" key="#Inspections" timestamp="1590390414791">
@@ -1382,26 +1382,14 @@
       <screen x="0" y="0" width="1536" height="834" />
     </state>
     <state x="110" y="112" key="#com.intellij.ide.util.MemberChooser/0.0.1536.834@0.0.1536.834" timestamp="1591753093187" />
-    <state x="96" y="48" key="#com.intellij.ide.util.frameworkSupport.AddFrameworkSupportDialog" timestamp="1584025821692">
-      <screen x="0" y="0" width="1536" height="834" />
-    </state>
-    <state x="96" y="48" key="#com.intellij.ide.util.frameworkSupport.AddFrameworkSupportDialog/0.0.1536.834@0.0.1536.834" timestamp="1584025821692" />
     <state x="514" y="64" key="#com.intellij.j2ee.appServerIntegrations.ApplicationServersConfigurable" timestamp="1585552823332">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
     <state x="514" y="64" key="#com.intellij.j2ee.appServerIntegrations.ApplicationServersConfigurable/0.0.1536.834@0.0.1536.834" timestamp="1585552823332" />
-    <state x="369" y="48" key="#com.intellij.openapi.roots.ui.configuration.libraryEditor.LibraryEditorDialog" timestamp="1584026287379">
+    <state x="295" y="0" key="CommitChangelistDialog2" timestamp="1592531621810">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state x="369" y="48" key="#com.intellij.openapi.roots.ui.configuration.libraryEditor.LibraryEditorDialog/0.0.1536.834@0.0.1536.834" timestamp="1584026287379" />
-    <state x="295" y="172" key="#com.intellij.util.ui.classpath.ChooseLibrariesDialog" timestamp="1584025653867">
-      <screen x="0" y="0" width="1536" height="834" />
-    </state>
-    <state x="295" y="172" key="#com.intellij.util.ui.classpath.ChooseLibrariesDialog/0.0.1536.834@0.0.1536.834" timestamp="1584025653867" />
-    <state x="295" y="0" key="CommitChangelistDialog2" timestamp="1592531591504">
-      <screen x="0" y="0" width="1536" height="834" />
-    </state>
-    <state x="295" y="0" key="CommitChangelistDialog2/0.0.1536.834@0.0.1536.834" timestamp="1592531591504" />
+    <state x="295" y="0" key="CommitChangelistDialog2/0.0.1536.834@0.0.1536.834" timestamp="1592531621810" />
     <state x="93" y="93" width="1350" height="648" key="DiffContextDialog" timestamp="1586318346122">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
@@ -1426,22 +1414,22 @@
       <screen x="0" y="0" width="1536" height="834" />
     </state>
     <state x="361" y="76" key="GrepConsoleSettings/0.0.1536.834@0.0.1536.834" timestamp="1589370685097" />
-    <state width="1493" height="153" key="GridCell.Tab.0.bottom" timestamp="1592531493343">
+    <state width="1493" height="153" key="GridCell.Tab.0.bottom" timestamp="1592788851551">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state width="1493" height="153" key="GridCell.Tab.0.bottom/0.0.1536.834@0.0.1536.834" timestamp="1592531493343" />
-    <state width="1493" height="153" key="GridCell.Tab.0.center" timestamp="1592531493342">
+    <state width="1493" height="153" key="GridCell.Tab.0.bottom/0.0.1536.834@0.0.1536.834" timestamp="1592788851551" />
+    <state width="1493" height="153" key="GridCell.Tab.0.center" timestamp="1592788851551">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state width="1493" height="153" key="GridCell.Tab.0.center/0.0.1536.834@0.0.1536.834" timestamp="1592531493342" />
-    <state width="1493" height="153" key="GridCell.Tab.0.left" timestamp="1592531493342">
+    <state width="1493" height="153" key="GridCell.Tab.0.center/0.0.1536.834@0.0.1536.834" timestamp="1592788851551" />
+    <state width="1493" height="153" key="GridCell.Tab.0.left" timestamp="1592788851551">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state width="1493" height="153" key="GridCell.Tab.0.left/0.0.1536.834@0.0.1536.834" timestamp="1592531493342" />
-    <state width="1493" height="153" key="GridCell.Tab.0.right" timestamp="1592531493342">
+    <state width="1493" height="153" key="GridCell.Tab.0.left/0.0.1536.834@0.0.1536.834" timestamp="1592788851551" />
+    <state width="1493" height="153" key="GridCell.Tab.0.right" timestamp="1592788851551">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state width="1493" height="153" key="GridCell.Tab.0.right/0.0.1536.834@0.0.1536.834" timestamp="1592531493342" />
+    <state width="1493" height="153" key="GridCell.Tab.0.right/0.0.1536.834@0.0.1536.834" timestamp="1592788851551" />
     <state width="1493" height="295" key="GridCell.Tab.1.bottom" timestamp="1590633578646">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
@@ -1518,10 +1506,10 @@
       <screen x="0" y="0" width="1536" height="834" />
     </state>
     <state x="57" y="0" width="1037" height="834" key="SettingsEditor/0.0.1536.834@0.0.1536.834" timestamp="1592531612458" />
-    <state x="361" y="146" key="Vcs.Push.Dialog.v2" timestamp="1592531617812">
+    <state x="361" y="146" key="Vcs.Push.Dialog.v2" timestamp="1592531626366">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state x="361" y="146" key="Vcs.Push.Dialog.v2/0.0.1536.834@0.0.1536.834" timestamp="1592531617812" />
+    <state x="361" y="146" key="Vcs.Push.Dialog.v2/0.0.1536.834@0.0.1536.834" timestamp="1592531626366" />
     <state x="255" y="279" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD" timestamp="1589370309388">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
@@ -1530,14 +1518,6 @@
       <screen x="0" y="0" width="1536" height="834" />
     </state>
     <state x="561" y="329" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1536.834@0.0.1536.834" timestamp="1589370698117" />
-    <state x="131" y="67" key="com.intellij.testIntegration.createTest.CreateTestDialog" timestamp="1584026104018">
-      <screen x="0" y="0" width="1536" height="834" />
-    </state>
-    <state x="131" y="67" key="com.intellij.testIntegration.createTest.CreateTestDialog/0.0.1536.834@0.0.1536.834" timestamp="1584026104018" />
-    <state x="733" y="0" width="803" height="834" key="find.popup" timestamp="1584025813171">
-      <screen x="0" y="0" width="1536" height="834" />
-    </state>
-    <state x="733" y="0" width="803" height="834" key="find.popup/0.0.1536.834@0.0.1536.834" timestamp="1584025813171" />
     <state x="550" y="196" key="git4idea.merge.GitMergeDialog" timestamp="1591062963513">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
