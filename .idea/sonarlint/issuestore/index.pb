@@ -8864,3 +8864,9 @@ k
 ;LeetCode/src/Array/p26_RemoveDuplicatesFromSortedArray.java,6\6\66bd79380d90d328d0ebadfc5c9057383623eaf6
 \
 ,LeetCode/src/Array/p88_MergeSortedArray.java,3\2\32f2eca5a92a886a098e25d5dda539c1a2284e88
+w
+G.idea/sonarlint/issuestore/2/f/2feb1c08017780355ee94f4429e118f4f37b0c2a,f\0\f07b5e3a883dd18cea2976d23553da7ed6557d78
+c
+3LeetCode/src/Array/p287_FindTheDuplicateNumber.java,1\7\17783045067cfcd3e08e0c51bf2a6abdca112566
+b
+2LeetCode/src/Array/p11_ContainerWithMostWater.java,0\2\024ca576acc0f33da5594df1c704866383b07cb6
