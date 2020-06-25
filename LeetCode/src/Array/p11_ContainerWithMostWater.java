@@ -13,7 +13,7 @@ public class p11_ContainerWithMostWater {
         int rightIndex = height.length - 1;
         int res = 0;
         while (leftIndex < rightIndex) {
-            res = height[leftIndex] < height[rightIndex] ? Math.max(res, (rightIndex - leftIndex * height[leftIndex++])) : Math.max(res, (rightIndex - leftIndex) * height[rightIndex--]);
+            res = height[leftIndex] < height[rightIndex] ? Math.max(res, (rightIndex - leftIndex) * height[leftIndex++]) : Math.max(res, (rightIndex - leftIndex) * height[rightIndex--]);
         }
         return res;
     }
