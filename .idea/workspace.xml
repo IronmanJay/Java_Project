@@ -7,6 +7,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="07405ce8-cbd5-43fd-b903-16a731a448bb" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/LeetCode/src/Array/p4_MedianOfTwoSortedArrays.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/9/3/930c114931a631bdc7c57d9bf1447e2f1ff5573e" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/9/3/930c114931a631bdc7c57d9bf1447e2f1ff5573e" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -179,26 +182,13 @@
       <command value="mvn clean" />
     </option>
   </component>
-  <component name="RunManager" selected="Application.p11_ContainerWithMostWater">
+  <component name="RunManager" selected="Application.p4_MedianOfTwoSortedArrays">
     <configuration name="p11_ContainerWithMostWater" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Array.p11_ContainerWithMostWater" />
       <module name="LeetCode" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="Array.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="p145_BinaryTreePostorderTraversal" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Stack.p145_BinaryTreePostorderTraversal" />
-      <module name="LeetCode" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Stack.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -221,6 +211,19 @@
     </configuration>
     <configuration name="p287_FindTheDuplicateNumber" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Array.p287_FindTheDuplicateNumber" />
+      <module name="LeetCode" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Array.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="p4_MedianOfTwoSortedArrays" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Array.p4_MedianOfTwoSortedArrays" />
       <module name="LeetCode" />
       <extension name="coverage">
         <pattern>
@@ -666,7 +669,6 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.p145_BinaryTreePostorderTraversal" />
       <item itemvalue="Application.p26_RemoveDuplicatesFromSortedArray" />
       <item itemvalue="Application.p88_MergeSortedArray" />
       <item itemvalue="Application.p287_FindTheDuplicateNumber" />
@@ -676,14 +678,15 @@
       <item itemvalue="Tomcat Server.SpringMVC" />
       <item itemvalue="Tomcat Server.JavaWeb" />
       <item itemvalue="Tomcat Server.SSM" />
+      <item itemvalue="Application.p4_MedianOfTwoSortedArrays" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.p4_MedianOfTwoSortedArrays" />
         <item itemvalue="Application.p11_ContainerWithMostWater" />
         <item itemvalue="Application.p287_FindTheDuplicateNumber" />
         <item itemvalue="Application.p88_MergeSortedArray" />
         <item itemvalue="Application.p26_RemoveDuplicatesFromSortedArray" />
-        <item itemvalue="Application.p145_BinaryTreePostorderTraversal" />
       </list>
     </recent_temporary>
   </component>
@@ -983,13 +986,10 @@
       <workItem from="1592924361494" duration="1171000" />
       <workItem from="1593011056095" duration="2859000" />
       <workItem from="1593043004282" duration="466000" />
-    </task>
-    <task id="LOCAL-00062" summary="2020.05.22">
-      <created>1590117558534</created>
-      <option name="number" value="00062" />
-      <option name="presentableId" value="LOCAL-00062" />
-      <option name="project" value="LOCAL" />
-      <updated>1590117558535</updated>
+      <workItem from="1593044251905" duration="444000" />
+      <workItem from="1593046305411" duration="5074000" />
+      <workItem from="1593097540728" duration="1074000" />
+      <workItem from="1593177676166" duration="1151000" />
     </task>
     <task id="LOCAL-00063" summary="2020.05.25">
       <created>1590373076506</created>
@@ -1327,7 +1327,14 @@
       <option name="project" value="LOCAL" />
       <updated>1593043426886</updated>
     </task>
-    <option name="localTasksCounter" value="111" />
+    <task id="LOCAL-00111" summary="2020.06.25">
+      <created>1593044314632</created>
+      <option name="number" value="00111" />
+      <option name="presentableId" value="LOCAL-00111" />
+      <option name="project" value="LOCAL" />
+      <updated>1593044314633</updated>
+    </task>
+    <option name="localTasksCounter" value="112" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -1393,10 +1400,10 @@
       <screen x="0" y="0" width="1536" height="834" />
     </state>
     <state x="514" y="64" key="#com.intellij.j2ee.appServerIntegrations.ApplicationServersConfigurable/0.0.1536.834@0.0.1536.834" timestamp="1585552823332" />
-    <state x="295" y="0" key="CommitChangelistDialog2" timestamp="1593043423578">
+    <state x="295" y="0" key="CommitChangelistDialog2" timestamp="1593044313494">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state x="295" y="0" key="CommitChangelistDialog2/0.0.1536.834@0.0.1536.834" timestamp="1593043423578" />
+    <state x="295" y="0" key="CommitChangelistDialog2/0.0.1536.834@0.0.1536.834" timestamp="1593044313494" />
     <state x="93" y="93" width="1350" height="648" key="DiffContextDialog" timestamp="1586318346122">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
@@ -1421,22 +1428,22 @@
       <screen x="0" y="0" width="1536" height="834" />
     </state>
     <state x="361" y="76" key="GrepConsoleSettings/0.0.1536.834@0.0.1536.834" timestamp="1589370685097" />
-    <state width="1493" height="160" key="GridCell.Tab.0.bottom" timestamp="1593044306101">
+    <state width="1042" height="128" key="GridCell.Tab.0.bottom" timestamp="1593183839955">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state width="1493" height="160" key="GridCell.Tab.0.bottom/0.0.1536.834@0.0.1536.834" timestamp="1593044306101" />
-    <state width="1493" height="160" key="GridCell.Tab.0.center" timestamp="1593044306101">
+    <state width="1042" height="128" key="GridCell.Tab.0.bottom/0.0.1536.834@0.0.1536.834" timestamp="1593183839955" />
+    <state width="1042" height="128" key="GridCell.Tab.0.center" timestamp="1593183839955">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state width="1493" height="160" key="GridCell.Tab.0.center/0.0.1536.834@0.0.1536.834" timestamp="1593044306101" />
-    <state width="1493" height="160" key="GridCell.Tab.0.left" timestamp="1593044306101">
+    <state width="1042" height="128" key="GridCell.Tab.0.center/0.0.1536.834@0.0.1536.834" timestamp="1593183839955" />
+    <state width="1042" height="128" key="GridCell.Tab.0.left" timestamp="1593183839955">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state width="1493" height="160" key="GridCell.Tab.0.left/0.0.1536.834@0.0.1536.834" timestamp="1593044306101" />
-    <state width="1493" height="160" key="GridCell.Tab.0.right" timestamp="1593044306101">
+    <state width="1042" height="128" key="GridCell.Tab.0.left/0.0.1536.834@0.0.1536.834" timestamp="1593183839955" />
+    <state width="1042" height="128" key="GridCell.Tab.0.right" timestamp="1593183839955">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state width="1493" height="160" key="GridCell.Tab.0.right/0.0.1536.834@0.0.1536.834" timestamp="1593044306101" />
+    <state width="1042" height="128" key="GridCell.Tab.0.right/0.0.1536.834@0.0.1536.834" timestamp="1593183839955" />
     <state width="1493" height="295" key="GridCell.Tab.1.bottom" timestamp="1590633578646">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
@@ -1509,14 +1516,14 @@
       <screen x="0" y="0" width="1536" height="834" />
     </state>
     <state x="470" y="123" key="MultipleFileMergeDialog/0.0.1536.834@0.0.1536.834" timestamp="1586246163747" />
-    <state x="57" y="0" width="1037" height="834" key="SettingsEditor" timestamp="1593043469764">
+    <state x="57" y="0" width="1037" height="834" key="SettingsEditor" timestamp="1593044324884">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state x="57" y="0" width="1037" height="834" key="SettingsEditor/0.0.1536.834@0.0.1536.834" timestamp="1593043469764" />
-    <state x="361" y="146" key="Vcs.Push.Dialog.v2" timestamp="1593043474859">
+    <state x="57" y="0" width="1037" height="834" key="SettingsEditor/0.0.1536.834@0.0.1536.834" timestamp="1593044324884" />
+    <state x="361" y="146" key="Vcs.Push.Dialog.v2" timestamp="1593044328498">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state x="361" y="146" key="Vcs.Push.Dialog.v2/0.0.1536.834@0.0.1536.834" timestamp="1593043474859" />
+    <state x="361" y="146" key="Vcs.Push.Dialog.v2/0.0.1536.834@0.0.1536.834" timestamp="1593044328498" />
     <state x="255" y="279" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD" timestamp="1589370309388">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
