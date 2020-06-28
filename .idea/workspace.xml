@@ -7,10 +7,16 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="07405ce8-cbd5-43fd-b903-16a731a448bb" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/LeetCode/src/Array/p4_MedianOfTwoSortedArrays.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/9/3/930c114931a631bdc7c57d9bf1447e2f1ff5573e" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/9/3/930c114931a631bdc7c57d9bf1447e2f1ff5573e" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LeetCode/src/LinkedList/I0202_KthNodeFromEndOfListLcc.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/c/7/c7e8c40617a9bb8b5d2648b361f633307ac187b5" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/c/a/ca10dc0043f2f771280636f0cf48758d384e4065" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/d/6/d60dd90fa5c69ceb542e6b59e6ad40d34ec7e376" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LeetCode/src/BFS/I32_PrintiBnaryTreeFromTopToBottomII.java" beforeDir="false" afterPath="$PROJECT_DIR$/LeetCode/src/BFS/o32_II_PrintiBnaryTreeFromTopToBottomII.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LeetCode/src/Stack/I9_UsingTwoStacksToImplementQueues.java" beforeDir="false" afterPath="$PROJECT_DIR$/LeetCode/src/Stack/o9_UsingTwoStacksToImplementQueues.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LeetCode/src/ToFlashBack/p_212_WordSearchII.java" beforeDir="false" afterPath="$PROJECT_DIR$/LeetCode/src/ToFlashBack/p212_WordSearchII.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LeetCode/src/Tree/I28_SymmetricBinaryTree.java" beforeDir="false" afterPath="$PROJECT_DIR$/LeetCode/src/Tree/o28_SymmetricBinaryTree.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -182,13 +188,13 @@
       <command value="mvn clean" />
     </option>
   </component>
-  <component name="RunManager" selected="Application.p4_MedianOfTwoSortedArrays">
-    <configuration name="p11_ContainerWithMostWater" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Array.p11_ContainerWithMostWater" />
+  <component name="RunManager" selected="Application.I0202_KthNodeFromEndOfListLcc">
+    <configuration name="I0202_KthNodeFromEndOfListLcc" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="LinkedList.I0202_KthNodeFromEndOfListLcc" />
       <module name="LeetCode" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Array.*" />
+          <option name="PATTERN" value="LinkedList.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -196,8 +202,21 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="p26_RemoveDuplicatesFromSortedArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Array.p26_RemoveDuplicatesFromSortedArray" />
+    <configuration name="o9_UsingTwoStacksToImplementQueues" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Stack.o9_UsingTwoStacksToImplementQueues" />
+      <module name="LeetCode" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Stack.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="p11_ContainerWithMostWater" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Array.p11_ContainerWithMostWater" />
       <module name="LeetCode" />
       <extension name="coverage">
         <pattern>
@@ -224,19 +243,6 @@
     </configuration>
     <configuration name="p4_MedianOfTwoSortedArrays" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Array.p4_MedianOfTwoSortedArrays" />
-      <module name="LeetCode" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Array.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="p88_MergeSortedArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Array.p88_MergeSortedArray" />
       <module name="LeetCode" />
       <extension name="coverage">
         <pattern>
@@ -669,24 +675,24 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.p26_RemoveDuplicatesFromSortedArray" />
-      <item itemvalue="Application.p88_MergeSortedArray" />
       <item itemvalue="Application.p287_FindTheDuplicateNumber" />
       <item itemvalue="Application.p11_ContainerWithMostWater" />
+      <item itemvalue="Application.p4_MedianOfTwoSortedArrays" />
+      <item itemvalue="Application.o9_UsingTwoStacksToImplementQueues" />
       <item itemvalue="Tomcat Server.Redis" />
       <item itemvalue="Tomcat Server.Maven" />
       <item itemvalue="Tomcat Server.SpringMVC" />
       <item itemvalue="Tomcat Server.JavaWeb" />
       <item itemvalue="Tomcat Server.SSM" />
-      <item itemvalue="Application.p4_MedianOfTwoSortedArrays" />
+      <item itemvalue="Application.I0202_KthNodeFromEndOfListLcc" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.I0202_KthNodeFromEndOfListLcc" />
+        <item itemvalue="Application.o9_UsingTwoStacksToImplementQueues" />
         <item itemvalue="Application.p4_MedianOfTwoSortedArrays" />
         <item itemvalue="Application.p11_ContainerWithMostWater" />
         <item itemvalue="Application.p287_FindTheDuplicateNumber" />
-        <item itemvalue="Application.p88_MergeSortedArray" />
-        <item itemvalue="Application.p26_RemoveDuplicatesFromSortedArray" />
       </list>
     </recent_temporary>
   </component>
@@ -989,14 +995,9 @@
       <workItem from="1593044251905" duration="444000" />
       <workItem from="1593046305411" duration="5074000" />
       <workItem from="1593097540728" duration="1074000" />
-      <workItem from="1593177676166" duration="1151000" />
-    </task>
-    <task id="LOCAL-00063" summary="2020.05.25">
-      <created>1590373076506</created>
-      <option name="number" value="00063" />
-      <option name="presentableId" value="LOCAL-00063" />
-      <option name="project" value="LOCAL" />
-      <updated>1590373076507</updated>
+      <workItem from="1593177676166" duration="1478000" />
+      <workItem from="1593349245031" duration="1007000" />
+      <workItem from="1593358931448" duration="237000" />
     </task>
     <task id="LOCAL-00064" summary="2020.05.25">
       <created>1590392854454</created>
@@ -1334,7 +1335,14 @@
       <option name="project" value="LOCAL" />
       <updated>1593044314633</updated>
     </task>
-    <option name="localTasksCounter" value="112" />
+    <task id="LOCAL-00112" summary="2020.06.26">
+      <created>1593183858106</created>
+      <option name="number" value="00112" />
+      <option name="presentableId" value="LOCAL-00112" />
+      <option name="project" value="LOCAL" />
+      <updated>1593183858107</updated>
+    </task>
+    <option name="localTasksCounter" value="113" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -1344,7 +1352,6 @@
     <ignored-roots>
       <path value="$PROJECT_DIR$" />
     </ignored-roots>
-    <MESSAGE value="2020.05.21" />
     <MESSAGE value="2020.05.22" />
     <MESSAGE value="2020.05.25" />
     <MESSAGE value="2020.05.26" />
@@ -1369,7 +1376,8 @@
     <MESSAGE value="2020.06.23" />
     <MESSAGE value="2020.06.24" />
     <MESSAGE value="2020.06.25" />
-    <option name="LAST_COMMIT_MESSAGE" value="2020.06.25" />
+    <MESSAGE value="2020.06.26" />
+    <option name="LAST_COMMIT_MESSAGE" value="2020.06.26" />
   </component>
   <component name="WindowStateProjectService">
     <state x="7" y="64" key="#Inspections" timestamp="1590390414791">
@@ -1400,10 +1408,10 @@
       <screen x="0" y="0" width="1536" height="834" />
     </state>
     <state x="514" y="64" key="#com.intellij.j2ee.appServerIntegrations.ApplicationServersConfigurable/0.0.1536.834@0.0.1536.834" timestamp="1585552823332" />
-    <state x="295" y="0" key="CommitChangelistDialog2" timestamp="1593044313494">
+    <state x="295" y="0" key="CommitChangelistDialog2" timestamp="1593183853957">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state x="295" y="0" key="CommitChangelistDialog2/0.0.1536.834@0.0.1536.834" timestamp="1593044313494" />
+    <state x="295" y="0" key="CommitChangelistDialog2/0.0.1536.834@0.0.1536.834" timestamp="1593183853957" />
     <state x="93" y="93" width="1350" height="648" key="DiffContextDialog" timestamp="1586318346122">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
@@ -1428,22 +1436,22 @@
       <screen x="0" y="0" width="1536" height="834" />
     </state>
     <state x="361" y="76" key="GrepConsoleSettings/0.0.1536.834@0.0.1536.834" timestamp="1589370685097" />
-    <state width="1042" height="128" key="GridCell.Tab.0.bottom" timestamp="1593183839955">
+    <state width="1493" height="159" key="GridCell.Tab.0.bottom" timestamp="1593359197456">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state width="1042" height="128" key="GridCell.Tab.0.bottom/0.0.1536.834@0.0.1536.834" timestamp="1593183839955" />
-    <state width="1042" height="128" key="GridCell.Tab.0.center" timestamp="1593183839955">
+    <state width="1493" height="159" key="GridCell.Tab.0.bottom/0.0.1536.834@0.0.1536.834" timestamp="1593359197456" />
+    <state width="1493" height="159" key="GridCell.Tab.0.center" timestamp="1593359197456">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state width="1042" height="128" key="GridCell.Tab.0.center/0.0.1536.834@0.0.1536.834" timestamp="1593183839955" />
-    <state width="1042" height="128" key="GridCell.Tab.0.left" timestamp="1593183839955">
+    <state width="1493" height="159" key="GridCell.Tab.0.center/0.0.1536.834@0.0.1536.834" timestamp="1593359197456" />
+    <state width="1493" height="159" key="GridCell.Tab.0.left" timestamp="1593359197456">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state width="1042" height="128" key="GridCell.Tab.0.left/0.0.1536.834@0.0.1536.834" timestamp="1593183839955" />
-    <state width="1042" height="128" key="GridCell.Tab.0.right" timestamp="1593183839955">
+    <state width="1493" height="159" key="GridCell.Tab.0.left/0.0.1536.834@0.0.1536.834" timestamp="1593359197456" />
+    <state width="1493" height="159" key="GridCell.Tab.0.right" timestamp="1593359197456">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state width="1042" height="128" key="GridCell.Tab.0.right/0.0.1536.834@0.0.1536.834" timestamp="1593183839955" />
+    <state width="1493" height="159" key="GridCell.Tab.0.right/0.0.1536.834@0.0.1536.834" timestamp="1593359197456" />
     <state width="1493" height="295" key="GridCell.Tab.1.bottom" timestamp="1590633578646">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
@@ -1516,14 +1524,14 @@
       <screen x="0" y="0" width="1536" height="834" />
     </state>
     <state x="470" y="123" key="MultipleFileMergeDialog/0.0.1536.834@0.0.1536.834" timestamp="1586246163747" />
-    <state x="57" y="0" width="1037" height="834" key="SettingsEditor" timestamp="1593044324884">
+    <state x="180" y="0" width="1037" height="834" key="SettingsEditor" timestamp="1593183950161">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state x="57" y="0" width="1037" height="834" key="SettingsEditor/0.0.1536.834@0.0.1536.834" timestamp="1593044324884" />
-    <state x="361" y="146" key="Vcs.Push.Dialog.v2" timestamp="1593044328498">
+    <state x="180" y="0" width="1037" height="834" key="SettingsEditor/0.0.1536.834@0.0.1536.834" timestamp="1593183950161" />
+    <state x="361" y="146" key="Vcs.Push.Dialog.v2" timestamp="1593183953543">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state x="361" y="146" key="Vcs.Push.Dialog.v2/0.0.1536.834@0.0.1536.834" timestamp="1593044328498" />
+    <state x="361" y="146" key="Vcs.Push.Dialog.v2/0.0.1536.834@0.0.1536.834" timestamp="1593183953543" />
     <state x="255" y="279" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD" timestamp="1589370309388">
       <screen x="0" y="0" width="1536" height="834" />
     </state>

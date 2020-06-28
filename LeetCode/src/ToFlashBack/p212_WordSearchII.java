@@ -3,7 +3,7 @@ package ToFlashBack;
 import java.util.ArrayList;
 import java.util.List;
 
-public class p_212_WordSearchII {
+public class p212_WordSearchII {
 
     // 用于存放坐标方向，分别运动方向是上，右，下，左
     private static int[][] dires = {{0, 1}, {1, 0}, {0, -1}, {-1, 0}};
@@ -15,7 +15,7 @@ public class p_212_WordSearchII {
     private boolean[][] visited;
 
     public static void main(String[] args) {
-        p_212_WordSearchII p_212_wordSearchII = new p_212_WordSearchII();
+        p212_WordSearchII p_212_wordSearchII = new p212_WordSearchII();
         char[][] board = {
                 {'o', 'a', 'a', 'n'},
                 {'e', 't', 'a', 'e'},
