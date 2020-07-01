@@ -7,17 +7,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="07405ce8-cbd5-43fd-b903-16a731a448bb" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/LeetCode/src/LinkedList/p148_Sortlist.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/2/b/2b1c86afb91c2b7c010f4af08fc5db6326e51d41" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/2/c/2c0ee9eb4a527c6c3f03d081118ff5cb2a8ffde4" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/4/6/469f89070e468d2279edfa1fabcf3dce3a836ca7" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/4/6/469f89070e468d2279edfa1fabcf3dce3a836ca7" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/4/e/4ed0d12444f745fd799604c595583310cbbf434b" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/4/e/4ed0d12444f745fd799604c595583310cbbf434b" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/6/9/694e4677f87733c0c0032cd2e4b38a133881bd73" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/b/2/b220fdaf584cad472071b970d5ff23aa89da0c31" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/e/7/e73d86bb61b1e8d8e64c57fd73222bca6ed33de1" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/e/d/ed56de3063ed6cc00414987709799a8dae011f5f" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LeetCode/src/LinkedList/p148_Sortlist.java" beforeDir="false" afterPath="$PROJECT_DIR$/LeetCode/src/LinkedList/p148_Sortlist.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -1001,14 +992,7 @@
       <workItem from="1593358931448" duration="319000" />
       <workItem from="1593436476586" duration="4067000" />
       <workItem from="1593529628165" duration="1349000" />
-      <workItem from="1593560574103" duration="1632000" />
-    </task>
-    <task id="LOCAL-00066" summary="2020.05.26">
-      <created>1590496308069</created>
-      <option name="number" value="00066" />
-      <option name="presentableId" value="LOCAL-00066" />
-      <option name="project" value="LOCAL" />
-      <updated>1590496308069</updated>
+      <workItem from="1593560574103" duration="1867000" />
     </task>
     <task id="LOCAL-00067" summary="2020.05.27">
       <created>1590547385540</created>
@@ -1346,7 +1330,14 @@
       <option name="project" value="LOCAL" />
       <updated>1593444633023</updated>
     </task>
-    <option name="localTasksCounter" value="115" />
+    <task id="LOCAL-00115" summary="2020.07.01">
+      <created>1593562338040</created>
+      <option name="number" value="00115" />
+      <option name="presentableId" value="LOCAL-00115" />
+      <option name="project" value="LOCAL" />
+      <updated>1593562338041</updated>
+    </task>
+    <option name="localTasksCounter" value="116" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -1356,7 +1347,6 @@
     <ignored-roots>
       <path value="$PROJECT_DIR$" />
     </ignored-roots>
-    <MESSAGE value="2020.05.26" />
     <MESSAGE value="2020.05.27" />
     <MESSAGE value="2020.05.28" />
     <MESSAGE value="2020.05.29" />
@@ -1381,7 +1371,8 @@
     <MESSAGE value="2020.06.26" />
     <MESSAGE value="2020.06.28" />
     <MESSAGE value="2020.06.29" />
-    <option name="LAST_COMMIT_MESSAGE" value="2020.06.29" />
+    <MESSAGE value="2020.07.01" />
+    <option name="LAST_COMMIT_MESSAGE" value="2020.07.01" />
   </component>
   <component name="WindowStateProjectService">
     <state x="7" y="64" key="#Inspections" timestamp="1590390414791">
@@ -1412,10 +1403,10 @@
       <screen x="0" y="0" width="1536" height="834" />
     </state>
     <state x="514" y="64" key="#com.intellij.j2ee.appServerIntegrations.ApplicationServersConfigurable/0.0.1536.834@0.0.1536.834" timestamp="1585552823332" />
-    <state x="295" y="0" key="CommitChangelistDialog2" timestamp="1593444631063">
+    <state x="295" y="0" key="CommitChangelistDialog2" timestamp="1593562332586">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state x="295" y="0" key="CommitChangelistDialog2/0.0.1536.834@0.0.1536.834" timestamp="1593444631063" />
+    <state x="295" y="0" key="CommitChangelistDialog2/0.0.1536.834@0.0.1536.834" timestamp="1593562332586" />
     <state x="93" y="93" width="1350" height="648" key="DiffContextDialog" timestamp="1586318346122">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
@@ -1440,22 +1431,22 @@
       <screen x="0" y="0" width="1536" height="834" />
     </state>
     <state x="361" y="76" key="GrepConsoleSettings/0.0.1536.834@0.0.1536.834" timestamp="1589370685097" />
-    <state width="1042" height="159" key="GridCell.Tab.0.bottom" timestamp="1593562290803">
+    <state width="1042" height="159" key="GridCell.Tab.0.bottom" timestamp="1593562501493">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state width="1042" height="159" key="GridCell.Tab.0.bottom/0.0.1536.834@0.0.1536.834" timestamp="1593562290803" />
-    <state width="1042" height="159" key="GridCell.Tab.0.center" timestamp="1593562290803">
+    <state width="1042" height="159" key="GridCell.Tab.0.bottom/0.0.1536.834@0.0.1536.834" timestamp="1593562501493" />
+    <state width="1042" height="159" key="GridCell.Tab.0.center" timestamp="1593562501493">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state width="1042" height="159" key="GridCell.Tab.0.center/0.0.1536.834@0.0.1536.834" timestamp="1593562290803" />
-    <state width="1042" height="159" key="GridCell.Tab.0.left" timestamp="1593562290803">
+    <state width="1042" height="159" key="GridCell.Tab.0.center/0.0.1536.834@0.0.1536.834" timestamp="1593562501493" />
+    <state width="1042" height="159" key="GridCell.Tab.0.left" timestamp="1593562501493">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state width="1042" height="159" key="GridCell.Tab.0.left/0.0.1536.834@0.0.1536.834" timestamp="1593562290803" />
-    <state width="1042" height="159" key="GridCell.Tab.0.right" timestamp="1593562290803">
+    <state width="1042" height="159" key="GridCell.Tab.0.left/0.0.1536.834@0.0.1536.834" timestamp="1593562501493" />
+    <state width="1042" height="159" key="GridCell.Tab.0.right" timestamp="1593562501493">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state width="1042" height="159" key="GridCell.Tab.0.right/0.0.1536.834@0.0.1536.834" timestamp="1593562290803" />
+    <state width="1042" height="159" key="GridCell.Tab.0.right/0.0.1536.834@0.0.1536.834" timestamp="1593562501493" />
     <state width="1493" height="295" key="GridCell.Tab.1.bottom" timestamp="1590633578646">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
@@ -1528,14 +1519,14 @@
       <screen x="0" y="0" width="1536" height="834" />
     </state>
     <state x="470" y="123" key="MultipleFileMergeDialog/0.0.1536.834@0.0.1536.834" timestamp="1586246163747" />
-    <state x="180" y="0" width="1037" height="834" key="SettingsEditor" timestamp="1593183950161">
+    <state x="180" y="0" width="1037" height="834" key="SettingsEditor" timestamp="1593562361055">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state x="180" y="0" width="1037" height="834" key="SettingsEditor/0.0.1536.834@0.0.1536.834" timestamp="1593183950161" />
-    <state x="361" y="146" key="Vcs.Push.Dialog.v2" timestamp="1593444637485">
+    <state x="180" y="0" width="1037" height="834" key="SettingsEditor/0.0.1536.834@0.0.1536.834" timestamp="1593562361055" />
+    <state x="361" y="146" key="Vcs.Push.Dialog.v2" timestamp="1593562383706">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state x="361" y="146" key="Vcs.Push.Dialog.v2/0.0.1536.834@0.0.1536.834" timestamp="1593444637485" />
+    <state x="361" y="146" key="Vcs.Push.Dialog.v2/0.0.1536.834@0.0.1536.834" timestamp="1593562383706" />
     <state x="255" y="279" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD" timestamp="1589370309388">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
