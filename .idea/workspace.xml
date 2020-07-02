@@ -7,15 +7,6 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="07405ce8-cbd5-43fd-b903-16a731a448bb" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/LeetCode/src/LinkedList/p25_ReverseNodesInKGroup.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/0/7/075a8755beb3fd290ae2316311b662cd97b4b8b4" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/0/e/0e5f53133e20aa52b23cf8cc2d3c24e18e39c05c" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/5/0/50b6b85c9ef654d0a884d7fb14f993501e09ffb4" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/7/3/7362452de17ceb4dff720ace8294f4338fae5c80" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/7/3/7362452de17ceb4dff720ace8294f4338fae5c80" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/9/6/962fa9a5ab28a23085eaa853f4dc146b74bfa540" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/a/0/a0385d654cc02de891d3b9ca12c1f8151b4c54a7" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/b/7/b7ae6b136d120b83bd301e6af0fe9598c989d477" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -679,12 +670,12 @@
       <item itemvalue="Application.p21_MergeTwoSortedLists" />
       <item itemvalue="Application.p148_Sortlist" />
       <item itemvalue="Application.p147_InsertionSortList" />
+      <item itemvalue="Application.p25_ReverseNodesInKGroup" />
       <item itemvalue="Tomcat Server.Redis" />
       <item itemvalue="Tomcat Server.Maven" />
       <item itemvalue="Tomcat Server.SpringMVC" />
       <item itemvalue="Tomcat Server.JavaWeb" />
       <item itemvalue="Tomcat Server.SSM" />
-      <item itemvalue="Application.p25_ReverseNodesInKGroup" />
     </list>
     <recent_temporary>
       <list>
@@ -1004,14 +995,7 @@
       <workItem from="1593615227642" duration="1969000" />
       <workItem from="1593648840684" duration="661000" />
       <workItem from="1593653111464" duration="1479000" />
-      <workItem from="1593701978421" duration="2084000" />
-    </task>
-    <task id="LOCAL-00071" summary="2020.05.31">
-      <created>1590929606333</created>
-      <option name="number" value="00071" />
-      <option name="presentableId" value="LOCAL-00071" />
-      <option name="project" value="LOCAL" />
-      <updated>1590929606333</updated>
+      <workItem from="1593701978421" duration="2368000" />
     </task>
     <task id="LOCAL-00072" summary="2020.06.02">
       <created>1591062822823</created>
@@ -1349,7 +1333,14 @@
       <option name="project" value="LOCAL" />
       <updated>1593649491946</updated>
     </task>
-    <option name="localTasksCounter" value="120" />
+    <task id="LOCAL-00120" summary="2020.07.03">
+      <created>1593706163876</created>
+      <option name="number" value="00120" />
+      <option name="presentableId" value="LOCAL-00120" />
+      <option name="project" value="LOCAL" />
+      <updated>1593706163877</updated>
+    </task>
+    <option name="localTasksCounter" value="121" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -1359,7 +1350,6 @@
     <ignored-roots>
       <path value="$PROJECT_DIR$" />
     </ignored-roots>
-    <MESSAGE value="2020.05.28" />
     <MESSAGE value="2020.05.29" />
     <MESSAGE value="2020.05.31" />
     <MESSAGE value="2020.06.02" />
@@ -1384,7 +1374,8 @@
     <MESSAGE value="2020.06.29" />
     <MESSAGE value="2020.07.01" />
     <MESSAGE value="2020.07.02" />
-    <option name="LAST_COMMIT_MESSAGE" value="2020.07.02" />
+    <MESSAGE value="2020.07.03" />
+    <option name="LAST_COMMIT_MESSAGE" value="2020.07.03" />
   </component>
   <component name="WindowStateProjectService">
     <state x="7" y="64" key="#Inspections" timestamp="1590390414791">
@@ -1415,10 +1406,10 @@
       <screen x="0" y="0" width="1536" height="834" />
     </state>
     <state x="514" y="64" key="#com.intellij.j2ee.appServerIntegrations.ApplicationServersConfigurable/0.0.1536.834@0.0.1536.834" timestamp="1585552823332" />
-    <state x="295" y="0" key="CommitChangelistDialog2" timestamp="1593649491231">
+    <state x="295" y="0" key="CommitChangelistDialog2" timestamp="1593706161265">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state x="295" y="0" key="CommitChangelistDialog2/0.0.1536.834@0.0.1536.834" timestamp="1593649491231" />
+    <state x="295" y="0" key="CommitChangelistDialog2/0.0.1536.834@0.0.1536.834" timestamp="1593706161265" />
     <state x="93" y="93" width="1350" height="648" key="DiffContextDialog" timestamp="1586318346122">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
@@ -1531,10 +1522,10 @@
       <screen x="0" y="0" width="1536" height="834" />
     </state>
     <state x="470" y="123" key="MultipleFileMergeDialog/0.0.1536.834@0.0.1536.834" timestamp="1586246163747" />
-    <state x="180" y="0" width="1037" height="834" key="SettingsEditor" timestamp="1593649504406">
+    <state x="180" y="0" width="1016" height="834" key="SettingsEditor" timestamp="1593706423885">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state x="180" y="0" width="1037" height="834" key="SettingsEditor/0.0.1536.834@0.0.1536.834" timestamp="1593649504406" />
+    <state x="180" y="0" width="1016" height="834" key="SettingsEditor/0.0.1536.834@0.0.1536.834" timestamp="1593706423885" />
     <state x="361" y="146" key="Vcs.Push.Dialog.v2" timestamp="1593649507668">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
