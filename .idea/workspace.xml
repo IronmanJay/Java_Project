@@ -7,10 +7,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="07405ce8-cbd5-43fd-b903-16a731a448bb" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/LeetCode/src/LinkedList/p147_InsertionSortList.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/b/4/b40509072b840445e47feb63458fd57adc42d292" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/f/8/f8bfd438cb3927967346041b041ff69aa484b5a0" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/f/b/fba22c4ed3609c4d254c39832456f1e87cfd4814" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/1/7/170d4cfde75e3bcf9a262708a02a3f46dd4de97e" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/1/d/1d3edb82a73e4827ee13b447eaeb846c234a45c2" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/1/d/1d3edb82a73e4827ee13b447eaeb846c234a45c2" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/4/5/45d0407443c5eb687105e61b82ec527b8c1044ea" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/7/a/7a74f27f2cc61ba79869d3eb48e038aa01000cb9" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
@@ -675,12 +675,12 @@
       <item itemvalue="Application.I0202_KthNodeFromEndOfListLcc" />
       <item itemvalue="Application.p21_MergeTwoSortedLists" />
       <item itemvalue="Application.p148_Sortlist" />
+      <item itemvalue="Application.p147_InsertionSortList" />
       <item itemvalue="Tomcat Server.Redis" />
       <item itemvalue="Tomcat Server.Maven" />
       <item itemvalue="Tomcat Server.SpringMVC" />
       <item itemvalue="Tomcat Server.JavaWeb" />
       <item itemvalue="Tomcat Server.SSM" />
-      <item itemvalue="Application.p147_InsertionSortList" />
     </list>
     <recent_temporary>
       <list>
@@ -997,14 +997,8 @@
       <workItem from="1593436476586" duration="4067000" />
       <workItem from="1593529628165" duration="1349000" />
       <workItem from="1593560574103" duration="3699000" />
-      <workItem from="1593615227642" duration="1799000" />
-    </task>
-    <task id="LOCAL-00068" summary="2020.05.28">
-      <created>1590636885347</created>
-      <option name="number" value="00068" />
-      <option name="presentableId" value="LOCAL-00068" />
-      <option name="project" value="LOCAL" />
-      <updated>1590636885347</updated>
+      <workItem from="1593615227642" duration="1969000" />
+      <workItem from="1593648840684" duration="449000" />
     </task>
     <task id="LOCAL-00069" summary="2020.05.29">
       <created>1590717336901</created>
@@ -1342,7 +1336,14 @@
       <option name="project" value="LOCAL" />
       <updated>1593562508240</updated>
     </task>
-    <option name="localTasksCounter" value="117" />
+    <task id="LOCAL-00117" summary="2020.07.01">
+      <created>1593619412665</created>
+      <option name="number" value="00117" />
+      <option name="presentableId" value="LOCAL-00117" />
+      <option name="project" value="LOCAL" />
+      <updated>1593619412666</updated>
+    </task>
+    <option name="localTasksCounter" value="118" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -1388,10 +1389,10 @@
       <screen x="0" y="0" width="1536" height="834" />
     </state>
     <state x="643" y="94" width="814" height="730" key="#Intentions/0.0.1536.834@0.0.1536.834" timestamp="1592531304716" />
-    <state x="361" y="76" key="#Notifications" timestamp="1589857699757">
+    <state x="361" y="76" key="#Notifications" timestamp="1593619487498">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state x="361" y="76" key="#Notifications/0.0.1536.834@0.0.1536.834" timestamp="1589857699757" />
+    <state x="361" y="76" key="#Notifications/0.0.1536.834@0.0.1536.834" timestamp="1593619487498" />
     <state x="347" y="0" width="814" height="834" key="#Project_Structure" timestamp="1588137082935">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
@@ -1408,10 +1409,10 @@
       <screen x="0" y="0" width="1536" height="834" />
     </state>
     <state x="514" y="64" key="#com.intellij.j2ee.appServerIntegrations.ApplicationServersConfigurable/0.0.1536.834@0.0.1536.834" timestamp="1585552823332" />
-    <state x="295" y="0" key="CommitChangelistDialog2" timestamp="1593562507119">
+    <state x="295" y="0" key="CommitChangelistDialog2" timestamp="1593649381281">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state x="295" y="0" key="CommitChangelistDialog2/0.0.1536.834@0.0.1536.834" timestamp="1593562507119" />
+    <state x="295" y="0" key="CommitChangelistDialog2/0.0.1536.834@0.0.1536.834" timestamp="1593649381281" />
     <state x="93" y="93" width="1350" height="648" key="DiffContextDialog" timestamp="1586318346122">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
@@ -1436,22 +1437,22 @@
       <screen x="0" y="0" width="1536" height="834" />
     </state>
     <state x="361" y="76" key="GrepConsoleSettings/0.0.1536.834@0.0.1536.834" timestamp="1589370685097" />
-    <state width="1493" height="186" key="GridCell.Tab.0.bottom" timestamp="1593619399683">
+    <state width="1493" height="186" key="GridCell.Tab.0.bottom" timestamp="1593649418691">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state width="1493" height="186" key="GridCell.Tab.0.bottom/0.0.1536.834@0.0.1536.834" timestamp="1593619399683" />
-    <state width="1493" height="186" key="GridCell.Tab.0.center" timestamp="1593619399683">
+    <state width="1493" height="186" key="GridCell.Tab.0.bottom/0.0.1536.834@0.0.1536.834" timestamp="1593649418691" />
+    <state width="1493" height="186" key="GridCell.Tab.0.center" timestamp="1593649418691">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state width="1493" height="186" key="GridCell.Tab.0.center/0.0.1536.834@0.0.1536.834" timestamp="1593619399683" />
-    <state width="1493" height="186" key="GridCell.Tab.0.left" timestamp="1593619399683">
+    <state width="1493" height="186" key="GridCell.Tab.0.center/0.0.1536.834@0.0.1536.834" timestamp="1593649418691" />
+    <state width="1493" height="186" key="GridCell.Tab.0.left" timestamp="1593649418691">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state width="1493" height="186" key="GridCell.Tab.0.left/0.0.1536.834@0.0.1536.834" timestamp="1593619399683" />
-    <state width="1493" height="186" key="GridCell.Tab.0.right" timestamp="1593619399683">
+    <state width="1493" height="186" key="GridCell.Tab.0.left/0.0.1536.834@0.0.1536.834" timestamp="1593649418691" />
+    <state width="1493" height="186" key="GridCell.Tab.0.right" timestamp="1593649418691">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state width="1493" height="186" key="GridCell.Tab.0.right/0.0.1536.834@0.0.1536.834" timestamp="1593619399683" />
+    <state width="1493" height="186" key="GridCell.Tab.0.right/0.0.1536.834@0.0.1536.834" timestamp="1593649418691" />
     <state width="1493" height="295" key="GridCell.Tab.1.bottom" timestamp="1590633578646">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
@@ -1524,14 +1525,14 @@
       <screen x="0" y="0" width="1536" height="834" />
     </state>
     <state x="470" y="123" key="MultipleFileMergeDialog/0.0.1536.834@0.0.1536.834" timestamp="1586246163747" />
-    <state x="180" y="0" width="1037" height="834" key="SettingsEditor" timestamp="1593562361055">
+    <state x="180" y="0" width="1037" height="834" key="SettingsEditor" timestamp="1593619425798">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state x="180" y="0" width="1037" height="834" key="SettingsEditor/0.0.1536.834@0.0.1536.834" timestamp="1593562361055" />
-    <state x="361" y="146" key="Vcs.Push.Dialog.v2" timestamp="1593562511487">
+    <state x="180" y="0" width="1037" height="834" key="SettingsEditor/0.0.1536.834@0.0.1536.834" timestamp="1593619425798" />
+    <state x="361" y="146" key="Vcs.Push.Dialog.v2" timestamp="1593619428838">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state x="361" y="146" key="Vcs.Push.Dialog.v2/0.0.1536.834@0.0.1536.834" timestamp="1593562511487" />
+    <state x="361" y="146" key="Vcs.Push.Dialog.v2/0.0.1536.834@0.0.1536.834" timestamp="1593619428838" />
     <state x="255" y="279" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD" timestamp="1589370309388">
       <screen x="0" y="0" width="1536" height="834" />
     </state>

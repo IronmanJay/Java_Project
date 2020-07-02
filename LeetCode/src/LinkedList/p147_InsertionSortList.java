@@ -26,6 +26,10 @@ public class p147_InsertionSortList {
     }
 
     public static p147_InsertionSortList insertionSortList(p147_InsertionSortList head) {
+        // 如果为空直接返回
+        if (head == null || head.next == null) {
+            return head;
+        }
         // 首先定义指向头结点的指针
         p147_InsertionSortList newHead = new p147_InsertionSortList(Integer.MIN_VALUE);
         newHead.next = head;

@@ -4609,8 +4609,6 @@ G.idea/sonarlint/issuestore/b/4/b4ab1993d7d64891acb88b9766d6d0ee578a640b,e\c\ec
 w
 G.idea/sonarlint/issuestore/b/4/b428a7c29203a91056ed3da9f83b22e0e3233ec9,d\7\d7252d813d59de82b4d088f0b1858fc75ff2454e
 w
-G.idea/sonarlint/issuestore/b/4/b40509072b840445e47feb63458fd57adc42d292,7\a\7a74f27f2cc61ba79869d3eb48e038aa01000cb9
-w
 G.idea/sonarlint/issuestore/b/6/b6e531ffddbe5eadc8cf7ba023888b1a87aaec31,0\f\0f0d3cf5359520d51feec43b0b63d85c2bca148a
 w
 G.idea/sonarlint/issuestore/b/b/bbc8ea0e572b94e17bae7323c212c7483fe2a397,2\f\2fc768d07732c54f59bbc900fc2b51b571bc069d
@@ -6989,8 +6987,6 @@ G.idea/sonarlint/issuestore/f/3/f3bb2516fe5426f9f1c2e69c6c6b284090f9f798,d\4\d4
 w
 G.idea/sonarlint/issuestore/f/5/f511e3da996e4b8d524570cebaa4be3d010b35a7,f\a\fa4dcc8f5cae375aa4d5fe1cb7f588d7f2e004df
 w
-G.idea/sonarlint/issuestore/f/8/f8bfd438cb3927967346041b041ff69aa484b5a0,4\5\45d0407443c5eb687105e61b82ec527b8c1044ea
-w
 G.idea/sonarlint/issuestore/f/8/f8c6bfae674f31fe2bac93874d26a0f1ca06df82,7\1\712b601cc0572b38a3501ed5c1f3b0972a1e4c9a
 w
 G.idea/sonarlint/issuestore/f/8/f89c651e17c687dfb2132be4351af94da0a1a379,3\f\3f5cc5b0c05b7c6f6adf811d556ac9ba12dba5e3
@@ -7000,8 +6996,6 @@ w
 G.idea/sonarlint/issuestore/f/a/fa2a8181a575ff853ac8fb18d9881486385106a2,3\b\3b79bda272afa68206ca704198e5022d4fd1fb40
 w
 G.idea/sonarlint/issuestore/f/a/fa237b00cd471abb2f3150e2af171a5c56c9e192,0\7\0757fd6fc0dbcddfec3218a1fef622372dde8bfc
-w
-G.idea/sonarlint/issuestore/f/b/fba22c4ed3609c4d254c39832456f1e87cfd4814,1\7\170d4cfde75e3bcf9a262708a02a3f46dd4de97e
 w
 G.idea/sonarlint/issuestore/f/e/fe5a9cb0136b99a0aa72d9d76eaec33ec88beca6,7\3\73f7245a948a9bdefab34b83fd5d9ffaef39a565
 w
@@ -8854,3 +8848,5 @@ d
 4LeetCode/src/LinkedList/p21_MergeTwoSortedLists.java,4\a\4a231eb8f6db6730c90621fa7948d71bd4300bf1
 Z
 *LeetCode/src/LinkedList/p148_Sortlist.java,0\3\031434b6ef549543ca708cc48067895aac8e59a9
+c
+3LeetCode/src/LinkedList/p147_InsertionSortList.java,1\c\1c5594598f93b7d35b171d4b12600684d3480a2c
