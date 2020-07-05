@@ -29,7 +29,7 @@ public class p933_NumberOfRecentCalls {
         while (queue.peek() < t - 3000) {
             queue.poll();
         }
-        // 最后返回剩下几个值
+        // 最后返回当前队列的个数
         return queue.size();
     }
 
