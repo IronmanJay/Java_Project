@@ -2,7 +2,7 @@ package Stack;
 
 import java.util.Stack;
 
-public class o9_UsingTwoStacksToImplementQueues {
+public class o09_UsingTwoStacksToImplementQueues {
 
     public static void main(String[] args) {
         CQueue cQueue = new CQueue();
