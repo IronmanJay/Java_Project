@@ -1,20 +1,20 @@
 
-v
-java:S2293$"YReplace the type specification in this constructor call with the diamond operator ("<>").(­šš8®óû˜•.
-u	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(áûK8®óû˜•.
-9
-java:S1643P"Use a StringBuilder instead.(®º¹8®óû˜•.
-{
-java:S2293]"YReplace the type specification in this constructor call with the diamond operator ("<>").(çâîÀıÿÿÿÿ8®óû˜•.
-[
-java:S11553">Use isEmpty() to check whether the collection is empty or not.(—öûÔ8®óû˜•.
-u
-java:S2293D"YReplace the type specification in this constructor call with the diamond operator ("<>").(‡ı«@8®óû˜•.
-[
-java:S1155;">Use isEmpty() to check whether the collection is empty or not.(§Ñğ§8®óû˜•.
-v
-java:S2293!"YReplace the type specification in this constructor call with the diamond operator ("<>").(Îğø8®óû˜•.
-{
-java:S2293g"YReplace the type specification in this constructor call with the diamond operator ("<>").(·ìÅéøÿÿÿÿ8®óû˜•.
 X
 java:S1118‰":Add a private constructor to hide the implicit public one.(¿²şÔ8‡™şí«.
+v
+java:S2293$"YReplace the type specification in this constructor call with the diamond operator ("<>").(­šš8®óû˜•.
+v
+java:S2293!"YReplace the type specification in this constructor call with the diamond operator ("<>").(Îğø8®óû˜•.
+u	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(áûK8®óû˜•.
+[
+java:S1155;">Use isEmpty() to check whether the collection is empty or not.(§Ñğ§8®óû˜•.
+{
+java:S2293]"YReplace the type specification in this constructor call with the diamond operator ("<>").(çâîÀıÿÿÿÿ8®óû˜•.
+u
+java:S2293D"YReplace the type specification in this constructor call with the diamond operator ("<>").(‡ı«@8®óû˜•.
+{
+java:S2293g"YReplace the type specification in this constructor call with the diamond operator ("<>").(·ìÅéøÿÿÿÿ8®óû˜•.
+9
+java:S1643P"Use a StringBuilder instead.(®º¹8®óû˜•.
+[
+java:S11553">Use isEmpty() to check whether the collection is empty or not.(—öûÔ8®óû˜•.
