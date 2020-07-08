@@ -3129,8 +3129,6 @@ G.idea/sonarlint/issuestore/a/b/ab4246bc330e892c8453ff3a2f30a6b2eeaa7b94,8\6\86
 w
 G.idea/sonarlint/issuestore/a/e/ae8cdd23e15017d9d3b2c8d085c2eaf6e1da195b,0\c\0c7dfac0f75d5504ab8997ba704c49ff987e31f0
 w
-G.idea/sonarlint/issuestore/a/e/ae1533188debed076fc4d19139f01f43f347b71c,b\8\b8be2a919caa00fc742a9ee1964087aea06db8d1
-w
 G.idea/sonarlint/issuestore/b/0/b00d373a5a640f1a0d478d828a64f6c6d3971fc0,8\a\8a5cdd056bc998767894a591c6595585033cfe9f
 w
 G.idea/sonarlint/issuestore/b/4/b4e7ebf43cc16b01eaecae90f2f5217c27c4a92a,d\f\dfbb439ead9b33035b7ce47203c31e1ad35b3ed8
@@ -7377,8 +7375,6 @@ G.idea/sonarlint/issuestore/1/e/1e0c806eb16c0d52f9515d56e07e803f01706a66,8\9\89
 w
 G.idea/sonarlint/issuestore/2/0/20c5b0122235b27c4894a627ecfec32018a95c77,f\8\f8ea6958e605304b2f50b60cd6ab4f2f51255d12
 w
-G.idea/sonarlint/issuestore/2/0/20df94f4c23c78c608627a0f117488e89c97e9b4,7\6\76684d66b5051f4494c5c11ed090383aea014260
-w
 G.idea/sonarlint/issuestore/2/0/20f3da2595d2fa53e9a2a42129505f278b264984,d\b\dbe5ebd8d26c286e92cb2b21c8611344eb13bfbf
 w
 G.idea/sonarlint/issuestore/2/1/2194b76ef57043f6863d2fcfaa1bf87fc57aca04,4\4\44d496c8b21a9e1efdb2276ed5c6b6fb20b46f1b
@@ -8812,3 +8808,5 @@ k
 ;LeetCode/src/Stack/o09_UsingTwoStacksToImplementQueues.java,c\d\cd646133815d7f96ee86106a3e3d78c2b3ed6ea8
 b
 2LeetCode/src/Queue/o59_I_SlidingWindowMaximum.java,1\c\1cd36b50a08fe5ad18442d6d19c7fbf72dc12e29
+`
+0LeetCode/src/Queue/P622_DesignCircularQueue.java,0\c\0c8cfc329a82357d63b1a278e4546b8d1fd19652

@@ -7,12 +7,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="07405ce8-cbd5-43fd-b903-16a731a448bb" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/LeetCode/src/Queue/P622_DesignCircularQueue.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/2/0/20df94f4c23c78c608627a0f117488e89c97e9b4" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/3/f/3f29cf5af4f0b0c36e2d033836394d4b40938167" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/7/8/7856e4ad12d42e91f59f7bf8b89948d9f384dff3" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/7/8/7856e4ad12d42e91f59f7bf8b89948d9f384dff3" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/9/e/9e6d7a7c645ed63b878505251b9cbd2872f086c2" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/a/e/ae1533188debed076fc4d19139f01f43f347b71c" beforeDir="false" />
+      <change afterPath="$PROJECT_DIR$/LeetCode/src/Queue/p641_DesignCircularDeque.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/7/6/76684d66b5051f4494c5c11ed090383aea014260" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/b/8/b8be2a919caa00fc742a9ee1964087aea06db8d1" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
@@ -186,7 +183,7 @@
       <command value="mvn clean" />
     </option>
   </component>
-  <component name="RunManager" selected="Application.P622_DesignCircularQueue">
+  <component name="RunManager" selected="Application.p641_DesignCircularDeque">
     <configuration name="P622_DesignCircularQueue" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Queue.P622_DesignCircularQueue" />
       <module name="LeetCode" />
@@ -239,8 +236,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="p933_NumberOfRecentCalls" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Queue.p933_NumberOfRecentCalls" />
+    <configuration name="p641_DesignCircularDeque" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Queue.p641_DesignCircularDeque" />
       <module name="LeetCode" />
       <extension name="coverage">
         <pattern>
@@ -673,24 +670,24 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.p933_NumberOfRecentCalls" />
       <item itemvalue="Application.o09_UsingTwoStacksToImplementQueues" />
       <item itemvalue="Application.o59_I_SlidingWindowMaximum" />
       <item itemvalue="Application.PolandNotation" />
+      <item itemvalue="Application.P622_DesignCircularQueue" />
       <item itemvalue="Tomcat Server.Redis" />
       <item itemvalue="Tomcat Server.Maven" />
       <item itemvalue="Tomcat Server.SpringMVC" />
       <item itemvalue="Tomcat Server.JavaWeb" />
       <item itemvalue="Tomcat Server.SSM" />
-      <item itemvalue="Application.P622_DesignCircularQueue" />
+      <item itemvalue="Application.p641_DesignCircularDeque" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.p641_DesignCircularDeque" />
         <item itemvalue="Application.P622_DesignCircularQueue" />
         <item itemvalue="Application.PolandNotation" />
         <item itemvalue="Application.o59_I_SlidingWindowMaximum" />
         <item itemvalue="Application.o09_UsingTwoStacksToImplementQueues" />
-        <item itemvalue="Application.p933_NumberOfRecentCalls" />
       </list>
     </recent_temporary>
   </component>
@@ -1008,21 +1005,8 @@
       <workItem from="1594029037959" duration="1726000" />
       <workItem from="1594037687475" duration="3353000" />
       <workItem from="1594112548370" duration="387000" />
-      <workItem from="1594131987259" duration="3804000" />
-    </task>
-    <task id="LOCAL-00078" summary="2020.06.04">
-      <created>1591235586646</created>
-      <option name="number" value="00078" />
-      <option name="presentableId" value="LOCAL-00078" />
-      <option name="project" value="LOCAL" />
-      <updated>1591235586647</updated>
-    </task>
-    <task id="LOCAL-00079" summary="2020.06.04">
-      <created>1591235920143</created>
-      <option name="number" value="00079" />
-      <option name="presentableId" value="LOCAL-00079" />
-      <option name="project" value="LOCAL" />
-      <updated>1591235920144</updated>
+      <workItem from="1594131987259" duration="3882000" />
+      <workItem from="1594202958605" duration="3099000" />
     </task>
     <task id="LOCAL-00080" summary="2020.06.04">
       <created>1591236111626</created>
@@ -1353,7 +1337,21 @@
       <option name="project" value="LOCAL" />
       <updated>1594042286000</updated>
     </task>
-    <option name="localTasksCounter" value="127" />
+    <task id="LOCAL-00127" summary="2020.07.07">
+      <created>1594136754158</created>
+      <option name="number" value="00127" />
+      <option name="presentableId" value="LOCAL-00127" />
+      <option name="project" value="LOCAL" />
+      <updated>1594136754159</updated>
+    </task>
+    <task id="LOCAL-00128" summary="2020.07.07">
+      <created>1594136774130</created>
+      <option name="number" value="00128" />
+      <option name="presentableId" value="LOCAL-00128" />
+      <option name="project" value="LOCAL" />
+      <updated>1594136774130</updated>
+    </task>
+    <option name="localTasksCounter" value="129" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -1363,7 +1361,6 @@
     <ignored-roots>
       <path value="$PROJECT_DIR$" />
     </ignored-roots>
-    <MESSAGE value="2020.06.02" />
     <MESSAGE value="2020.06.03" />
     <MESSAGE value="2020.06.04" />
     <MESSAGE value="2020.06.05" />
@@ -1388,7 +1385,8 @@
     <MESSAGE value="2020.07.03" />
     <MESSAGE value="2020.07.05" />
     <MESSAGE value="2020.07.06" />
-    <option name="LAST_COMMIT_MESSAGE" value="2020.07.06" />
+    <MESSAGE value="2020.07.07" />
+    <option name="LAST_COMMIT_MESSAGE" value="2020.07.07" />
   </component>
   <component name="WindowStateProjectService">
     <state x="7" y="64" key="#Inspections" timestamp="1590390414791">
@@ -1415,14 +1413,10 @@
       <screen x="0" y="0" width="1536" height="834" />
     </state>
     <state x="110" y="112" key="#com.intellij.ide.util.MemberChooser/0.0.1536.834@0.0.1536.834" timestamp="1591753093187" />
-    <state x="514" y="64" key="#com.intellij.j2ee.appServerIntegrations.ApplicationServersConfigurable" timestamp="1585552823332">
+    <state x="295" y="0" key="CommitChangelistDialog2" timestamp="1594136773439">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state x="514" y="64" key="#com.intellij.j2ee.appServerIntegrations.ApplicationServersConfigurable/0.0.1536.834@0.0.1536.834" timestamp="1585552823332" />
-    <state x="295" y="0" key="CommitChangelistDialog2" timestamp="1594136751707">
-      <screen x="0" y="0" width="1536" height="834" />
-    </state>
-    <state x="295" y="0" key="CommitChangelistDialog2/0.0.1536.834@0.0.1536.834" timestamp="1594136751707" />
+    <state x="295" y="0" key="CommitChangelistDialog2/0.0.1536.834@0.0.1536.834" timestamp="1594136773439" />
     <state x="93" y="93" width="1350" height="648" key="DiffContextDialog" timestamp="1586318346122">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
@@ -1447,22 +1441,22 @@
       <screen x="0" y="0" width="1536" height="834" />
     </state>
     <state x="361" y="76" key="GrepConsoleSettings/0.0.1536.834@0.0.1536.834" timestamp="1589370685097" />
-    <state width="1493" height="129" key="GridCell.Tab.0.bottom" timestamp="1594136736883">
+    <state width="1042" height="107" key="GridCell.Tab.0.bottom" timestamp="1594206502980">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state width="1493" height="129" key="GridCell.Tab.0.bottom/0.0.1536.834@0.0.1536.834" timestamp="1594136736883" />
-    <state width="1493" height="129" key="GridCell.Tab.0.center" timestamp="1594136736883">
+    <state width="1042" height="107" key="GridCell.Tab.0.bottom/0.0.1536.834@0.0.1536.834" timestamp="1594206502980" />
+    <state width="1042" height="107" key="GridCell.Tab.0.center" timestamp="1594206502980">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state width="1493" height="129" key="GridCell.Tab.0.center/0.0.1536.834@0.0.1536.834" timestamp="1594136736883" />
-    <state width="1493" height="129" key="GridCell.Tab.0.left" timestamp="1594136736883">
+    <state width="1042" height="107" key="GridCell.Tab.0.center/0.0.1536.834@0.0.1536.834" timestamp="1594206502980" />
+    <state width="1042" height="107" key="GridCell.Tab.0.left" timestamp="1594206502980">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state width="1493" height="129" key="GridCell.Tab.0.left/0.0.1536.834@0.0.1536.834" timestamp="1594136736883" />
-    <state width="1493" height="129" key="GridCell.Tab.0.right" timestamp="1594136736883">
+    <state width="1042" height="107" key="GridCell.Tab.0.left/0.0.1536.834@0.0.1536.834" timestamp="1594206502980" />
+    <state width="1042" height="107" key="GridCell.Tab.0.right" timestamp="1594206502980">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state width="1493" height="129" key="GridCell.Tab.0.right/0.0.1536.834@0.0.1536.834" timestamp="1594136736883" />
+    <state width="1042" height="107" key="GridCell.Tab.0.right/0.0.1536.834@0.0.1536.834" timestamp="1594206502980" />
     <state width="1493" height="295" key="GridCell.Tab.1.bottom" timestamp="1594136547695">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
@@ -1535,14 +1529,14 @@
       <screen x="0" y="0" width="1536" height="834" />
     </state>
     <state x="470" y="123" key="MultipleFileMergeDialog/0.0.1536.834@0.0.1536.834" timestamp="1586246163747" />
-    <state x="180" y="0" width="1016" height="834" key="SettingsEditor" timestamp="1594042305435">
+    <state x="180" y="0" width="1016" height="834" key="SettingsEditor" timestamp="1594136786753">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state x="180" y="0" width="1016" height="834" key="SettingsEditor/0.0.1536.834@0.0.1536.834" timestamp="1594042305435" />
-    <state x="361" y="146" key="Vcs.Push.Dialog.v2" timestamp="1594136761268">
+    <state x="180" y="0" width="1016" height="834" key="SettingsEditor/0.0.1536.834@0.0.1536.834" timestamp="1594136786753" />
+    <state x="361" y="146" key="Vcs.Push.Dialog.v2" timestamp="1594136789866">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state x="361" y="146" key="Vcs.Push.Dialog.v2/0.0.1536.834@0.0.1536.834" timestamp="1594136761268" />
+    <state x="361" y="146" key="Vcs.Push.Dialog.v2/0.0.1536.834@0.0.1536.834" timestamp="1594136789866" />
     <state x="255" y="279" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD" timestamp="1589370309388">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
@@ -1567,10 +1561,10 @@
       <screen x="0" y="0" width="1536" height="834" />
     </state>
     <state x="426" y="190" width="672" height="677" key="run.anything.popup/0.0.1536.834@0.0.1536.834" timestamp="1593043129830" />
-    <state x="346" y="154" width="672" height="678" key="search.everywhere.popup" timestamp="1594134808953">
+    <state x="346" y="154" width="672" height="678" key="search.everywhere.popup" timestamp="1594204667321">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state x="346" y="154" width="672" height="678" key="search.everywhere.popup/0.0.1536.834@0.0.1536.834" timestamp="1594134808953" />
+    <state x="346" y="154" width="672" height="678" key="search.everywhere.popup/0.0.1536.834@0.0.1536.834" timestamp="1594204667321" />
     <state x="544" y="317" key="svn.passwordDialog" timestamp="1586243074226">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
