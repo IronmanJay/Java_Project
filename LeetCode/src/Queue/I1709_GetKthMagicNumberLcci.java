@@ -17,7 +17,7 @@ public class I1709_GetKthMagicNumberLcci {
         int p5 = 0;
         int p7 = 0;
         for (int i = 1; i < k; i++) {
-            // 某一个满足结果的数，一定是之前的某个res[p3]*3 或者是res[p5]*5 或者是res[p7]*7 的结果，并且结果一定是这三个乘积的最小值
+            // 某一个满足结果的数，一定是之前的某个res[p3]*3，或者是res[p5]*5，或者是res[p7]*7的结果，并且结果一定是这三个乘积的最小值
             int temp = Math.min(Math.min(res[p3] * 3, res[p5] * 5), res[p7] * 7);
             // p3，p5，p7是不断变化的，并且都应该是由小到大，谁被选中，就应该取下一个值
             if (temp % 3 == 0) {

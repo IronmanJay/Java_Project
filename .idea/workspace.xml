@@ -7,7 +7,6 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="07405ce8-cbd5-43fd-b903-16a731a448bb" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/LeetCode/src/Queue/I1709_GetKthMagicNumberLcci.java" beforeDir="false" afterPath="$PROJECT_DIR$/LeetCode/src/Queue/I1709_GetKthMagicNumberLcci.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -1007,14 +1006,7 @@
       <workItem from="1594255435292" duration="973000" />
       <workItem from="1594258738452" duration="61000" />
       <workItem from="1594290007394" duration="181000" />
-      <workItem from="1594426432294" duration="1302000" />
-    </task>
-    <task id="LOCAL-00082" summary="2020.06.05">
-      <created>1591325511470</created>
-      <option name="number" value="00082" />
-      <option name="presentableId" value="LOCAL-00082" />
-      <option name="project" value="LOCAL" />
-      <updated>1591325511470</updated>
+      <workItem from="1594426432294" duration="1556000" />
     </task>
     <task id="LOCAL-00083" summary="2020.06.08">
       <created>1591541369502</created>
@@ -1352,7 +1344,14 @@
       <option name="project" value="LOCAL" />
       <updated>1594429126685</updated>
     </task>
-    <option name="localTasksCounter" value="131" />
+    <task id="LOCAL-00131" summary="2020.07.11">
+      <created>1594429230158</created>
+      <option name="number" value="00131" />
+      <option name="presentableId" value="LOCAL-00131" />
+      <option name="project" value="LOCAL" />
+      <updated>1594429230159</updated>
+    </task>
+    <option name="localTasksCounter" value="132" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -1414,10 +1413,10 @@
       <screen x="0" y="0" width="1536" height="834" />
     </state>
     <state x="110" y="112" key="#com.intellij.ide.util.MemberChooser/0.0.1536.834@0.0.1536.834" timestamp="1591753093187" />
-    <state x="295" y="0" key="CommitChangelistDialog2" timestamp="1594429124480">
+    <state x="295" y="0" key="CommitChangelistDialog2" timestamp="1594429228973">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state x="295" y="0" key="CommitChangelistDialog2/0.0.1536.834@0.0.1536.834" timestamp="1594429124480" />
+    <state x="295" y="0" key="CommitChangelistDialog2/0.0.1536.834@0.0.1536.834" timestamp="1594429228973" />
     <state x="93" y="93" width="1350" height="648" key="DiffContextDialog" timestamp="1586318346122">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
@@ -1534,10 +1533,10 @@
       <screen x="0" y="0" width="1536" height="834" />
     </state>
     <state x="180" y="0" width="1016" height="834" key="SettingsEditor/0.0.1536.834@0.0.1536.834" timestamp="1594429146799" />
-    <state x="361" y="146" key="Vcs.Push.Dialog.v2" timestamp="1594429151137">
+    <state x="361" y="146" key="Vcs.Push.Dialog.v2" timestamp="1594429241587">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state x="361" y="146" key="Vcs.Push.Dialog.v2/0.0.1536.834@0.0.1536.834" timestamp="1594429151137" />
+    <state x="361" y="146" key="Vcs.Push.Dialog.v2/0.0.1536.834@0.0.1536.834" timestamp="1594429241587" />
     <state x="255" y="279" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD" timestamp="1589370309388">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
