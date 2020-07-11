@@ -7,9 +7,13 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="07405ce8-cbd5-43fd-b903-16a731a448bb" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/LeetCode/src/Queue/p641_DesignCircularDeque.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/7/6/76684d66b5051f4494c5c11ed090383aea014260" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/b/8/b8be2a919caa00fc742a9ee1964087aea06db8d1" beforeDir="false" />
+      <change afterPath="$PROJECT_DIR$/LeetCode/src/Queue/I1709_GetKthMagicNumberLcci.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/3/9/39513b942f5a9b3b032b86b8f928396bc88aec53" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/3/b/3b6c32143f9150102603e6e2c71757d2f79c542e" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/6/e/6e71b4d5cbffb3fc5bf27be1b60dceff81a1bdff" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/9/6/9601ef81a983b09ea9a4c06aea302b18bb075281" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/9/8/98d54e4bdc15f0015993fa0b983e4ee48e439b43" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/b/a/ba464c80d5177116f074888685f3258222db290f" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
@@ -183,7 +187,20 @@
       <command value="mvn clean" />
     </option>
   </component>
-  <component name="RunManager" selected="Application.p641_DesignCircularDeque">
+  <component name="RunManager" selected="Application.I1709_GetKthMagicNumberLcci">
+    <configuration name="I1709_GetKthMagicNumberLcci" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Queue.I1709_GetKthMagicNumberLcci" />
+      <module name="LeetCode" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Queue.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="P622_DesignCircularQueue" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Queue.P622_DesignCircularQueue" />
       <module name="LeetCode" />
@@ -200,19 +217,6 @@
     <configuration name="PolandNotation" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Stack.PolandNotation" />
       <module name="DataStructures" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Stack.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="o09_UsingTwoStacksToImplementQueues" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Stack.o09_UsingTwoStacksToImplementQueues" />
-      <module name="LeetCode" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="Stack.*" />
@@ -670,24 +674,24 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.o09_UsingTwoStacksToImplementQueues" />
       <item itemvalue="Application.o59_I_SlidingWindowMaximum" />
       <item itemvalue="Application.PolandNotation" />
       <item itemvalue="Application.P622_DesignCircularQueue" />
+      <item itemvalue="Application.p641_DesignCircularDeque" />
       <item itemvalue="Tomcat Server.Redis" />
       <item itemvalue="Tomcat Server.Maven" />
       <item itemvalue="Tomcat Server.SpringMVC" />
       <item itemvalue="Tomcat Server.JavaWeb" />
       <item itemvalue="Tomcat Server.SSM" />
-      <item itemvalue="Application.p641_DesignCircularDeque" />
+      <item itemvalue="Application.I1709_GetKthMagicNumberLcci" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.I1709_GetKthMagicNumberLcci" />
         <item itemvalue="Application.p641_DesignCircularDeque" />
         <item itemvalue="Application.P622_DesignCircularQueue" />
         <item itemvalue="Application.PolandNotation" />
         <item itemvalue="Application.o59_I_SlidingWindowMaximum" />
-        <item itemvalue="Application.o09_UsingTwoStacksToImplementQueues" />
       </list>
     </recent_temporary>
   </component>
@@ -1006,14 +1010,11 @@
       <workItem from="1594037687475" duration="3353000" />
       <workItem from="1594112548370" duration="387000" />
       <workItem from="1594131987259" duration="3882000" />
-      <workItem from="1594202958605" duration="3099000" />
-    </task>
-    <task id="LOCAL-00080" summary="2020.06.04">
-      <created>1591236111626</created>
-      <option name="number" value="00080" />
-      <option name="presentableId" value="LOCAL-00080" />
-      <option name="project" value="LOCAL" />
-      <updated>1591236111627</updated>
+      <workItem from="1594202958605" duration="3296000" />
+      <workItem from="1594255435292" duration="973000" />
+      <workItem from="1594258738452" duration="61000" />
+      <workItem from="1594290007394" duration="181000" />
+      <workItem from="1594426432294" duration="1065000" />
     </task>
     <task id="LOCAL-00081" summary="2020.06.05">
       <created>1591324824644</created>
@@ -1351,7 +1352,14 @@
       <option name="project" value="LOCAL" />
       <updated>1594136774130</updated>
     </task>
-    <option name="localTasksCounter" value="129" />
+    <task id="LOCAL-00129" summary="2020.07.08">
+      <created>1594206516833</created>
+      <option name="number" value="00129" />
+      <option name="presentableId" value="LOCAL-00129" />
+      <option name="project" value="LOCAL" />
+      <updated>1594206516834</updated>
+    </task>
+    <option name="localTasksCounter" value="130" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -1361,7 +1369,6 @@
     <ignored-roots>
       <path value="$PROJECT_DIR$" />
     </ignored-roots>
-    <MESSAGE value="2020.06.03" />
     <MESSAGE value="2020.06.04" />
     <MESSAGE value="2020.06.05" />
     <MESSAGE value="2020.06.08" />
@@ -1386,7 +1393,8 @@
     <MESSAGE value="2020.07.05" />
     <MESSAGE value="2020.07.06" />
     <MESSAGE value="2020.07.07" />
-    <option name="LAST_COMMIT_MESSAGE" value="2020.07.07" />
+    <MESSAGE value="2020.07.08" />
+    <option name="LAST_COMMIT_MESSAGE" value="2020.07.08" />
   </component>
   <component name="WindowStateProjectService">
     <state x="7" y="64" key="#Inspections" timestamp="1590390414791">
@@ -1413,18 +1421,18 @@
       <screen x="0" y="0" width="1536" height="834" />
     </state>
     <state x="110" y="112" key="#com.intellij.ide.util.MemberChooser/0.0.1536.834@0.0.1536.834" timestamp="1591753093187" />
-    <state x="295" y="0" key="CommitChangelistDialog2" timestamp="1594136773439">
+    <state x="295" y="0" key="CommitChangelistDialog2" timestamp="1594206514658">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state x="295" y="0" key="CommitChangelistDialog2/0.0.1536.834@0.0.1536.834" timestamp="1594136773439" />
+    <state x="295" y="0" key="CommitChangelistDialog2/0.0.1536.834@0.0.1536.834" timestamp="1594206514658" />
     <state x="93" y="93" width="1350" height="648" key="DiffContextDialog" timestamp="1586318346122">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
     <state x="93" y="93" width="1350" height="648" key="DiffContextDialog/0.0.1536.834@0.0.1536.834" timestamp="1586318346122" />
-    <state x="121" y="170" key="FileChooserDialogImpl" timestamp="1590041984615">
+    <state x="121" y="170" key="FileChooserDialogImpl" timestamp="1594255819988">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state x="121" y="170" key="FileChooserDialogImpl/0.0.1536.834@0.0.1536.834" timestamp="1590041984615" />
+    <state x="121" y="170" key="FileChooserDialogImpl/0.0.1536.834@0.0.1536.834" timestamp="1594255819988" />
     <state x="493" y="324" width="394" height="192" key="Github.CreateGistDialog" timestamp="1586242627937">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
@@ -1441,22 +1449,22 @@
       <screen x="0" y="0" width="1536" height="834" />
     </state>
     <state x="361" y="76" key="GrepConsoleSettings/0.0.1536.834@0.0.1536.834" timestamp="1589370685097" />
-    <state width="1042" height="107" key="GridCell.Tab.0.bottom" timestamp="1594206502980">
+    <state width="1493" height="134" key="GridCell.Tab.0.bottom" timestamp="1594429108662">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state width="1042" height="107" key="GridCell.Tab.0.bottom/0.0.1536.834@0.0.1536.834" timestamp="1594206502980" />
-    <state width="1042" height="107" key="GridCell.Tab.0.center" timestamp="1594206502980">
+    <state width="1493" height="134" key="GridCell.Tab.0.bottom/0.0.1536.834@0.0.1536.834" timestamp="1594429108662" />
+    <state width="1493" height="134" key="GridCell.Tab.0.center" timestamp="1594429108662">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state width="1042" height="107" key="GridCell.Tab.0.center/0.0.1536.834@0.0.1536.834" timestamp="1594206502980" />
-    <state width="1042" height="107" key="GridCell.Tab.0.left" timestamp="1594206502980">
+    <state width="1493" height="134" key="GridCell.Tab.0.center/0.0.1536.834@0.0.1536.834" timestamp="1594429108662" />
+    <state width="1493" height="134" key="GridCell.Tab.0.left" timestamp="1594429108661">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state width="1042" height="107" key="GridCell.Tab.0.left/0.0.1536.834@0.0.1536.834" timestamp="1594206502980" />
-    <state width="1042" height="107" key="GridCell.Tab.0.right" timestamp="1594206502980">
+    <state width="1493" height="134" key="GridCell.Tab.0.left/0.0.1536.834@0.0.1536.834" timestamp="1594429108661" />
+    <state width="1493" height="134" key="GridCell.Tab.0.right" timestamp="1594429108662">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state width="1042" height="107" key="GridCell.Tab.0.right/0.0.1536.834@0.0.1536.834" timestamp="1594206502980" />
+    <state width="1493" height="134" key="GridCell.Tab.0.right/0.0.1536.834@0.0.1536.834" timestamp="1594429108662" />
     <state width="1493" height="295" key="GridCell.Tab.1.bottom" timestamp="1594136547695">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
@@ -1529,14 +1537,14 @@
       <screen x="0" y="0" width="1536" height="834" />
     </state>
     <state x="470" y="123" key="MultipleFileMergeDialog/0.0.1536.834@0.0.1536.834" timestamp="1586246163747" />
-    <state x="180" y="0" width="1016" height="834" key="SettingsEditor" timestamp="1594136786753">
+    <state x="180" y="0" width="1016" height="834" key="SettingsEditor" timestamp="1594206533650">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state x="180" y="0" width="1016" height="834" key="SettingsEditor/0.0.1536.834@0.0.1536.834" timestamp="1594136786753" />
-    <state x="361" y="146" key="Vcs.Push.Dialog.v2" timestamp="1594136789866">
+    <state x="180" y="0" width="1016" height="834" key="SettingsEditor/0.0.1536.834@0.0.1536.834" timestamp="1594206533650" />
+    <state x="361" y="146" key="Vcs.Push.Dialog.v2" timestamp="1594206538379">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state x="361" y="146" key="Vcs.Push.Dialog.v2/0.0.1536.834@0.0.1536.834" timestamp="1594136789866" />
+    <state x="361" y="146" key="Vcs.Push.Dialog.v2/0.0.1536.834@0.0.1536.834" timestamp="1594206538379" />
     <state x="255" y="279" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD" timestamp="1589370309388">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
@@ -1561,10 +1569,10 @@
       <screen x="0" y="0" width="1536" height="834" />
     </state>
     <state x="426" y="190" width="672" height="677" key="run.anything.popup/0.0.1536.834@0.0.1536.834" timestamp="1593043129830" />
-    <state x="346" y="154" width="672" height="678" key="search.everywhere.popup" timestamp="1594204667321">
+    <state x="346" y="154" width="672" height="678" key="search.everywhere.popup" timestamp="1594428811889">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state x="346" y="154" width="672" height="678" key="search.everywhere.popup/0.0.1536.834@0.0.1536.834" timestamp="1594204667321" />
+    <state x="346" y="154" width="672" height="678" key="search.everywhere.popup/0.0.1536.834@0.0.1536.834" timestamp="1594428811889" />
     <state x="544" y="317" key="svn.passwordDialog" timestamp="1586243074226">
       <screen x="0" y="0" width="1536" height="834" />
     </state>

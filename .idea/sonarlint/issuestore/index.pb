@@ -3397,8 +3397,6 @@ G.idea/sonarlint/issuestore/b/5/b5fd63c31844b024881a5e1a6e8b002d30752087,0\c\0c
 w
 G.idea/sonarlint/issuestore/b/7/b7f72355c01171ddb380622158a5754ea13d0629,2\3\231cb115b50baaeb701c6cd40fb3cbc638739598
 w
-G.idea/sonarlint/issuestore/b/8/b8be2a919caa00fc742a9ee1964087aea06db8d1,6\e\6e71b4d5cbffb3fc5bf27be1b60dceff81a1bdff
-w
 G.idea/sonarlint/issuestore/b/8/b8d3200b6fa32d01b99d2913050f0a20ce04f248,4\a\4a90cd70fb76e88cb8956b51f71a3438c8f1fd22
 w
 G.idea/sonarlint/issuestore/b/9/b90038b95c24d1b9b34bf855f2daa59e373fd8c1,c\8\c850151fca5b1e5ab0f48399017da09d3a17de4d
@@ -3616,8 +3614,6 @@ w
 G.idea/sonarlint/issuestore/6/a/6a33aa47fc9d4341ebdb8aa6d7080195810bb55f,d\f\df6e3c8f008d131102d4d6f37a4561b3b243bb8c
 w
 G.idea/sonarlint/issuestore/6/c/6c1b48cc44cebaa231f5f990a86bd8824f1f8cd0,b\5\b504d9f3eb9b6559d30be29ee4149ceb791e97d8
-w
-G.idea/sonarlint/issuestore/6/e/6e71b4d5cbffb3fc5bf27be1b60dceff81a1bdff,9\8\98d54e4bdc15f0015993fa0b983e4ee48e439b43
 w
 G.idea/sonarlint/issuestore/6/e/6ec7bd92ec83f79711e9c99e31fe57c953087fed,5\0\5046b3424767de7be0976dd6c527ef60f0546ad3
 w
@@ -3981,8 +3977,6 @@ G.idea/sonarlint/issuestore/8/f/8fb46b01efdb8ef74b53fe4d44e90fd0cc710efc,5\3\53
 w
 G.idea/sonarlint/issuestore/9/3/93e1371158b84b15f9e8a167ed28dfabaf7a8adb,4\f\4fc85bc342e2e93db69a4c7bdd6592c7fd694ebd
 w
-G.idea/sonarlint/issuestore/9/8/98d54e4bdc15f0015993fa0b983e4ee48e439b43,b\a\ba464c80d5177116f074888685f3258222db290f
-w
 G.idea/sonarlint/issuestore/9/8/980b3b0ffedfdc69bb9420b280c235dc6b4f2bf5,b\3\b3c3f13d21382b463bc22c111e999bee9842e865
 w
 G.idea/sonarlint/issuestore/9/8/9858b7c6b3fd17dd000a3d21119dfd96adb2966a,d\d\ddaecb8f1bef5360c6e7664946ffc976a54e106f
@@ -4302,8 +4296,6 @@ w
 G.idea/sonarlint/issuestore/b/4/b4fddfb3922e405d1c2a019fd112cb615446f817,7\4\74ddb0e2f0d7e98773aeec17c56703b52aee394c
 w
 G.idea/sonarlint/issuestore/b/8/b8e042fd60ecaa5cb508e234544166ada8308ef0,8\f\8f21a17f237b203b13e5f3960a1f8f7731e376cb
-w
-G.idea/sonarlint/issuestore/b/a/ba464c80d5177116f074888685f3258222db290f,9\6\9601ef81a983b09ea9a4c06aea302b18bb075281
 w
 G.idea/sonarlint/issuestore/b/a/baa872084e3fbf063d560e3171ded3548e3b0154,9\3\931c48afd46bb61521e62b999f995acdff5b9939
 w
@@ -7803,8 +7795,6 @@ G.idea/sonarlint/issuestore/7/4/749ca6c3053cccfa5590ea701e1d1cd7cd91d4a8,f\a\fa
 w
 G.idea/sonarlint/issuestore/7/5/75529187416da7a396bb7b2c4d1830f3bff5260b,f\e\fe02369528411bdd8d6918856b2c4bd2f37180be
 w
-G.idea/sonarlint/issuestore/7/6/76684d66b5051f4494c5c11ed090383aea014260,3\9\39513b942f5a9b3b032b86b8f928396bc88aec53
-w
 G.idea/sonarlint/issuestore/7/9/79a4c05fd5ca21fbc048b0359e04355a59530e40,b\8\b82a25c9d150d47187d3b8b4fd2f6f06f6db20c2
 w
 G.idea/sonarlint/issuestore/7/9/79d7de46a3515059d0c21d60efd43fcf2fec4b72,5\d\5d8ec18d2f19f656656779f696655ea13a2b0a07
@@ -8090,8 +8080,6 @@ w
 G.idea/sonarlint/issuestore/3/5/35b7c22f2c90ec7184a873dbae13fe7e35b2c31f,e\7\e74006f18c08bd218559ff2ab9f1650c4e1c771d
 w
 G.idea/sonarlint/issuestore/3/5/35c35cedf5077217e77fc988c8552218fd35c708,9\7\97cbd2c071c38bee542effa54db3ffd03a4d1bc1
-w
-G.idea/sonarlint/issuestore/3/9/39513b942f5a9b3b032b86b8f928396bc88aec53,3\b\3b6c32143f9150102603e6e2c71757d2f79c542e
 w
 G.idea/sonarlint/issuestore/3/a/3a09fe9296b85f3645e91c37cccef16971872d0b,0\b\0bf2197d8964353bab57bf077cbf22bcadc8b3b6
 w
@@ -8440,8 +8428,6 @@ w
 G.idea/sonarlint/issuestore/3/a/3a577a67d401e37d59bbfa855921e3c7ebf5c4e9,5\e\5e511e1e0e6910472714bac7e7385232faf10955
 w
 G.idea/sonarlint/issuestore/3/a/3a847bc50bb783c1c848cc8af59709a1f0f82326,f\7\f7f610a4ef194b170dc255fc2027b5c974e2987c
-w
-G.idea/sonarlint/issuestore/3/b/3b6c32143f9150102603e6e2c71757d2f79c542e,6\f\6f546f0726f30e1c83b59fa62851d3183bc11f0e
 w
 G.idea/sonarlint/issuestore/3/c/3c2748f07d8fc0834740fae6081aa891c15c9c75,f\d\fdc9e90d4e5966780acb265c47c4fb9d590327da
 w
@@ -8810,3 +8796,5 @@ b
 2LeetCode/src/Queue/o59_I_SlidingWindowMaximum.java,1\c\1cd36b50a08fe5ad18442d6d19c7fbf72dc12e29
 `
 0LeetCode/src/Queue/P622_DesignCircularQueue.java,0\c\0c8cfc329a82357d63b1a278e4546b8d1fd19652
+`
+0LeetCode/src/Queue/p641_DesignCircularDeque.java,4\f\4fc7d5143d9c42ea69e2a3ddb46195ac983daa9b
