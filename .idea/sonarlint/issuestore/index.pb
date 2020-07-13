@@ -4545,8 +4545,6 @@ G.idea/sonarlint/issuestore/9/3/931c48afd46bb61521e62b999f995acdff5b9939,6\1\61
 w
 G.idea/sonarlint/issuestore/9/5/95e2499ba5ffbb7501b8d8a5e8227f3c43d45cdd,6\4\64face6b5e2116ab834fefacf2984c47c843443a
 w
-G.idea/sonarlint/issuestore/9/6/9601ef81a983b09ea9a4c06aea302b18bb075281,c\c\cc25b46cec8c1a90480dc451456e14d3073652b1
-w
 G.idea/sonarlint/issuestore/9/9/99044c0e240324a9e32005ec66a6630eca6a7888,b\f\bf69975d0b215b8bca76b4f45a985884fb0f7299
 w
 G.idea/sonarlint/issuestore/9/c/9c91e263c167677a6c32945d71230f0ac8e2779f,b\3\b34a9951da3314aaf23c1ffde5197fa6f12c16a4
@@ -8798,3 +8796,5 @@ b
 0LeetCode/src/Queue/P622_DesignCircularQueue.java,0\c\0c8cfc329a82357d63b1a278e4546b8d1fd19652
 `
 0LeetCode/src/Queue/p641_DesignCircularDeque.java,4\f\4fc7d5143d9c42ea69e2a3ddb46195ac983daa9b
+c
+3LeetCode/src/Queue/I1709_GetKthMagicNumberLcci.java,4\b\4b143ec6c43dfe840ff1fe183028818e00ceb58c
