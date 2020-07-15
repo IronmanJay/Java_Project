@@ -5549,8 +5549,6 @@ G.idea/sonarlint/issuestore/a/c/acaf3af4a7018f5cab5e0dcae62ac3eec96cccd0,7\3\73
 w
 G.idea/sonarlint/issuestore/a/e/ae1dc519c423f290b55f140973d0991b79c812b0,5\7\57e0e9d032e21b213498a3d51261ebd8bffef728
 w
-G.idea/sonarlint/issuestore/b/2/b2f2016ee394d36dc926b4212875fd6e082b8c13,f\8\f87d9799fe8f0c9ba2a2ea1247ff98d57d6cb490
-w
 G.idea/sonarlint/issuestore/b/3/b3d39ab4621e74cf4bd0463dcaea24b508079fa1,f\2\f24aa244e1f1b4a45f09cc49abea1c8903e1a11c
 w
 G.idea/sonarlint/issuestore/b/4/b4e257ff8e3626dcafa12ef94188ad3dcfe4af54,0\b\0b90578b5bcff674db207637866e5a14fa91e226
@@ -8800,3 +8798,5 @@ c
 3LeetCode/src/DFS/p111_MinimumDepthOfBinaryTree.java,0\e\0e77fe666c0014ed953461e4d1380f589fdf2d00
 9
 	README.md,8\e\8ec9a00bfd09b3190ac6b22251dbb1aa95a0579d
+h
+8LeetCode/src/DFS/p515_FindLargestValueInEachTreeRow.java,e\d\ed275d3ce14276ab05a90f61ec45e2f5116ebced
