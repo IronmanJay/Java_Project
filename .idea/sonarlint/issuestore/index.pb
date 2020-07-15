@@ -5301,8 +5301,6 @@ G.idea/sonarlint/issuestore/f/3/f3c418ddf70725f655f807738d48ae39ed0dff36,9\b\9b
 w
 G.idea/sonarlint/issuestore/f/3/f35fecd80d5affb7ed30d5358bc2d8d4a09a96aa,8\7\87b223dfc6ecfc8da622193295e20cc501ed7ea1
 w
-G.idea/sonarlint/issuestore/f/6/f65f0534e070c57eb1efa59c51155dd9ecfdb08a,b\2\b2f2016ee394d36dc926b4212875fd6e082b8c13
-w
 G.idea/sonarlint/issuestore/f/7/f701fde3ea1f705053f3b0b1af42b99f8ee6f564,b\f\bf545606b1c05cb63e55c9d9b8d17205e860755d
 w
 G.idea/sonarlint/issuestore/f/8/f83af308cc3b8d1b619b6014d86707e4f7bb1101,9\4\94223bc816d353f831c97019102aecf70b688ecc
@@ -8798,3 +8796,7 @@ c
 3LeetCode/src/Queue/I1709_GetKthMagicNumberLcci.java,4\b\4b143ec6c43dfe840ff1fe183028818e00ceb58c
 S
 #LeetCode/src/DFS/p100_SameTree.java,8\c\8c2c9fc721ede462a48887228e04e09e341c9972
+c
+3LeetCode/src/DFS/p111_MinimumDepthOfBinaryTree.java,0\e\0e77fe666c0014ed953461e4d1380f589fdf2d00
+9
+	README.md,8\e\8ec9a00bfd09b3190ac6b22251dbb1aa95a0579d
