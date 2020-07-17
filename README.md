@@ -6,4 +6,3 @@
 5、Spring、SpringMVC、Mybatis  
 6、Redis  
 7、Maven  
-8、LeetCode在做的每一道题，LeetCode相关代码每日持续更新中......  
