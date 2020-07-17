@@ -5953,8 +5953,6 @@ G.idea/sonarlint/issuestore/f/5/f5e3757dcb03f228241739de66b222b0d170fbc3,1\9\19
 w
 G.idea/sonarlint/issuestore/f/6/f60cd5eaebfbb5718cf6883dccec07c12875ce03,4\b\4b213627e151b023b900473e9b46feafd01129b8
 w
-G.idea/sonarlint/issuestore/f/8/f87d9799fe8f0c9ba2a2ea1247ff98d57d6cb490,c\2\c2720a707e9fc29a684fd651895998019824e905
-w
 G.idea/sonarlint/issuestore/f/9/f9fe97d52700c5e85ca0e928f2586dae8e181822,7\c\7cc604126b25c6617a85870dce33979699f040f8
 w
 G.idea/sonarlint/issuestore/f/a/fa53ae78046599b70f1c9ebad8e2d9a735c963c3,f\7\f787fec38e885697c0bc4bff7cb814238ff08291
@@ -6228,8 +6226,6 @@ w
 G.idea/sonarlint/issuestore/b/f/bf1b19edfb344bf5d3b01b76eb821de1daade2e0,0\5\05cc878fd9c8d44fc2cf17be6b6f5ca96a5c8fff
 w
 G.idea/sonarlint/issuestore/c/0/c04cd54a6d485fc2d13a75eed0ea6985443bd70a,2\d\2d358afc0710ea45c59d0152df8e6559d8b0514d
-w
-G.idea/sonarlint/issuestore/c/2/c2720a707e9fc29a684fd651895998019824e905,c\9\c971429edc1df1bf24a12a5c15312a12c9d529dd
 w
 G.idea/sonarlint/issuestore/c/3/c3abac18e1c51cce5d265d01a8a5a6b5ce9c1730,7\5\75fd7aa678dc0c46f87f1bcbc206233dab93c3fc
 w
@@ -6552,8 +6548,6 @@ w
 G.idea/sonarlint/issuestore/c/9/c9b4451fa95516caf9e35d2dccb1c78c677512cc,4\6\465da3ca6061695bb3357e90ce2f4bce6186e938
 w
 G.idea/sonarlint/issuestore/c/9/c932c86aa14e0ed3d344ec745ea91573cfcb7a7c,9\c\9c3c221c7d56e595a306050f1ce90c3bc6b02f43
-w
-G.idea/sonarlint/issuestore/c/9/c971429edc1df1bf24a12a5c15312a12c9d529dd,4\b\4bedc0e5daab39ec480bf2a81a947b7e28f174b2
 w
 G.idea/sonarlint/issuestore/c/a/cac3a24e4a8bb9008ce3960eb614e9c89ff0ba49,7\2\72fa41ff96564d92a8b7668d3589317a8186ed11
 w
@@ -8800,3 +8794,7 @@ c
 	README.md,8\e\8ec9a00bfd09b3190ac6b22251dbb1aa95a0579d
 h
 8LeetCode/src/DFS/p515_FindLargestValueInEachTreeRow.java,e\d\ed275d3ce14276ab05a90f61ec45e2f5116ebced
+Y
+)LeetCode/src/DFS/I0406_SuccessorLcci.java,7\9\797fc18f070a31b82bb8d9773ecf7f72f5d3b764
+m
+=LeetCode/src/DFS/p1028_RecoverATreeFromPreorderTraversal.java,4\5\45a4b23c1d1352d451b9f5b8a6e0def576a15be8
