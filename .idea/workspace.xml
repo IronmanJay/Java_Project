@@ -974,21 +974,7 @@
       <workItem from="1599061274335" duration="30000" />
       <workItem from="1599061493146" duration="90000" />
       <workItem from="1599187258628" duration="2980000" />
-      <workItem from="1599190356009" duration="201000" />
-    </task>
-    <task id="LOCAL-00093" summary="2020.06.13">
-      <created>1592147730794</created>
-      <option name="number" value="00093" />
-      <option name="presentableId" value="LOCAL-00093" />
-      <option name="project" value="LOCAL" />
-      <updated>1592147730794</updated>
-    </task>
-    <task id="LOCAL-00094" summary="2020.06.14">
-      <created>1592235190670</created>
-      <option name="number" value="00094" />
-      <option name="presentableId" value="LOCAL-00094" />
-      <option name="project" value="LOCAL" />
-      <updated>1592235190671</updated>
+      <workItem from="1599190356009" duration="236000" />
     </task>
     <task id="LOCAL-00095" summary="2020.06.14">
       <created>1592321626411</created>
@@ -1319,7 +1305,21 @@
       <option name="project" value="LOCAL" />
       <updated>1599190537251</updated>
     </task>
-    <option name="localTasksCounter" value="142" />
+    <task id="LOCAL-00142" summary="2020.09.05">
+      <created>1599190562373</created>
+      <option name="number" value="00142" />
+      <option name="presentableId" value="LOCAL-00142" />
+      <option name="project" value="LOCAL" />
+      <updated>1599190562373</updated>
+    </task>
+    <task id="LOCAL-00143" summary="2020.09.05">
+      <created>1599190572769</created>
+      <option name="number" value="00143" />
+      <option name="presentableId" value="LOCAL-00143" />
+      <option name="project" value="LOCAL" />
+      <updated>1599190572769</updated>
+    </task>
+    <option name="localTasksCounter" value="144" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -1374,10 +1374,10 @@
       <screen x="0" y="0" width="1536" height="834" />
     </state>
     <state x="110" y="112" key="#com.intellij.ide.util.MemberChooser/0.0.1536.834@0.0.1536.834" timestamp="1591753093187" />
-    <state x="295" y="0" key="CommitChangelistDialog2" timestamp="1599190566257">
+    <state x="295" y="0" key="CommitChangelistDialog2" timestamp="1599190576444">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state x="295" y="0" key="CommitChangelistDialog2/0.0.1536.834@0.0.1536.834" timestamp="1599190566257" />
+    <state x="295" y="0" key="CommitChangelistDialog2/0.0.1536.834@0.0.1536.834" timestamp="1599190576444" />
     <state x="322" y="167" key="FileChooserDialogImpl" timestamp="1599188042819">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
@@ -1418,14 +1418,14 @@
       <screen x="0" y="0" width="1536" height="834" />
     </state>
     <state x="349" y="72" key="Registry/0.0.1536.834@0.0.1536.834" timestamp="1599188893378" />
-    <state x="176" y="0" width="1016" height="834" key="SettingsEditor" timestamp="1599190558364">
+    <state x="176" y="0" width="1016" height="834" key="SettingsEditor" timestamp="1599190593521">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state x="176" y="0" width="1016" height="834" key="SettingsEditor/0.0.1536.834@0.0.1536.834" timestamp="1599190558364" />
-    <state x="361" y="146" key="Vcs.Push.Dialog.v2" timestamp="1595000152331">
+    <state x="176" y="0" width="1016" height="834" key="SettingsEditor/0.0.1536.834@0.0.1536.834" timestamp="1599190593521" />
+    <state x="361" y="146" key="Vcs.Push.Dialog.v2" timestamp="1599190596721">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state x="361" y="146" key="Vcs.Push.Dialog.v2/0.0.1536.834@0.0.1536.834" timestamp="1595000152331" />
+    <state x="361" y="146" key="Vcs.Push.Dialog.v2/0.0.1536.834@0.0.1536.834" timestamp="1599190596721" />
     <state x="561" y="329" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1594136769839">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
