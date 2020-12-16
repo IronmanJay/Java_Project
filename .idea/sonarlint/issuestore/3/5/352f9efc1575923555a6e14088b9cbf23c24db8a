@@ -1,66 +1,30 @@
 
-`
-java:S3752)">Add a "method" parameter to this "@RequestMapping" annotation.(É¯°ñşÿÿÿÿ8ÔÏ½Öœ.
-[
-java:S3752×">Add a "method" parameter to this "@RequestMapping" annotation.(ÖË¿_8ÔÏ½Öœ.
-e
-java:S4488f"HReplace "@RequestMapping(method = RequestMethod.GET)" with "@GetMapping"(‹©¹Ã8ÔÏ½Öœ.
-f
-java:S4488Š"HReplace "@RequestMapping(method = RequestMethod.GET)" with "@GetMapping"(®¶‹8ÔÏ½Öœ.
-a
-java:S3752—">Add a "method" parameter to this "@RequestMapping" annotation.(îÊ¿›şÿÿÿÿ8ÔÏ½Öœ.
-m
-java:S4488"JReplace "@RequestMapping(method = RequestMethod.POST)" with "@PostMapping"(€ƒ—òÿÿÿÿÿ8ÔÏ½Öœ.
-{	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ô‡Îşÿÿÿÿ8ÔÏ½Öœ.
-e
-java:S4488_"HReplace "@RequestMapping(method = RequestMethod.PUT)" with "@PutMapping"(¼·½Í8ÔÏ½Öœ.
-\
-java:S3752§">Add a "method" parameter to this "@RequestMapping" annotation.(“ÙúĞ8ÔÏ½Öœ.
-a
-java:S3752¡">Add a "method" parameter to this "@RequestMapping" annotation.(ã¶£ıÿÿÿÿ8ÔÏ½Öœ.
-[
-java:S3752Á">Add a "method" parameter to this "@RequestMapping" annotation.(¸ü8ÔÏ½Öœ.
-a
-java:S3752‘">Add a "method" parameter to this "@RequestMapping" annotation.(¯–ë³şÿÿÿÿ8ÔÏ½Öœ.
-f
-java:S1192+"IDefine a constant instead of duplicating this literal "success" 18 times.(ùØ8ÔÏ½Öœ.
-f
-java:S4488™"HReplace "@RequestMapping(method = RequestMethod.GET)" with "@GetMapping"(Ş®€‡8ÔÏ½Öœ.
-•
-java:S1130Î"wRemove the declaration of thrown exception 'javax.servlet.ServletException', as it cannot be thrown from method's body.(£¦†Ô8ÔÏ½Öœ.
-C
-java:S10758"&Remove this hard-coded path-delimiter.(Ÿ•øœ8ÔÏ½Öœ.
-f
-java:S4488ô"HReplace "@RequestMapping(method = RequestMethod.PUT)" with "@PutMapping"(Ï¬Äƒ8ÔÏ½Öœ.
-R
-java:S3752œ"/Consider narrowing this list of methods to one.(õ¹éàıÿÿÿÿ8ÔÏ½Öœ.
-k
-java:S4488x"NReplace "@RequestMapping(method = RequestMethod.DELETE)" with "@DeleteMapping"(§è´Ì8ÔÏ½Öœ.
-a
-java:S3752å">Add a "method" parameter to this "@RequestMapping" annotation.(ú§¶êÿÿÿÿÿ8ÔÏ½Öœ.
-a
-java:S3752¡">Add a "method" parameter to this "@RequestMapping" annotation.(¼Èğíúÿÿÿÿ8ÔÏ½Öœ.
-l
-java:S2674M"JCheck the return value of the "read" call to see how many bytes were read.(éå’•ûÿÿÿÿ8ÔÏ½Öœ.
-a
-java:S3752­">Add a "method" parameter to this "@RequestMapping" annotation.(úş¡Åüÿÿÿÿ8ÔÏ½Öœ.
-h
-java:S4488ü"JReplace "@RequestMapping(method = RequestMethod.POST)" with "@PostMapping"(Úü¦‘8ÔÏ½Öœ.
-[
-java:S3752F">Add a "method" parameter to this "@RequestMapping" annotation.(Ì™§ö8ÔÏ½Öœ.
-[
-java:S3752X">Add a "method" parameter to this "@RequestMapping" annotation.(Óê÷Ñ8ÔÏ½Öœ.
-`
-java:S3752/">Add a "method" parameter to this "@RequestMapping" annotation.(Íè­Áùÿÿÿÿ8ÔÏ½Öœ.
-a
-java:S3752Í">Add a "method" parameter to this "@RequestMapping" annotation.(½÷×¿ÿÿÿÿÿ8ÔÏ½Öœ.
 q
 java:S4488ƒ"NReplace "@RequestMapping(method = RequestMethod.DELETE)" with "@DeleteMapping"(ŠØûŸúÿÿÿÿ8ÔÏ½Öœ.
+h
+java:S4488ü"JReplace "@RequestMapping(method = RequestMethod.POST)" with "@PostMapping"(Úü¦‘8ÔÏ½Öœ.
+l
+java:S2674M"JCheck the return value of the "read" call to see how many bytes were read.(éå’•ûÿÿÿÿ8ÔÏ½Öœ.
 f
 java:S4488‹"HReplace "@RequestMapping(method = RequestMethod.GET)" with "@GetMapping"(£¢°Å8ÔÏ½Öœ.
-\
-java:S3752·">Add a "method" parameter to this "@RequestMapping" annotation.(ª’Éç8ÔÏ½Öœ.
-a
-java:S3752ì">Add a "method" parameter to this "@RequestMapping" annotation.(®Ò“öúÿÿÿÿ8ÔÏ½Öœ.
-\
-java:S3752Ş">Add a "method" parameter to this "@RequestMapping" annotation.(¼æÚİ8ÔÏ½Öœ.
+m
+java:S4488"JReplace "@RequestMapping(method = RequestMethod.POST)" with "@PostMapping"(€ƒ—òÿÿÿÿÿ8ÔÏ½Öœ.
+f
+java:S1192+"IDefine a constant instead of duplicating this literal "success" 18 times.(ùØ8ÔÏ½Öœ.
+{	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ô‡Îşÿÿÿÿ8ÔÏ½Öœ.
+C
+java:S10758"&Remove this hard-coded path-delimiter.(Ÿ•øœ8ÔÏ½Öœ.
+e
+java:S4488_"HReplace "@RequestMapping(method = RequestMethod.PUT)" with "@PutMapping"(¼·½Í8ÔÏ½Öœ.
+k
+java:S4488x"NReplace "@RequestMapping(method = RequestMethod.DELETE)" with "@DeleteMapping"(§è´Ì8ÔÏ½Öœ.
+f
+java:S4488™"HReplace "@RequestMapping(method = RequestMethod.GET)" with "@GetMapping"(Ş®€‡8ÔÏ½Öœ.
+f
+java:S4488ô"HReplace "@RequestMapping(method = RequestMethod.PUT)" with "@PutMapping"(Ï¬Äƒ8ÔÏ½Öœ.
+e
+java:S4488f"HReplace "@RequestMapping(method = RequestMethod.GET)" with "@GetMapping"(‹©¹Ã8ÔÏ½Öœ.
+•
+java:S1130Î"wRemove the declaration of thrown exception 'javax.servlet.ServletException', as it cannot be thrown from method's body.(£¦†Ô8ÔÏ½Öœ.
+f
+java:S4488Š"HReplace "@RequestMapping(method = RequestMethod.GET)" with "@GetMapping"(®¶‹8ÔÏ½Öœ.
