@@ -12,7 +12,6 @@ public class HeapSort {
         for (int i = 0; i < 80000000; i++) {
             arr[i] = (int)(Math.random() * 8000000); // 会生成[0,8000000)的数
         }
-
         Date date1 = new Date();
         SimpleDateFormat simpleDateFormat = new SimpleDateFormat("yyyy-MM-dd HH:mm:ss");
         String datestr1 = simpleDateFormat.format(date1);
@@ -26,13 +25,6 @@ public class HeapSort {
     // 编写一个堆排序的方法
     public static void headSort(int arr[]) {
         int temp = 0;
-//        System.out.println("堆排序");
-        // 分步完成
-//        adjustHeap(arr, 1, arr.length);
-//        System.out.println("第一次" + Arrays.toString(arr));
-//        adjustHeap(arr,0,arr.length);
-//        System.out.println("第二次" + Arrays.toString(arr));
-        // 完成最终代码
         // 1、将无序序列构建成一个堆，根据升序降序需求选择大顶堆或者小顶堆
         for (int i = arr.length / 2 - 1; i >= 0; i--) {
             adjustHeap(arr, i, arr.length);
@@ -46,7 +38,6 @@ public class HeapSort {
             arr[0] = temp;
             adjustHeap(arr, 0, j);
         }
-//        System.out.println(Arrays.toString(arr));
     }
 
     // 将一个数组（二叉树），调整成一个大顶堆
