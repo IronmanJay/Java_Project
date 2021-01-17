@@ -142,7 +142,7 @@
     <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.37260678" />
-    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+    <property name="settings.editor.selected.configurable" value="settings.github" />
     <property name="settings.editor.splitter.proportion" value="0.21428572" />
   </component>
   <component name="RecentsManager">
@@ -1055,13 +1055,7 @@
       <workItem from="1610722613855" duration="1352000" />
       <workItem from="1610806422717" duration="3561000" />
       <workItem from="1610848672425" duration="564000" />
-    </task>
-    <task id="LOCAL-00104" summary="2020.06.22">
-      <created>1592788968170</created>
-      <option name="number" value="00104" />
-      <option name="presentableId" value="LOCAL-00104" />
-      <option name="project" value="LOCAL" />
-      <updated>1592788968171</updated>
+      <workItem from="1610849278419" duration="206000" />
     </task>
     <task id="LOCAL-00105" summary="2020.06.22">
       <created>1592789564042</created>
@@ -1399,7 +1393,14 @@
       <option name="project" value="LOCAL" />
       <updated>1610849219998</updated>
     </task>
-    <option name="localTasksCounter" value="153" />
+    <task id="LOCAL-00153" summary="2021-01-17">
+      <created>1610849416493</created>
+      <option name="number" value="00153" />
+      <option name="presentableId" value="LOCAL-00153" />
+      <option name="project" value="LOCAL" />
+      <updated>1610849416493</updated>
+    </task>
+    <option name="localTasksCounter" value="154" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -1438,10 +1439,10 @@
     <option name="LAST_COMMIT_MESSAGE" value="2021-01-17" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="295" y="0" key="CommitChangelistDialog2" timestamp="1610849205787">
+    <state x="295" y="0" key="CommitChangelistDialog2" timestamp="1610849405533">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state x="295" y="0" key="CommitChangelistDialog2/0.0.1536.834@0.0.1536.834" timestamp="1610849205787" />
+    <state x="295" y="0" key="CommitChangelistDialog2/0.0.1536.834@0.0.1536.834" timestamp="1610849405533" />
     <state x="117" y="144" key="FileChooserDialogImpl" timestamp="1610848759631">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
@@ -1478,13 +1479,13 @@
       <screen x="0" y="0" width="1536" height="834" />
     </state>
     <state width="1492" height="295" key="GridCell.Tab.1.right/0.0.1536.834@0.0.1536.834" timestamp="1608090254948" />
-    <state x="176" y="0" width="1016" height="834" key="SettingsEditor" timestamp="1610849251812">
+    <state x="176" y="0" width="1016" height="834" key="SettingsEditor" timestamp="1610849489563">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state x="176" y="0" width="1016" height="834" key="SettingsEditor/0.0.1536.834@0.0.1536.834" timestamp="1610849251812" />
-    <state x="361" y="146" key="Vcs.Push.Dialog.v2" timestamp="1610723022513">
+    <state x="176" y="0" width="1016" height="834" key="SettingsEditor/0.0.1536.834@0.0.1536.834" timestamp="1610849489563" />
+    <state x="361" y="146" key="Vcs.Push.Dialog.v2" timestamp="1610849422178">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state x="361" y="146" key="Vcs.Push.Dialog.v2/0.0.1536.834@0.0.1536.834" timestamp="1610723022513" />
+    <state x="361" y="146" key="Vcs.Push.Dialog.v2/0.0.1536.834@0.0.1536.834" timestamp="1610849422178" />
   </component>
 </project>
