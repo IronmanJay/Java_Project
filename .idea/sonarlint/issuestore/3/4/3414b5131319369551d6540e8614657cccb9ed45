@@ -1,14 +1,10 @@
 
-
-java:S1319}"mThe type of the "ps" object should be an interface such as "List" rather than the implementation "ArrayList".(úÅµ‚ıÿÿÿÿ8ä“Ğ‹.
-J
-java:S1604~"(Make this anonymous inner class a lambda(®­ö şÿÿÿÿ8ƒÿ”Ğ‹.
-i
-java:S3008"LRename this field "X" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ö­Ò³8½‡§Î‹.
-
-java:S1319Q"pThe return type of this method should be an interface such as "List" rather than the implementation "ArrayList".(´ë×ß8ÓÊÕÏ‹.
 o
 java:S3776Q"RRefactor this method to reduce its Cognitive Complexity from 16 to the 15 allowed.(´ë×ß8ÓÊÕÏ‹.
+
+java:S1319}"mThe type of the "ps" object should be an interface such as "List" rather than the implementation "ArrayList".(úÅµ‚ıÿÿÿÿ8ä“Ğ‹.
+
+java:S1319Q"pThe return type of this method should be an interface such as "List" rather than the implementation "ArrayList".(´ë×ß8ÓÊÕÏ‹.
+J
+java:S1604~"(Make this anonymous inner class a lambda(®­ö şÿÿÿÿ8ƒÿ”Ğ‹.
 t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(íÓ§íúÿÿÿÿ
-i
-java:S3008	"LRename this field "Y" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÂÔÙ¡8½‡§Î‹.

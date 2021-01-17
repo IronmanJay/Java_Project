@@ -7,16 +7,16 @@ import java.util.List;
 public class Huffmantree {
 
     public static void main(String[] args) {
-        int arr[] = {13, 7, 8, 3, 29, 6, 1};
+        int arr[] = {13, 7, 8, 3};
         Node root = createHuffmanTree(arr);
         preOrder(root);
     }
 
     // 编写一个前序遍历的方法
-    public static void preOrder(Node root){
-        if(root != null){
+    public static void preOrder(Node root) {
+        if (root != null) {
             root.preOrder();
-        }else {
+        } else {
             System.out.println("空树，不能遍历");
         }
     }
