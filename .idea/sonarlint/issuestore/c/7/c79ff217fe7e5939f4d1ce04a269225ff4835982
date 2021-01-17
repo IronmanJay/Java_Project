@@ -1,6 +1,6 @@
 
+o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(·Å“¡
 {
 java:S1210X"YOverride "equals(Object obj)" to comply with the contract of the "compareTo(T o)" method.(áÂ¦ÿÿÿÿÿ8ûˆÊˆ.
 {
-java:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(¬­ÚÉÿÿÿÿÿ8¶‚”Êˆ.
-o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(·Å“¡
+java:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(¬­ÚÉÿÿÿÿÿ8éÖÆğğ.
