@@ -1,19 +1,19 @@
 
+P
+java:S1144û"-Remove this unused private "preOrder" method.(ÕŞëüÿÿÿÿ8üÀòœ‰.
+z	java:S127‹"XRefactor the code in order to not assign to this loop counter from within the loop body.(¿ı£şÿÿÿÿ8üÀòœ‰.
+g
+java:S2674P"JCheck the return value of the "read" call to see how many bytes were read.(Êûÿ8üÀòœ‰.
 |
 java:S2293…"YReplace the type specification in this constructor call with the diamond operator ("<>").(Èòƒ­ùÿÿÿÿ8üÀòœ‰.
 t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(À–ÛÍùÿÿÿÿ
-v
-java:S2293u"YReplace the type specification in this constructor call with the diamond operator ("<>").(Ë³£8üÀòœ‰.
-P
-java:S1144û"-Remove this unused private "preOrder" method.(ÕŞëüÿÿÿÿ8üÀòœ‰.
-g
-java:S2674P"JCheck the return value of the "read" call to see how many bytes were read.(Êûÿ8üÀòœ‰.
 L
 java:S2093'"*Change this "try" to a try-with-resources.(¡»¢üùÿÿÿÿ8Î²ñœ‰.
-L
-java:S2093J"*Change this "try" to a try-with-resources.(¡»¢üùÿÿÿÿ8üÀòœ‰.
+v
+java:S2293u"YReplace the type specification in this constructor call with the diamond operator ("<>").(Ë³£8üÀòœ‰.
 w
 java:S2293Ø"YReplace the type specification in this constructor call with the diamond operator ("<>").(î†é8üÀòœ‰.
 |
 java:S1210½"YOverride "equals(Object obj)" to comply with the contract of the "compareTo(T o)" method.(áÂ¦ÿÿÿÿÿ8üÀòœ‰.
-z	java:S127‹"XRefactor the code in order to not assign to this loop counter from within the loop body.(¿ı£şÿÿÿÿ8üÀòœ‰.
+L
+java:S2093J"*Change this "try" to a try-with-resources.(¡»¢üùÿÿÿÿ8üÀòœ‰.
